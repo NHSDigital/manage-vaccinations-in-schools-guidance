@@ -1,0 +1,42 @@
+{% extends "default.njk" %}
+
+{% from "breadcrumb/macro.njk" import breadcrumb %}
+{% from "pagination/macro.njk" import pagination %}
+{% from "contents-list/macro.njk" import contentsList %}
+
+{% set previous = collections.guide | getPreviousCollectionItem %}
+{% set next = collections.guide | getNextCollectionItem %}
+
+{% block beforeContent %}
+  {{ breadcrumb({
+    items: [
+      {
+        href: "/",
+        text: "Home"
+      }
+    ],
+    href: parent.url,
+    text: parent.data.title
+  }) if parent }}
+{% endblock %}
+
+{% block content %}
+<div class="nhsuk-u-reading-width">
+  <h1 class="nhsuk-heading-xl">
+    {{ title }}
+  </h1>
+
+  {{ contentsList({
+    items: collections.guide | eleventyNavigation | itemsFromNavigation(page.url)
+  }) }}
+
+  {{ content | safe }}
+
+  {{ pagination({
+    previousUrl: previous.url if previous,
+    previousPage: previous.data.title if previous,
+    nextUrl: next.url if next,
+    nextPage: next.data.title if next
+  }) }}
+</div>
+{% endblock %}

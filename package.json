@@ -1,0 +1,24 @@
+{
+  "name": "manage-vaccinations-in-schools-guidance",
+  "version": "1.0.0",
+  "description": "Guidance for the Manage vaccinations in schools service",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy --quiet",
+    "start": "eleventy --serve --quiet",
+    "lint:prettier": "prettier . --check",
+    "lint:prettier:fix": "prettier . --write"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@x-govuk/govuk-eleventy-plugin": "^6.6.1",
+    "nhsuk-frontend": "^9.0.1",
+    "sass": "^1.80.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "private": true,
+  "type": "module"
+}
