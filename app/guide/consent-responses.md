@@ -40,15 +40,6 @@ Mavis lets you review consent responses for each session.
 5. If you believe it is a match, click **Link response with record**.
 6. If you cannot find a match, you can go back to the **Responses** page and click **Create record** to create a new child record.
 
-## Sending ad-hoc reminders
-
-1. From the **Check consent responses** page, go into the **No response** tab
-2. Go to into a child record by clicking on their name
-3. Make sure a reminder hasn’t been sent recently (Mavis will tell you if one has)
-4. Click on **Send reminder**
-
-Note that it’s not currently possible to send ad-hoc reminders in bulk.
-
 ## Recording verbal consent from a parent before a session starts
 
 1. From the **Check consent responses** page, go into the **No response** tab.
