@@ -56,12 +56,6 @@ Note that it’s not currently possible to send ad-hoc reminders in bulk.
 6. Record their response.
 7. Check and confirm their answers, and select **Save changes**.
 
-## Adding a note to a refusal
-
-1. From the **Check consent responses** page, go into the **Refused** tab. You can see the reasons for refusal listed here.
-2. To add a note, go to the Consent response card at the bottom of the screen and click on the parent’s name.
-3. Click on **Add notes** and then leave any relevant notes before saving.
-
 ## Investigating conflicting consent
 
 1. From the **Check consent responses** page, go into the **Conflicts** tab.
