@@ -7,6 +7,8 @@ eleventyComputed:
     key: Paper-based forms
 ---
 
+## Downloading a paper-based consent form
+
 If you receive a request to send a parent a paper-based consent form, you:
 
 1. Go to **Sessions**, then the **Scheduled** tab.
@@ -15,6 +17,8 @@ If you receive a request to send a parent a paper-based consent form, you:
 4. You can then print the form off and send it to the parent who requested it.
 
 ![Screenshot of a session overview page.](/assets/images/session.png)
+
+## Entering a consent response from a paper form
 
 Once the parent returns the form, you can enter the information given using the Get consent flow.
 
