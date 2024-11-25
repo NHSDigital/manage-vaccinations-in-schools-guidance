@@ -61,6 +61,5 @@ Note that it’s not currently possible to send ad-hoc reminders in bulk.
 1. From the **Check consent responses** page, go into the **Conflicts** tab.
 2. If you click on the child’s record and scroll down, you’ll see who has said what in their consent responses.
 3. Click on the name of the parent who refused.
-4. You can either mark that response as invalid (exercise caution here), or you can click on **Follow up** to see the parent’s contact details.
-5. Once you’ve spoken to the refuser, use the radio buttons to indicate whether their original decision stands or not.
-6. If they now give consent, you’ll need to go through a consent flow over the phone.
+4. You can either mark that response as invalid (exercise caution here), or you can follow-up with the parent by returning to the child's record to see the parent’s contact details.
+5. When speaking to the refuser, if they now give consent, you’ll need to go through the "Get consent response" flow over the phone.
