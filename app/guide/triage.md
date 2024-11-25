@@ -13,4 +13,4 @@ order: 23
 
 5. To work through the **Triage needed** tab, click on the name of the child whose record you want to triage.
 6. Review the parent’s answers to health questions.
-7. Use the radio buttons to indicate whether you think it’s safe to vaccinate the child.
+7. Use the radio buttons to indicate whether you think it’s safe to vaccinate the child. You can also add notes to triage decision if needed.
