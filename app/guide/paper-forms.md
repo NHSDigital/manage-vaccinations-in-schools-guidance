@@ -22,7 +22,6 @@ Once the parent returns the form, you can enter the information given using the 
 2. Go to into a child record by clicking on their name.
 3. Scroll down and select **Get consent response**.
 4. Use the radio button to indicate who’s responded.
-5. Go through the consent flow.
-6. On the **Check and confirm** page, change the response method to **Paper form**.
+5. Go through the consent flow, making sure to select **Paper** as the way the response was given.
 
-![Screenshot of a check and confirm page for a new consent response.](/assets/images/session-response-edit.png)
+![Screenshot of selecting paper as the response method.](/assets/images/consent-response-paper.png 'Make sure to select paper as the response method when entering a consent response from a paper form.')
