@@ -28,14 +28,17 @@ Mavis lets you review consent responses for each session.
 
 ## Reviewing unmatched consent responses
 
-![Screenshot of linking a consent response to a child record.](/assets/images/consents-link.png 'Mavis lets you link an unmatched consent response to an existing child record.')
+![Screenshot of a list of unmatched consent responses.](/assets/images/consent-unmatched.png 'Mavis helps you review unmatched consent responses.')
 
-1. Go to **Review unmatched consent responses**.
-2. Try to match with an existing record first by clicking on Match with record.
-3. Search by name or postcode.
-4. If you think you’ve found a match, click on the child’s name.
+1. Go to the top-level **Responses** page.
+2. Try to match an unmatched consent response with an existing record first by clicking on **Match with record**.
+3. Look for a child in the cohort that matches the consent response. You can search by name or postcode.
+4. If you think you’ve found a match, click the **Select** action for the child.
+
+![Screenshot of a potential match for an unmatched consent response.](/assets/images/consent-link.png 'Mavis makes it easy to compare a consent response with a child record.')
+
 5. If you believe it is a match, click **Link response with record**.
-6. If you cannot find a match, you can go back to the **Review unmatched consent responses** page and create a new child record.
+6. If you cannot find a match, you can go back to the **Responses** page and click **Create record** to create a new child record.
 
 ## Sending ad-hoc reminders
 
