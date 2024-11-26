@@ -61,7 +61,7 @@ When you’re uploading vaccination records, use the same template you’d use f
 
 You should also include vaccination records for anyone in the current cohort who was vaccinated elsewhere, if you have them. These records will be stored in Mavis and won’t be sent anywhere else.
 
-Make sure the vaccination records are in the format shown in the template above. Files need to be in .csv format. Records can be all in one file, or split across multiple files; Mavis is not picky about this. If you have an excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
+Vaccination record files need to be in .csv format. Records can be all in one file, or split across multiple files; Mavis is not picky about this. If you have an excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
 
 1. Go to **Programmes**.
 2. Select the programme you want.
