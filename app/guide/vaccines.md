@@ -18,7 +18,7 @@ To edit a batch:
 2. Find the relevant vaccine type and batch ID and select **Change**.
 3. Make your edits and save the changes.
 
-To archive a batch:
+Archiving a batch will remove it from the list of vaccines available to nurses when recording vaccinations. To archive a batch:
 
 1. From the dashboard, go to **Vaccines**.
 2. Find the relevant vaccine type and batch ID and select **Archive**.
