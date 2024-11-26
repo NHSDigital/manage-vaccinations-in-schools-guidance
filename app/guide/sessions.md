@@ -19,6 +19,6 @@ You should only schedule sessions after you’ve uploaded vaccination records an
 
 6. Enter dates for all the sessions scheduled at that location.
 7. Check if you’re happy with the dates given for consent requests to go out; if you want to change this, use the **Change** link.
-8. Check if you’re happy with the frequency of consent reminders; if you want to change this, use the **Change** link.
+8. Check if you’re happy with when consent reminders are sent; if you want to change this, use the **Change** link.
 
 ![Screenshot of session edit screen with session dates added.](/assets/images/session-edit-with-dates.png 'Adjust when consent requests and reminders are sent.')
