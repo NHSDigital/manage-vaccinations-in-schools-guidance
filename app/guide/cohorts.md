@@ -1,7 +1,7 @@
 ---
 title: Managing the cohort
 group: Programmes
-order: 12
+order: 11
 eleventyComputed:
   eleventyNavigation:
     key: Managing cohorts

@@ -1,7 +1,7 @@
 ---
 title: Checking important notices
 group: Setup
-order: 15
+order: 3
 eleventyComputed:
   eleventyNavigation:
     key: Important notices
