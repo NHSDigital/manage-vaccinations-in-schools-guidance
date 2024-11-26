@@ -1,6 +1,6 @@
 ---
 title: Managing the cohort
-group: Setup
+group: Programmes
 order: 12
 eleventyComputed:
   eleventyNavigation:
