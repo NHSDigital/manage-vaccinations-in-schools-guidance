@@ -30,7 +30,14 @@ To add or amend dates for community clinics:
 
 ## Inviting parents to book slots
 
-Once a child is added to the cohort for community clinics, their parent or guardian will receive an email (and potentially a text) inviting them to book a clinic slot through your local booking system. This email will either go out three weeks before the date of the first clinic scheduled, or immediately if they’re added to the cohort less than three weeks before the date of the first clinic.
+Once a child is added to the cohort for community clinics, their parent or guardian will receive an email (and potentially a text) inviting them to book a clinic slot through your local booking system. 
+
+This email will either go out: 
+
+- three weeks before the date of the first clinic scheduled, or
+- at 9am the day after the child is added to the community clinics cohort, if this happens less than three weeks before the date of the first clinic.
+
+If the child is still in the cohort for community clinics three weeks before the second clinic, the parent or guardian will get another email inviting them to book in for that clinic. This will keep happening until three weeks before the last scheduled clinic session, unless a child has consent, in which case subsequent invitations won’t be sent.
 
 To check whether an invitation email has been sent:
 
