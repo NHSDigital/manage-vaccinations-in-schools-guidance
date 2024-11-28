@@ -17,8 +17,10 @@ It also helps users to download a record of vaccines performed in a given period
 
 To download vaccination records:
 
-1. Go to the **Overview** page for a programme.
-2. Click **Download vaccination report**.
-3. Select the date range you want to download records for.
-4. Select the file format (CarePlus or CSV) you'd like to use for the download.
-5. Click **Continue** to download the report.
+1. Go to **Programmes**.
+2. Select the programme you want to download a report for.
+3. Click on **Download vaccination report**.
+4. Enter a date range you want to download records for.
+5. Click **Continue**.
+6. Select the file format (CarePlus or CSV) you’d like to use for the download.
+7. Click **Continue** to download the report.
