@@ -23,4 +23,5 @@ To download vaccination records:
 4. Enter a date range you want to download records for.
 5. Click **Continue**.
 6. Select the file format (CarePlus or CSV) you’d like to use for the download.
+   - **CarePlus** format downloads only include vaccinations given whereas the Mavis **CSV** format download also includes entries for children in the cohort who weren’t vaccinated.
 7. Click **Continue** to download the report.
