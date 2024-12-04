@@ -1,7 +1,7 @@
 ---
 title: Managing users
 group: Setup
-order: 1
+order: 2
 ---
 
 Before using Mavis, users need to be given an appropriate role and workgroup. This can be done using the [Care Identity Management](https://manage-care-identities.care-identity-service2.nhs.uk/) service.

@@ -1,7 +1,7 @@
 ---
 title: Managing vaccines
 group: Setup
-order: 2
+order: 3
 ---
 
 ![Screenshot of vaccines page.](/assets/images/vaccines.png)
