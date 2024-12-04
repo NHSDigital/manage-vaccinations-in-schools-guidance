@@ -10,7 +10,7 @@ homepage: true
 {% from "action-link/macro.njk" import actionLink %}
 {{ actionLink({
   text: "User guide",
-  href: "/guide/users/"
+  href: "/guide/about-mavis/"
 }) }}
 
 {# actionLink({
