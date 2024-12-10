@@ -36,7 +36,7 @@ In Mavis:
 
 ## Reviewing children who have moved schools
 
-When importing class lists Mavis will automatically identify any changes in a child’s school in relation to the child record in the system and raise these on the School moves page.
+When importing class lists Mavis will automatically identify any changes in a child’s school in relation to their existing record and raise it on the **School moves** page.
 
 ![Screenshot of page showing children who have moved school.](/assets/images/school-move-list.png 'Mavis shows a list of all the children who have moved school.')
 
