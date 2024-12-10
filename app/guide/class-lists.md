@@ -17,8 +17,6 @@ Class lists from each school can be uploaded using the following template:
 
 Class lists for each school are uploaded separately, and each school can only have one class list.
 
-Mavis will identify any children not present in the class list as movers out and prompt you to remove them from the school. This will record their new school as unknown until they appear in another school list.
-
 ## Uploading a class list file
 
 First, you need to reformat the class list provided by the school ready for upload:
@@ -38,10 +36,15 @@ In Mavis:
 
 ## Reviewing children who have moved schools
 
-![Screenshot of page showing children who have moved into a school.](/assets/images/session-moved-in.png 'Mavis shows a list of all the children who appeared in the school list, but weren’t in the cohort for that school before.')
+When importing class lists Mavis will automatically identify any changes in a child’s school in relation to the child record in the system and raise these on the School moves page.
 
-1. Go to **Review children who have changed schools**.
-2. Go to the **Moved in** tab.
-3. Confirm or ignore the change of school for each child as appropriate.
-4. Go to the **Moved out** tab. Mavis shows a list of all the children who were at the school in the cohort list, but weren’t in the class list.
-5. Confirm or ignore the change of school for each child as appropriate.
+![Screenshot of page showing children who have moved school.](/assets/images/school-move-list.png 'Mavis shows a list of all the children who have moved school.')
+
+1. Go to **School moves** in the main navigation.
+2. Click **Review** against a school move.
+3. Check the information provided: the new school is shown on the left with the updated information highlighted.
+4. Confirm or ignore the change of school for each child as appropriate.
+
+![Screenshot of a school move review page.](/assets/images/school-move-review.png 'Mavis will show you the new school and the updated information for each child.')
+
+
