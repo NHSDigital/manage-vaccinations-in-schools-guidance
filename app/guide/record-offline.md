@@ -19,6 +19,13 @@ To download the spreadsheet for a session:
 5. Save this locally.
 6. Once downloaded, a copy of the spreadsheet should be shared with all the nurses and admins attending the session.
 
+![Screenshot of the offline recording spreadsheet.](/assets/images/offline-spreadsheet.png)
+
+Rows in the spreadsheet can be given a colour to indicate the child's consent status:
+
+- **Red** indicates that consent has been refused.
+- **Orange** indicates that the child has conflicting consent.
+
 ## Recording a vaccination offline
 
 To prepare to vaccinate a child:
@@ -30,20 +37,16 @@ To prepare to vaccinate a child:
 
 To record a vaccination offline if the child was vaccinated:
 
-1. Enter ‘Y’ in the vaccinated column.
+1. Choose ‘Y’ from the dropdown menu in the vaccinated column.
 2. Enter the date and time of the vaccination (in the format YYYYMMDD and HH:MM:SS) and your email address in the relevant columns.
-3. Enter the details of the vaccine and the batch used in the relevant columns.
+3. Choose the correct details for the vaccine and the batch used in the relevant columns using the dropdown menus.
+4. Any notes about the vaccination should be added to the notes column.
 
 If a child was not vaccinated:
 
-1. Enter ‘N’ in the vaccinated column.
-2. Enter the reason why the vaccine was not performed in the relevant column. Accepted reasons are:
-   - absent from school
-   - already had elsewhere
-   - did not attend
-   - refused
-   - unwell
-   - vaccination contraindicated
+1. Choose ‘N’ from the dropdown menu in the vaccinated column.
+2. Choose the correct reason why the vaccine was not performed in the relevant column using the dropdown menu.
+3. Any notes about the vaccination should be added to the notes column.
 
 ### Entering valid information
 
