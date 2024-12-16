@@ -21,10 +21,12 @@ Mavis lets you review consent responses for each session.
 
 ## Reviewing children who’ve changed schools
 
-1. Go to **Review children who have changed schools**.
-2. Use the actions list to either confirm or ignore the move.
+When a parent submits a consent response, they can also let Mavis know that a child’s school has changed.
 
-![Screenshot of confirming or ignoring a move of a child between schools.](/assets/images/session-change-schools.png 'Mavis lets you confirm or ignore a move of a child between schools.')
+To review a child changing school, follow the instructions on this page of the user guide:
+
+* [Reviewing school moves](/guide/school-moves)
+
 
 ## Reviewing unmatched consent responses
 

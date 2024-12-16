@@ -36,15 +36,8 @@ In Mavis:
 
 ## Reviewing children who have moved schools
 
-When importing class lists Mavis will automatically identify any changes in a child’s school in relation to their existing record and raise it on the **School moves** page.
+When importing class lists, Mavis will automatically identify if a child’s school has changed and raise this on the School moves page.
 
-![Screenshot of page showing children who have moved school.](/assets/images/school-move-list.png 'Mavis shows a list of all the children who have moved school.')
+To review a child changing school, follow the instructions on this page of the user guide:
 
-1. Go to **School moves** in the main navigation.
-2. Click **Review** against a school move.
-3. Check the information provided: the new school is shown on the left with the updated information highlighted.
-4. Confirm or ignore the change of school for each child as appropriate.
-
-![Screenshot of a school move review page.](/assets/images/school-move-review.png 'Mavis will show you the new school and the updated information for each child.')
-
-
+* [Reviewing school moves](/guide/school-moves)
