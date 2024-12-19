@@ -26,6 +26,8 @@ The HPV vaccine works best if it’s given before young people become sexually a
 
 [Find out more about the HPV vaccine on NHS.UK](https://www.nhs.uk/conditions/vaccinations/hpv-human-papillomavirus-vaccine/)
 
+[Read the patient information leaflet (PDF)](https://www.medicines.org.uk/emc/files/pil.7330.pdf)
+
 ### Please give or refuse consent
 
 ==Consent URL==
