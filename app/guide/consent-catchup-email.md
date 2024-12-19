@@ -1,12 +1,14 @@
 ---
 layout: email
-title: Consent request
+title: Consent catch-up request
 group: Email templates
 subject: HPV vaccination on ==next session dates==
 order: 40
 ---
 
 Our team is coming to ==location name== on ==next session dates== to give the human papillomavirus (HPV) vaccine.
+
+Our records show your child has not had their HPV vaccination. Pupils usually have this when they’re in Year 8.
 
 ### What the vaccine is for
 
@@ -31,7 +33,7 @@ Responding will take less than 5 minutes. If you do not give consent, it’s sti
 
 ### Your data
 
-By responding, you’re agreeing to your data being processed as set out in our privacy notice: ==Privacy notice URL==.
+By responding, you’re agreeing to your data being processed as set out in our privacy notice: ==privacy notice URL==.
 
 ### About the HPV vaccine
 
