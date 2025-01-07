@@ -113,6 +113,10 @@ Once you have confirmed that the cohort is successfully uploaded, you can procee
 - [Scheduling school sessions](/guide/sessions/)
 - [Adding class lists](/guide/class-lists/)
 
+## Handling out-of-year-group children
+
+{% include "fragments/out-of-year-group-children.md" %}
+
 ## Manually editing individual child records
 
 1. Go to **Children**.

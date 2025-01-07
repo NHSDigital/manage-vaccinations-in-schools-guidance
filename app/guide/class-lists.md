@@ -4,6 +4,8 @@ group: Sessions
 order: 29
 ---
 
+[[toc]]
+
 To ensure you have an accurate cohort before a school session, Mavis allows you to import individual school class lists. Mavis will update the cohort list with any contact details provided and automatically identify and movers in and out. 
 
 Class lists from each school can be uploaded using the following template:
@@ -41,3 +43,7 @@ When importing class lists, Mavis will automatically identify if a child’s sch
 To review a child changing school, follow the instructions on this page of the user guide:
 
 * [Reviewing school moves](/guide/school-moves)
+
+## Handling out-of-year-group children
+
+{% include "fragments/out-of-year-group-children.md" %}
