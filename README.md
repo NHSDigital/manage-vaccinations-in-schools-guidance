@@ -8,6 +8,12 @@ Content lives within the [app](./app) folder as Markdown files.
 
 The website is built using the [Eleventy](https://www.11ty.dev) static site generator, and hosted using [GitHub Pages](https://pages.github.com).
 
+## Updating content
+
+The canonical source of content for the user guide is a Google Doc. This document should be edited first and any changes reviewed if necessary before the user guide is updated.
+
+The canonical source of content for the XLSX file download templates is Microsoft SharePoint. These documents should be edited first before downloading and updating the files in this repository.
+
 ## Running locally
 
 First install [Node.js](https://nodejs.org/en).
