@@ -16,7 +16,7 @@ Cohort records can be uploaded using the following template:
 Make sure the cohort records are in the format shown in the template above. Files need to be in .csv format. Records can be all in one file, or split across multiple files; Mavis is not picky about this. If you have an excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
 
 1. Go to **Programmes**.
-2. Go to **HPV**.
+2. Go to any of the vaccination programmes, for example **HPV**.
 3. Go to the **Cohorts** tab.
 
 ![Screenshot of programme cohorts tab.](/assets/images/programme-cohorts.png 'Mavis shows the number of children within each programme cohort.')

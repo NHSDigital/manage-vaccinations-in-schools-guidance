@@ -12,7 +12,7 @@ eleventyComputed:
   html: "Only <a href='/guide/users/#superusers'>superusers</a> can view important notices."
 }) }}
 
-Whenever you log in to Mavis, you should go to **Notices** to see if there’s anything you need to be aware of.
+Whenever you log in to Mavis, you should go to **Import** and then **Important Notices** to see if there’s anything you need to be aware of.
 
 ![Screenshot of important notices page.](/assets/images/notices.png)
 

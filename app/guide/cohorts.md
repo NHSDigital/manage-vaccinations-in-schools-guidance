@@ -18,7 +18,7 @@ Mavis can be used in one of two ways:
 
 Mavis works better, particularly for reporting and monitoring uptake, when complete, age-based cohorts are imported before the programme begins.
 
-To use Mavis with complete cohorts, as well as importing cohort details, you will also need to upload historic vaccination records for year 9 - 11s vaccinated in previous academic years. If these cannot be imported into Mavis, then you can set up Mavis with records for just the unvaccinated cohorts.
+To use Mavis with complete cohorts, as well as importing cohort details, you will also need to upload historic vaccination records for year 9 to 11s vaccinated in previous academic years. If these cannot be imported into Mavis, then you can set up Mavis with records for just the unvaccinated cohorts.
 
 ## Setting up complete, age-based cohorts in Mavis
 
@@ -78,9 +78,9 @@ If there are some parts of each that are correct, you can note down any correct 
 
 ### Checking cohorts and what to do next
 
-Once you have uploaded all the cohort files and vaccination records, you can go to the **Cohorts** tab and check the counts for each year group show the number of children who need to be vaccinated in this programme year. 
+Once you have uploaded all the cohort files and vaccination records, you can go to the **Cohorts** tab and check the counts for each year group show the number of children who need to be vaccinated in this programme year.
 
-You can also check individual children’s records by navigating to the **Children** tab. However, you won’t be able to see the children listed under their school in the sessions tab until you have scheduled at least one session at that school. 
+You can also check individual children’s records by navigating to the **Children** tab. However, you won’t be able to see the children listed under their school in the sessions tab until you have scheduled at least one session at that school.
 
 Once you have confirmed that the cohort and vaccination records are successfully uploaded, you can proceed to:
 
@@ -104,9 +104,9 @@ To upload cohort records and resolve any issues with the import, follow the inst
 
 ### Checking cohorts and what to do next
 
-Once you have uploaded all the cohort files, you can go to the Cohorts tab and check the counts for each year group are as expected. 
+Once you have uploaded all the cohort files, you can go to the Cohorts tab and check the counts for each year group are as expected.
 
-You can also check individual children’s records by navigating to the Children tab. However, you won’t be able to see the children listed under their school in the sessions tab until you have scheduled at least one session at that school. 
+You can also check individual children’s records by navigating to the Children tab. However, you won’t be able to see the children listed under their school in the sessions tab until you have scheduled at least one session at that school.
 
 Once you have confirmed that the cohort is successfully uploaded, you can proceed to:
 

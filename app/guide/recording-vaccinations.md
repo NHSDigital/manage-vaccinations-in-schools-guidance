@@ -12,7 +12,7 @@ To record a vaccination (or a vaccination that didn’t happen):
 1. Go to **Sessions**.
 2. Go to the **Today** tab.
 3. Click on the name of the school you’re attending.
-4. Click on **Record vaccinations**.
+4. Click on **Record vaccinations** under the relevant programme.
 5. Go to the **Vaccinate** tab.
 6. If you want to, you can filter the list by name or year group.
 7. Click on the name of the child in front of you.
