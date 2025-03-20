@@ -26,15 +26,14 @@ def filter_templates_by_id(all_templates, template_ids):
 def convert_to_markdown(body):
     # Replace ((...??...))
 
-    # Replace ((( with (== and ))) with ==)
-    body = re.sub(r"(\(\(\()", "(==", body)
-    body = re.sub(r"(\)\)\))", "==)", body)
+    # Replace (((...))) with (==...==)
+    body = re.sub(r"\(\(\((.*?)\)\)\)", r"(==\1==)", body)
 
-    # Replace both (( and )) with ==
-    body = re.sub(r"(\(\(|\)\))", "==", body)
+    # Replace ((...)) with ==...==
+    body = re.sub(r"\(\((.*?)\)\)", r"==\1==", body)
 
-    # Replace ^ with >
-    body = re.sub(r"\^", "> ", body)
+    # Replace ^ with > if it's at the start of a line
+    body = re.sub(r"^\^", "> ", body, flags=re.MULTILINE)
 
     return body
 
