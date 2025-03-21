@@ -13,16 +13,9 @@ DEFAULT_TEMPLATE_IDS = [
 ]
 
 
-def get_all_templates():
+def get_govuk_client():
     api_key = os.getenv('NOTIFY_API_KEY')
-    notifications_client = NotificationsAPIClient(api_key)
-
-    response = notifications_client.get_all_templates()
-    return response.get('templates', [])
-
-
-def filter_templates_by_id(all_templates, template_ids):
-    return [template for template in all_templates if template.get('id', '') in template_ids]
+    return NotificationsAPIClient(api_key)
 
 
 def convert_to_markdown(body):
@@ -53,13 +46,17 @@ def strip_square_brackets(text):
 
 
 def update_templates(template_ids, output_dir, order_start=0):
-    all_templates = get_all_templates()
-    templates = filter_templates_by_id(all_templates, template_ids)
+    notifications_client = get_govuk_client()
 
     current_order = order_start
 
-    for template in templates:
-        print(f"Updating template \"{template.get('name', '')}\"...")
+    for template_id in template_ids:
+        print(f"Updating template with ID: {template_id}")
+
+        # Get the template from GOV.UK Notify
+        template = notifications_client.get_template(
+            template_id=template_id,
+        )
 
         # Build YAML front matter
         frontmatter = {
@@ -78,7 +75,7 @@ def update_templates(template_ids, output_dir, order_start=0):
         md_content = yaml_content + "\n" + body_content
 
         # Create output file path
-        file_name = f"notify-email-{strip_square_brackets(template.get("name", "")).lower().replace(" ", "-")}.md"
+        file_name = f"notify-{template.get("type", "email")}-{strip_square_brackets(template.get("name", "")).lower().replace(" ", "-")}.md"
         output_file = os.path.join(output_dir, file_name)
 
         # Write out to file
@@ -105,7 +102,7 @@ if __name__ == '__main__':
     parser.add_argument(
         "--order_start",
         help="The starting order number for the templates.",
-        default=45
+        default=40
     )
     args = parser.parse_args()
 
