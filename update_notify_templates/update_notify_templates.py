@@ -19,6 +19,9 @@ def get_govuk_client():
 
 
 def convert_to_markdown(body):
+    # Replace CRLF with LF
+    body = body.replace("\r\n", "\n")
+
     # Replace (((...))) with (==...==)
     body = re.sub(r"\(\(\((.*?)\)\)\)", r"(==\1==)", body)
 
