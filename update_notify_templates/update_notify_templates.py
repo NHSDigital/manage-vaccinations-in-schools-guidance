@@ -7,7 +7,9 @@ import re
 load_dotenv()
 
 DEFAULT_TEMPLATE_IDS = [
-    "6aa04f0d-94c2-4a6b-af97-a7369a12f681"
+    "6aa04f0d-94c2-4a6b-af97-a7369a12f681",  # Initial consent request for HPV
+    "ceefd526-d44c-4561-b0d2-c9ef4ccaba4f",  # First consent reminder for HPV
+    "6410145f-dac1-46ba-82f3-a49cad0f66a6",  # Second and beyond reminder for HPV
 ]
 
 
