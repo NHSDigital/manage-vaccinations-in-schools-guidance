@@ -13,12 +13,12 @@ DEFAULT_TEMPLATE_IDS = [
 ]
 
 
-def get_govuk_client():
+def get_govuk_client() -> NotificationsAPIClient:
     api_key = os.getenv('NOTIFY_API_KEY')
     return NotificationsAPIClient(api_key)
 
 
-def convert_to_markdown(body):
+def convert_to_markdown(body: str) -> str:
     # Replace CRLF with LF
     body = body.replace("\r\n", "\n")
 
@@ -34,7 +34,7 @@ def convert_to_markdown(body):
     return body
 
 
-def compose_yaml_frontmatter(frontmatter):
+def compose_yaml_frontmatter(frontmatter: dict[str, str|int]) -> str:
     yaml_lines = ["---"]
     for key, value in frontmatter.items():
         yaml_lines.append(f"{key}: {value}")
@@ -42,11 +42,11 @@ def compose_yaml_frontmatter(frontmatter):
     return "\n".join(yaml_lines)
 
 
-def strip_square_brackets(text):
+def strip_square_brackets(text: str) -> str:
     return re.sub(r"^\[.*?]\s*", "", text)
 
 
-def update_templates(template_ids, output_dir, order_start=0):
+def update_templates(template_ids: list[str], output_dir: str, order_start: int=0) -> None:
     notifications_client = get_govuk_client()
 
     current_order = order_start
@@ -55,7 +55,7 @@ def update_templates(template_ids, output_dir, order_start=0):
         print(f"Updating template with ID: {template_id}")
 
         # Get the template from GOV.UK Notify
-        template = notifications_client.get_template(
+        template: dict[str, str|int] = notifications_client.get_template(
             template_id=template_id,
         )
 
