@@ -19,8 +19,6 @@ def get_govuk_client():
 
 
 def convert_to_markdown(body):
-    # Replace ((...??...))
-
     # Replace (((...))) with (==...==)
     body = re.sub(r"\(\(\((.*?)\)\)\)", r"(==\1==)", body)
 
