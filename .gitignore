@@ -5,6 +5,3 @@ node_modules
 _site
 
 *.docx
-
-.idea
-*.iml
