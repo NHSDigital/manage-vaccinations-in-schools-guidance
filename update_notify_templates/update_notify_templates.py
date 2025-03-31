@@ -45,6 +45,15 @@ def compose_yaml_frontmatter(frontmatter: dict[str, str|int]) -> str:
 def strip_square_brackets(text: str) -> str:
     return re.sub(r"^\[.*?]\s*", "", text)
 
+def get_file_name(template: dict[str, str|int]) -> str:
+    template_name = strip_square_brackets(template.get("name", "")).lower().replace(" ", "-")
+    file_name = f"notify-{template.get("type", "email")}-{template_name}.md"
+
+    # Check if the filename is safe and sanitize if necessary
+    file_name = re.sub(r'[^\w\-. ]+', '', file_name)
+
+    return file_name
+
 
 def update_templates(template_ids: list[str], output_dir: str, order_start: int=0) -> None:
     notifications_client = get_govuk_client()
@@ -76,8 +85,7 @@ def update_templates(template_ids: list[str], output_dir: str, order_start: int=
         md_content = yaml_content + "\n" + body_content
 
         # Create output file path
-        file_name = f"notify-{template.get("type", "email")}-{strip_square_brackets(template.get("name", "")).lower().replace(" ", "-")}.md"
-        output_file = os.path.join(output_dir, file_name)
+        output_file = os.path.join(output_dir, get_file_name(template))
 
         # Write out to file
         with open(output_file, "w", encoding="utf-8") as f:
