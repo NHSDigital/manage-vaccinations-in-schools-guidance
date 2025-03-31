@@ -1,10 +1,6 @@
 ---
 layout: email
-<<<<<<<< HEAD:app/guide/consent-reminder-email-hpv.md
-title: HPV consent reminder
-========
 title: First consent reminder for HPV
->>>>>>>> 5e35cfd (Replace `.md` files):app/guide/notify-email-first-consent-reminder-for-hpv.md
 group: Email templates
 subject: Please respond to our request for consent by ==consent_deadline==
 order: 41
@@ -12,11 +8,11 @@ order: 41
 
 We wrote to you recently about a visit by a local health team to ==location_name== on ==next_session_dates==.
 
-If you want your child to get the HPV vaccination, you need to give consent by ==consent_deadline==. 
+If you want your child to get the HPV vaccination, you need to give consent by ==consent_deadline==.
 
 If you've already responded to the consent request, you can ignore this message.
 
-## What the vaccine is for 
+## What the vaccine is for
 
 The HPV vaccine helps protect against cancers caused by HPV, including:
 
@@ -44,7 +40,7 @@ Responding will take less than 5 minutes. If you do not give consent, it’s sti
 
 ## Talk to your child about what they want
 
-We suggest you talk to your child about the vaccine before you respond to us. 
+We suggest you talk to your child about the vaccine before you respond to us.
 
 ## If you have trouble using the online form
 
