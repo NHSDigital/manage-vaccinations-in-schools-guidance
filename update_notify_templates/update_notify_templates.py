@@ -47,7 +47,7 @@ def strip_square_brackets(text: str) -> str:
 
 def get_file_name(template: dict[str, str|int]) -> str:
     template_name = strip_square_brackets(template.get("name", "")).lower().replace(" ", "-")
-    file_name = f"notify-{template.get("type", "email")}-{template_name}.md"
+    file_name = f"{template_name}-{template.get("type", "email")}.md"
 
     # Check if the filename is safe and sanitize if necessary
     file_name = re.sub(r'[^\w\-. ]+', '', file_name)
