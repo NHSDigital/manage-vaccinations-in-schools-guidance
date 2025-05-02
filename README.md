@@ -16,7 +16,7 @@ The canonical source of content for the XLSX file download templates is Microsof
 
 ### Updating the GOV.UK Notify templates
 
-Set up python in the `update_notify_templates` directory:
+Set up Python in the `update_notify_templates` directory:
 
 ```bash
 cd update_notify_templates
