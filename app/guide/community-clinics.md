@@ -41,7 +41,7 @@ To invite children who belong to a school, but were not vaccinated there:
 4. Go to the **Send clinic invitations** link. This will show you a summary of how many invitations will be sent out
 5. Click the **Send clinic invitations** button
 
-![Screenshot of clinic invitations link for a completed school.](/assets/images/send-clinic-invitations.png)
+![Screenshot of clinic invitations link for a completed school.](/assets/images/session-completed.png)
 
 ![Screenshot of clinic invitations summary page from a completed school.](/assets/images/send-clinic-invitations-summary.png)
 

@@ -11,4 +11,4 @@ Once all sessions at a school have been completed, you can invite all unvaccinat
 3. You’ll see a summary of how many children will be invited to community clinics.
 4. Click on **Send clinic invitations**.
 
-![Screenshot of overview page for a completed session.](/assets/images/send-clinic-invitations.png)
+![Screenshot of overview page for a completed session.](/assets/images/session-completed.png)

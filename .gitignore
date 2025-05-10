@@ -4,4 +4,8 @@
 node_modules
 _site
 
+__pycache__
+
+.venv
+
 *.docx
