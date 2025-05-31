@@ -1,6 +1,6 @@
 ---
 title: Checking consent responses
-group: Managing consent
+theme: Managing consent
 order: 11
 ---
 
@@ -14,12 +14,12 @@ Mavis lets you review consent responses for each session.
 4. Go to the **Consent** tab.
 5. Use the filters to see how many consents, refusals and conflicts you have - a list of children matching the filters you’ve used will display.
 6. Click on a child’s name if you want to see more details about consent for that child.
-   
+
 For flu, if consent has been given, you’ll be able to see whether this is for:
+
 - nasal spray only
 - nasal spray, or injected vaccine if the nasal spray is not suitable
 - injected vaccine only
-
 
 ![Screenshot of consent responses for a session.](/assets/images/session-consent.png 'Mavis shows consent responses for a session grouped by status.')
 
@@ -29,8 +29,7 @@ When a parent submits a consent response, they can also let Mavis know that a ch
 
 To review a child changing school, follow the instructions on this page of the user guide:
 
-* [Reviewing school moves](/guide/school-moves)
-
+- [Reviewing school moves](/guide/school-moves)
 
 ## Reviewing unmatched consent responses
 
@@ -48,7 +47,7 @@ To review a child changing school, follow the instructions on this page of the u
 
 ## Investigating conflicting consent
 
-If one parent gives consent for a vaccination and the other refuses, Mavis flags this as conflicting consent. 
+If one parent gives consent for a vaccination and the other refuses, Mavis flags this as conflicting consent.
 
 For flu, ‘conflicting consent’ can also mean that one parent has given consent for the nasal spray only and the other has given consent for the injected vaccine only.
 

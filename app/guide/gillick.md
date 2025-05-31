@@ -1,6 +1,6 @@
 ---
 title: Assessing Gillick competence
-group: Recording vaccinations
+theme: Recording vaccinations
 order: 19
 eleventyComputed:
   eleventyNavigation:

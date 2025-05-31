@@ -1,6 +1,6 @@
 ---
 title: Adding vaccines
-group: Recording vaccinations
+theme: Recording vaccinations
 order: 16
 ---
 

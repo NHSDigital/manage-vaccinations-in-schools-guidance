@@ -1,23 +1,22 @@
 ---
 title: Adding vaccination history
-group: Managing cohorts
+theme: Managing cohorts
 order: 4
 ---
 
 [[toc]]
 
 Where relevant, you should upload relevant historic vaccination records for HPV, MenACWY or Td/IPV before scheduling school sessions. This is so that Mavis:
+
 - knows which vaccinations a child has already had (if applicable)
 - only sends consent requests for children who have not had the vaccine already
 
-If you discover at a later stage that a child is already vaccinated, you can update their record in Mavis (see ‘Manually recording a child as 'already vaccinated'’ below). 
+If you discover at a later stage that a child is already vaccinated, you can update their record in Mavis (see ‘Manually recording a child as 'already vaccinated'’ below).
 
 You should also include vaccination records for anyone in the cohort who was vaccinated elsewhere, if you have them. These records will be stored in Mavis and will not be sent anywhere else.
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "Note that for flu, you should not upload vaccination records for previous academic years. Only upload a record for a previous flu vaccination if it was given in the current academic year."
-}) }}
+> [!NOTE]
+> For flu, you should not upload vaccination records for previous academic years. Only upload a record for a previous flu vaccination if it was given in the current academic year.
 
 ## How to import historical vaccination records
 
@@ -54,7 +53,6 @@ Go to the **Import** tab. For each record under **Import issues**:
 
 If there are some parts of each that are correct, you can note down any correct information from the version you choose to discard, discard it, then go to the child’s record and manually edit the information there (this feature will be more developed in a future release of Mavis).
 
-
 ## Manually recording a child as 'already vaccinated'
 
 If a child’s historical vaccination record is missing from CHIS data, or you have not been able to upload their historical vaccination record into Mavis, you can manually record the child as ‘already vaccinated’ for a specific programme. You can only do this once sessions have been scheduled (setting up sessions is covered in the ['Sessions'](/guide/sessions.md) section of this user guide).
@@ -65,7 +63,5 @@ If a child’s historical vaccination record is missing from CHIS data, or you h
 4. Click on the **Record as already vaccinated** link near the top of the page.
 5. Check the details on the page and add a note to explain this was a historical vaccination - then click the **Confirm** button.
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "You can only carry out this action for sessions that are not in progress."
-}) }}
+> [!NOTE]
+> You can only carry out this action for sessions that are not in progress.

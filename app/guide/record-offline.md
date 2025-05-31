@@ -1,6 +1,6 @@
 ---
 title: Recording vaccinations offline
-group: Recording vaccinations
+theme: Recording vaccinations
 order: 23
 eleventyComputed:
   eleventyNavigation:
@@ -110,7 +110,6 @@ To do this:
 7. Click on **Change** next to the existing vaccination method.
 8. Update the details of the method and click **Continue**.
 9. Review the change to the record and then click **Save changes**.
-
 
 ### Updating dose volume for flu (nasal spray)
 

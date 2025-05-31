@@ -1,6 +1,6 @@
 ---
 title: Preparing for a new school year
-group: Managing cohorts
+theme: Managing cohorts
 order: 8
 eleventyComputed:
   eleventyNavigation:
@@ -14,6 +14,7 @@ In this period you can see 2 school years in the Mavis filters so you can decide
 ![Screenshot of session filters showing two academic years.](/assets/images/academic-year-filters.png)
 
 From 1 August you can:
+
 - import new cohorts that were not already in Mavis - you only need to import the new cohort, all the others are already in Mavis (when you upload a cohort or class list, make sure the YEAR_GROUP column in the CSV file shows the school year the child will be in from 1 September)
 - check cohorts and any important notices
 - review school moves - see [Reviewing school moves](/guide/school-moves.md)
@@ -27,4 +28,3 @@ Any children who are eligible for vaccination but have moved to a year group not
 Children who have aged out of programmes (such as Year 12 or Year 15 in SEN schools) will no longer be shown in the list of child records in Mavis, but you can choose to include those children through **Advanced filters**.
 
 ![Screenshot of advanced filters in children search.](/assets/images/advanced-filters.png)
-

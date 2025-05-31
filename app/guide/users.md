@@ -1,6 +1,6 @@
 ---
 title: Adding and removing users
-group: Getting started
+theme: Getting started
 order: 2
 ---
 
@@ -21,7 +21,6 @@ Users should be given one of the following 2 roles:
   This role is for staff who support nurses in an administrative role and require access to clinical information.
 
   Users with this role can perform all actions in Mavis except:
-
   - recording or editing triage
   - recording or editing vaccinations
   - recording or editing Gillick assessments

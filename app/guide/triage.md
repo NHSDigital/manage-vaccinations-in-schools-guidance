@@ -1,6 +1,6 @@
 ---
 title: Triaging health questions
-group: Managing triage
+theme: Managing triage
 order: 15
 ---
 
@@ -17,7 +17,5 @@ You can triage parents’ responses to health questions for each child in a scho
 6. Review the parent’s answers to health questions.
 7. Use the radio buttons to indicate whether you think it’s safe to vaccinate the child. You can also add notes to a triage decision if needed.
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "When triaging for flu, you’ll be able to select if it’s safe to give the nasal spray vaccine or the injected vaccine. Mavis will only display these options if the relevant consent has been given."
-}) }}
+> [!NOTE]
+> When triaging for flu, you’ll be able to select if it’s safe to give the nasal spray vaccine or the injected vaccine. Mavis will only display these options if the relevant consent has been given.

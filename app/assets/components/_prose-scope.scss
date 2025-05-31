@@ -1,0 +1,11 @@
+@use "pkg:nhsuk-frontend/dist/nhsuk/core" as *;
+
+.app-prose-scope {
+  .nhsuk-image {
+    width: 100%;
+  }
+
+  .nhsuk-image__img {
+    padding: nhsuk-spacing(2);
+  }
+}

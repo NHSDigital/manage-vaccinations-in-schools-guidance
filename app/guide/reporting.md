@@ -1,6 +1,6 @@
 ---
 title: Downloading vaccination reports
-group: Statistics and reports
+theme: Statistics and reports
 order: 26
 eleventyComputed:
   eleventyNavigation:
