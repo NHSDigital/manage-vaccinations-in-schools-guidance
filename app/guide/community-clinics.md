@@ -1,6 +1,6 @@
 ---
 title: Vaccinating in community clinics
-group: Community clinics
+theme: Community clinics
 order: 23
 ---
 
@@ -33,6 +33,7 @@ For a child to be vaccinated in a community clinic, their parent or guardian wil
 ### If the child is home-schooled or their school is unknown
 
 An invitation email (and potentially a text message) will be sent automatically to the parents or guardians of:
+
 - home-schooled children
 - children with an unknown school
 
@@ -40,9 +41,10 @@ This will happen 3 weeks before the date of the first scheduled clinic.
 
 ### If the child belongs to a school but did not get vaccinated there
 
-Some children may have missed being vaccinated at a school session, for example if they were ill or on holiday at the time of the session. 
+Some children may have missed being vaccinated at a school session, for example if they were ill or on holiday at the time of the session.
 
 To send clinic invitations to children who belong to a school, but were not vaccinated there:
+
 1. Go to **Sessions**
 2. Go to the **Completed** tab
 3. Go to the relevant school session
@@ -56,6 +58,7 @@ To send clinic invitations to children who belong to a school, but were not vacc
 ### Sending booking reminders for clinics
 
 To send booking reminders for subsequent clinics:
+
 1. Go to **Sessions**
 2. Go to the **Community clinics** link under the **Scheduled** tab
 3. Go to **Send booking reminders**. This will show you a summary of children you can invite again to the next clinic

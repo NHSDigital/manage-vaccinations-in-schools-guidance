@@ -1,6 +1,6 @@
 ---
 title: Recording a vaccination (or non-vaccination)
-group: Recording vaccinations
+theme: Recording vaccinations
 order: 19
 eleventyComputed:
   eleventyNavigation:

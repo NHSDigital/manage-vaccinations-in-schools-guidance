@@ -1,6 +1,6 @@
 ---
 title: Recording vaccinations offline
-group: Recording vaccinations
+theme: Recording vaccinations
 order: 22
 eleventyComputed:
   eleventyNavigation:
