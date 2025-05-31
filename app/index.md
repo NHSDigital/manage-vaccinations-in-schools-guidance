@@ -1,22 +1,22 @@
 ---
-layout: home
+layout: product
 title: Service guidance
 description: A guide on how to use Mavis.
 homepage: true
 ---
 
-{{ serviceName }} (Mavis) is a digital tool designed to help school age immunisation service (SAIS) teams manage their vaccination programmes end to end.
+Manage vaccinations in schools (Mavis) is a digital tool designed to help school age immunisation service (SAIS) teams manage their vaccination programmes end to end.
 
-{% from "action-link/macro.njk" import actionLink %}
+{% from "nhsuk/components/action-link/macro.njk" import actionLink %}
 {{ actionLink({
   text: "User guide",
-  href: "/guide/about-mavis/"
+  href: "/guide/"
 }) }}
 
-{# actionLink({
-text: "Training videos",
-href: "/video/nurses"
-}) #}
+{{ actionLink({
+  text: "Email templates",
+  href: "/email-templates/"
+}) }}
 
 To access the service, visit [www.manage-vaccinations-in-schools.nhs.uk](https://www.manage-vaccinations-in-schools.nhs.uk).
 

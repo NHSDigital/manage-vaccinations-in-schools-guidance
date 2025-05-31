@@ -1,6 +1,6 @@
 ---
 title: Triaging health questions
-group: Managing triage
+theme: Managing triage
 order: 14
 ---
 

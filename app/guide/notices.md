@@ -1,15 +1,15 @@
 ---
 title: Checking important notices
-group: Managing cohorts
+theme: Managing cohorts
 order: 6
 eleventyComputed:
   eleventyNavigation:
     key: Important notices
 ---
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "Only <a href='/guide/users/#superusers'>superusers</a> can view important notices."
+{% from "nhsuk/components/inset-text/macro.njk" import insetText as nhsukInsetText %}
+{{ nhsukInsetText({
+  html: "Only [superusers](/guide/users/#superusers) can view important notices." | markdown
 }) }}
 
 Whenever you log in to Mavis, you should go to **Import** and then **Important Notices** to see if there’s anything you need to be aware of. These notices will also be flagged on the Mavis dashboard.

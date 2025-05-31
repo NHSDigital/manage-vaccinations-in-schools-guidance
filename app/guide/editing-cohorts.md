@@ -1,6 +1,6 @@
 ---
 title: Checking and editing cohorts
-group: Managing cohorts
+theme: Managing cohorts
 order: 5
 ---
 
@@ -14,7 +14,7 @@ Once you have confirmed that the cohort is successfully uploaded, you’re ready
 
 {% include "fragments/out-of-year-group-children.md" %}
 
-##  Manually editing individual child records
+## Manually editing individual child records
 
 1. Go to **Children**.
 2. Search for the child by name and select their record.
