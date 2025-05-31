@@ -1,0 +1,8 @@
+{
+  "layout": "email-template",
+  "caption": "Email templates",
+  "sectionKey": "Email templates",
+  "eleventyNavigation": {
+    "parent": "Email templates"
+  }
+}

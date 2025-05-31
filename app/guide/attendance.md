@@ -1,6 +1,6 @@
 ---
 title: Registering attendance of children in sessions
-group: Recording vaccinations
+theme: Recording vaccinations
 order: 17
 eleventyComputed:
   eleventyNavigation:
@@ -17,7 +17,6 @@ To register children as attending or absent, the session must be in progress.
 4. Click on the **Register** tab.
 5. You’ll see a list of all children for this session - you can use the ‘Not registered yet’ filter if you only want to see children who have not been registered yet.
 6. Find the child’s name, then click on the **Attending** or **Absent** button.
-
 
 ![Screenshot of a register attendance page.](/assets/images/session-attendance.png 'You must register attendance before you can record vaccinations.')
 

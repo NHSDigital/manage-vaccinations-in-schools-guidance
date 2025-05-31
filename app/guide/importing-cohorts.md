@@ -1,6 +1,6 @@
 ---
 title: Importing cohorts into Mavis
-group: Managing cohorts
+theme: Managing cohorts
 order: 3
 eleventyComputed:
   eleventyNavigation:
@@ -20,12 +20,13 @@ We explain how to do this below.
 
 ## Uploading cohort records
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "You should upload cohort records before you upload vaccination records or class lists."
+{% from "nhsuk/components/inset-text/macro.njk" import insetText as nhsukInsetText %}
+{{ nhsukInsetText({
+  html: "You should upload cohort records before you upload vaccination records or class lists." | markdown
 }) }}
 
 The cohort should include all children in your SAIS team’s area, as follows:
+
 - all children in the target year for the vaccination programme (Year 8 for HPV, Year 9 for MenACWY and Td/IPV)
 - all children in older year groups, up to Year 11, whether they have already been vaccinated or not
 
@@ -44,8 +45,7 @@ To upload cohort records, use the following template:
 
 Make sure the cohort records are in the format shown in the template above. Files need to be in .csv format. Records can be all in one file, or split across multiple files. If you have an excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
+{{ nhsukInsetText({
   html: "Large cohort files can fail to upload, due to their size. If your CSV file has over 10,000 rows, we recommend you split it into smaller files - for example 2 files with 5,000 rows."
 }) }}
 
@@ -55,8 +55,8 @@ Make sure the cohort records are in the format shown in the template above. File
 2. Click on the **Import records** button near the top of the page.
 3. Select **Child records**, then click Continue.
 4. Click on **Choose File**, then select the CSV file you want to import.
-4. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
-5. Wait for the file to finish importing.
+5. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
+6. Wait for the file to finish importing.
 
 ![Screenshot of programme cohorts tab.](/assets/images/programme-cohorts.png 'Mavis shows the number of children within each programme cohort.')
 
