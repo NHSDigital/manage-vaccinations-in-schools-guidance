@@ -1,9 +1,8 @@
 ---
-layout: email
 title: HPV consent reminder
-group: Email templates
+theme: HPV
 subject: Please respond to our request for consent by ==consent deadline==
-order: 41
+order: 4
 ---
 
 We wrote to you recently about a visit by a local health team to ==location name== on ==next session dates==.

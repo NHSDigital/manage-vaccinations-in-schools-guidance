@@ -1,6 +1,6 @@
 ---
 title: Importing cohorts into Mavis
-group: Managing cohorts
+theme: Managing cohorts
 order: 3
 eleventyComputed:
   eleventyNavigation:
@@ -20,12 +20,11 @@ We explain how to do this below.
 
 ## Uploading cohort records
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "You should upload cohort records before you upload vaccination records or class lists."
-}) }}
+> [!NOTE]
+> You should upload cohort records before you upload vaccination records or class lists.
 
 The cohort should include all children in your SAIS team’s area, as follows:
+
 - all children in the target year (or years) for the vaccination programme, which is usually:
   - HPV - Year 8
   - MenACWY and Td/IPV - Year 9
@@ -51,7 +50,7 @@ The template below shows what other information can be imported into Mavis for c
   text: "Cohort import template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
   href: "/files/cohort-import-template.xlsx"
-}) }} 
+}) }}
 
 If you haven’t included a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis automatically searches PDS to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
 
@@ -67,11 +66,8 @@ To upload files successfully:
 - if you have an Excel file with multiple tabs, you will need to consolidate this into a single tab before saving it as a CSV file, or create a separate CSV file for each tab
 - make sure the file you’re uploading has no more than 10,000 rows
 
-
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "Large cohort files can fail to upload, due to their size. If your CSV file has over 10,000 rows, we recommend you split it into smaller files - for example 2 files with 5,000 rows."
-}) }}
+> [!NOTE]
+> Large cohort files can fail to upload, due to their size. If your CSV file has over 10,000 rows, we recommend you split it into smaller files - for example 2 files with 5,000 rows.
 
 ### How to upload a cohort file
 
@@ -79,8 +75,8 @@ To upload files successfully:
 2. Click on the **Import records** button near the top of the page.
 3. Select **Child records**, then click Continue.
 4. Click on **Choose File**, then select the CSV file you want to import.
-4. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
-5. Wait for the file to finish importing.
+5. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
+6. Wait for the file to finish importing.
 
 ![Screenshot of programme overview.](/assets/images/programme-overview.png 'Mavis shows the number of children within each programme cohort.')
 

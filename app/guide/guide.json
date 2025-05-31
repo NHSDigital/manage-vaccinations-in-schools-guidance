@@ -1,10 +1,12 @@
 {
-  "layout": "guide",
-  "permalink": "/guide/{{ page.fileSlug }}/",
-  "sectionName": "User guide",
+  "layout": "sub-navigation",
+  "collection": "guide",
+  "sectionKey": "User guide",
+  "showPagination": true,
   "eleventyComputed": {
-    "eleventyNavigation": {
-      "key": "{{title}}"
-    }
+    "caption": "{{ theme }}"
+  },
+  "eleventyNavigation": {
+    "parent": "User guide"
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Vaccinating in community clinics
-group: Community clinics
+theme: Community clinics
 order: 24
 ---
 
@@ -33,6 +33,7 @@ For a child to be vaccinated in a community clinic, their parent or guardian wil
 ### If the child is home-schooled or their school is unknown
 
 An invitation email (and potentially a text message) will be sent automatically to the parents or guardians of:
+
 - home-schooled children
 - children with an unknown school
 
@@ -43,6 +44,7 @@ This will happen 3 weeks before the date of the first scheduled clinic.
 Some children may have missed being vaccinated at a school session, for example if they were ill or on holiday at the time of the session.
 
 To send clinic invitations to children who belong to a school, but were not vaccinated there:
+
 1. Go to **Sessions**
 2. Filter for **Completed** sessions
 3. Go to the relevant school session
@@ -60,12 +62,14 @@ You can invite children to clinics or move them instantly to a clinic session by
 ![Screenshot of 'Invite to community clinic' button.](/assets/images/invite-to-clinic.png)
 
 The ‘Invite to community clinic’ button has 2 functions.
-1.	If you need to invite a child to a clinic (for example, if they are immunosuppressed and need to be prioritised for a flu vaccination, or you were unable to vaccinate them in a school session) click the button and an invitation will go out to the parents the next day.
-2.	If a child turns up at a clinic and is not on today’s session list, click the button and the child will be added to the session. If you vaccinate the child, no invitation will be sent.
+
+1. If you need to invite a child to a clinic (for example, if they are immunosuppressed and need to be prioritised for a flu vaccination, or you were unable to vaccinate them in a school session) click the button and an invitation will go out to the parents the next day.
+2. If a child turns up at a clinic and is not on today’s session list, click the button and the child will be added to the session. If you vaccinate the child, no invitation will be sent.
 
 ### Sending booking reminders for clinics
 
 To send booking reminders for subsequent clinics:
+
 1. Go to **Sessions**
 2. Filter for **Scheduled** sessions
 3. Go to the **Community clinics** link

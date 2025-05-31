@@ -1,6 +1,6 @@
 ---
 title: Scheduling and editing sessions
-group: Organising sessions
+theme: Organising sessions
 order: 10
 eleventyComputed:
   eleventyNavigation:

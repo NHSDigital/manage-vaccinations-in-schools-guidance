@@ -1,0 +1,47 @@
+@use "pkg:nhsuk-frontend/dist/nhsuk/core" as *;
+
+.app-email {
+  background-color: nhsuk-colour("white");
+  border: 1px solid $nhsuk-border-colour;
+  font-family: Helvetica, Arial, sans-serif;
+
+  @include nhsuk-responsive-padding(7);
+
+  &__header {
+    border-bottom: 1px solid $nhsuk-border-colour;
+    margin-bottom: nhsuk-spacing(4);
+    padding-bottom: nhsuk-spacing(3);
+
+    @include nhsuk-font($size: 16);
+  }
+
+  &__subject {
+    @include nhsuk-font($size: 19, $weight: bold);
+  }
+
+  .nhsuk-logo {
+    color: $nhsuk-brand-colour;
+    margin-bottom: nhsuk-spacing(4);
+  }
+
+  mark {
+    background: $nhsuk-focus-colour;
+    color: $nhsuk-focus-text-colour;
+    display: inline;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    border-radius: 0.5em 0.5em 0.2em 0.2em;
+    box-shadow:
+      inset 0.5em 0 0 0 nhsuk-colour("white"),
+      inset -0.5em 0 0 0 nhsuk-colour("white"),
+      inset 0 0.2em 0 0 nhsuk-colour("white");
+
+    &::before {
+      content: "((";
+    }
+
+    &::after {
+      content: "))";
+    }
+  }
+}

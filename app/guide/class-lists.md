@@ -1,6 +1,6 @@
 ---
 title: Importing class lists
-group: Organising sessions
+theme: Organising sessions
 order: 9
 ---
 
@@ -43,7 +43,7 @@ When importing class lists, Mavis will automatically identify if a child’s sch
 
 To review a child changing school, follow the instructions on this page of the user guide:
 
-* [Reviewing school moves](/guide/school-moves)
+- [Reviewing school moves](/guide/school-moves)
 
 ## Handling out-of-year-group children
 

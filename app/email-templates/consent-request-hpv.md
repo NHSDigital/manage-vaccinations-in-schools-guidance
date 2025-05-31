@@ -1,9 +1,8 @@
 ---
-layout: email
 title: HPV initial consent request
-group: Email templates
+theme: HPV
 subject: HPV vaccination for ==patient name==
-order: 40
+order: 3
 ---
 
 We're coming to ==location name== on ==next session dates== to give the human papillomavirus (HPV) vaccine. We would like your consent to vaccinate ==patient name==. You can give this by filling in our online form (the link is below).
@@ -26,10 +25,8 @@ The HPV vaccine works best if it’s given before young people become sexually a
 
 ### How to respond
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below. You need to respond by ==consent deadline==."
-}) }}
+> [!NOTE]
+> It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below.
 
 ==consent URL==
 

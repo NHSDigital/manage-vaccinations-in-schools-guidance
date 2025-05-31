@@ -1,0 +1,41 @@
+@use "pkg:nhsuk-frontend/dist/nhsuk/core" as *;
+
+.app-attachment {
+  @include nhsuk-responsive-margin(6, "bottom");
+}
+
+.app-attachment__link {
+  display: inline-block;
+  position: relative;
+
+  @include nhsuk-font(22, $weight: bold);
+  @include nhsuk-print-colour;
+
+  .app-icon__file {
+    fill: nhsuk-colour("grey-2");
+    height: nhsuk-px-to-rem(36px);
+    left: nhsuk-px-to-rem(-3px);
+    position: absolute;
+    top: nhsuk-px-to-rem(-4px);
+    width: nhsuk-px-to-rem(36px);
+
+    @include nhsuk-media-query($until: tablet) {
+      height: nhsuk-px-to-rem(24px);
+      width: nhsuk-px-to-rem(24px);
+      top: 0;
+    }
+  }
+}
+
+.app-attachment__summary {
+  color: $nhsuk-secondary-text-colour;
+}
+
+.app-attachment__link,
+.app-attachment__summary {
+  padding-left: nhsuk-spacing(6);
+
+  @include nhsuk-media-query($until: tablet) {
+    padding-left: nhsuk-spacing(4);
+  }
+}

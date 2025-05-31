@@ -1,9 +1,8 @@
 ---
-layout: email
-title: MenACWY and Td/IPV consent reminder
-group: Email templates
-subject: Please respond to our request for consent by ==consent deadline==
-order: 43
+title: MenACWY and Td/IPV initial consent request
+theme: MenACWY and Td/IPV
+subject: MenACWY and Td/IPV vaccinations for ==patient name==
+order: 5
 ---
 
 We wrote to you recently to let you know we're coming to ==location name== on ==next session dates== to offer your child their ==vaccination==.
@@ -32,10 +31,8 @@ It’s offered at around 13 or 14 years old (school year 9 or 10). It boosts the
 
 ### How to respond
 
-{% from "inset-text/macro.njk" import insetText %}
-{{ insetText({
-  html: "It’s important to let us know whether you do or do not want your child to have these vaccinations. It will take less than 5 minutes to respond using the link below."
-}) }}
+> [!NOTE]
+> It’s important to let us know whether you do or do not want your child to have these vaccinations. It will take less than 5 minutes to respond using the link below.
 
 ==consent URL==
 
@@ -50,6 +47,7 @@ Young people have the right to refuse vaccinations. Those who show [‘Gillick c
 If you cannot use the online form, you can respond over the phone using the contact details below.
 
 ### Your data
+
 By responding, you’re agreeing to your data being processed as set out in our ==privacy notice URL==.
 
 ### Get in touch with us

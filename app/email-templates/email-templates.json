@@ -1,0 +1,10 @@
+{
+  "layout": "email-template",
+  "sectionKey": "Email templates",
+  "eleventyComputed": {
+    "caption": "{{ theme }}"
+  },
+  "eleventyNavigation": {
+    "parent": "Email templates"
+  }
+}
