@@ -1,6 +1,6 @@
 ---
 title: Getting verbal consent
-group: Managing consent
+theme: Managing consent
 order: 11
 ---
 
@@ -13,4 +13,3 @@ If you phone a parent to get verbal consent before a session starts, you can rec
 5. Call the parent.
 6. Record their response.
 7. Check and confirm their answers, and select **Confirm**.
-

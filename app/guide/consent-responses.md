@@ -1,6 +1,6 @@
 ---
 title: Checking consent responses
-group: Managing consent
+theme: Managing consent
 order: 10
 ---
 
@@ -23,8 +23,7 @@ When a parent submits a consent response, they can also let Mavis know that a ch
 
 To review a child changing school, follow the instructions on this page of the user guide:
 
-* [Reviewing school moves](/guide/school-moves)
-
+- [Reviewing school moves](/guide/school-moves)
 
 ## Reviewing unmatched consent responses
 

@@ -1,35 +1,16 @@
-@use "nhsuk-frontend/packages/nhsuk" as *;
+@use "pkg:nhsuk-frontend/packages/core" as *;
 
 .app-attachment {
   @include nhsuk-responsive-margin(6, "bottom");
 }
 
 .app-attachment__link {
-  @include nhsuk-font(22);
-
   display: inline-block;
-  font-weight: $nhsuk-font-bold;
   position: relative;
-  text-decoration: none;
 
-  &:hover {
-    .app-attachment__text {
-      text-decoration: underline;
-    }
-  }
+  @include nhsuk-font(22, $weight: bold);
 
-  &:focus {
-    @include nhsuk-focused-text();
-
-    &:hover {
-      .app-attachment__text {
-        color: $nhsuk-focus-text-color;
-        text-decoration: none;
-      }
-    }
-  }
-
-  @include mq($media-type: print) {
+  @include nhsuk-media-query($media-type: print) {
     color: $nhsuk-print-text-color;
 
     &:visited {
@@ -38,7 +19,7 @@
   }
 
   .app-icon__file {
-    @include print-color($nhsuk-print-text-color);
+    @include nhsuk-print-color($nhsuk-print-text-color);
 
     fill: $color_nhsuk-grey-2;
     height: 36px;
@@ -47,7 +28,7 @@
     top: -4px;
     width: 36px;
 
-    @include mq($until: tablet) {
+    @include nhsuk-media-query($until: tablet) {
       height: 24px;
       width: 24px;
       top: 0;
@@ -63,7 +44,7 @@
 .app-attachment__summary {
   padding-left: nhsuk-spacing(6);
 
-  @include mq($until: tablet) {
+  @include nhsuk-media-query($until: tablet) {
     padding-left: nhsuk-spacing(4);
   }
 }

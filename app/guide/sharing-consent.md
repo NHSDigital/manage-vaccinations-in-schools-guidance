@@ -1,6 +1,6 @@
 ---
 title: Sharing consent forms with schools who have not provided contact details
-group: Managing consent
+theme: Managing consent
 order: 12
 eleventyComputed:
   eleventyNavigation:

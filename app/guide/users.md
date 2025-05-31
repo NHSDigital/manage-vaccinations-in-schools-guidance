@@ -1,6 +1,6 @@
 ---
 title: Adding users
-group: Getting started
+theme: Getting started
 order: 2
 ---
 

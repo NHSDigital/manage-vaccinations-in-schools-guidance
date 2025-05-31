@@ -1,6 +1,6 @@
 ---
 title: Vaccinating immuno-suppressed children
-group: Recording vaccinations
+theme: Recording vaccinations
 order: 19
 eleventyComputed:
   eleventyNavigation:

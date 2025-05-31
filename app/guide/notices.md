@@ -1,13 +1,13 @@
 ---
 title: Checking important notices
-group: Managing cohorts
+theme: Managing cohorts
 order: 6
 eleventyComputed:
   eleventyNavigation:
     key: Important notices
 ---
 
-{% from "inset-text/macro.njk" import insetText %}
+{% from "components/inset-text/macro.njk" import insetText %}
 {{ insetText({
   html: "Only <a href='/guide/users/#superusers'>superusers</a> can view important notices."
 }) }}
