@@ -1,5 +1,5 @@
 ---
-title: Adding users
+title: Adding and removing users
 group: Getting started
 order: 2
 ---
@@ -39,3 +39,13 @@ If users are added to the `mavissuperusers` workgroup, they can:
 - delete vaccination records
 
 Superusers still need to be assigned to the `schoolagedimmunisations` workgroup and be given a role.
+
+## Removing users
+
+When staff leave your organisation or no longer require Mavis access, remove their access promptly through the Care Identity Management service:
+
+- End-date their Mavis role assignments (R8001 or R8006)
+- Remove them from the `schoolagedimmunisations` workgroup
+- Remove them from the `mavissuperusers` workgroup if applicable
+
+This should be part of your standard leaver process for SAIS staff.
