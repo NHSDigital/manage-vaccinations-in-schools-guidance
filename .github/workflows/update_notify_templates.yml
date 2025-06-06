@@ -1,0 +1,54 @@
+name: Update Notify templates
+
+on:
+#  schedule:
+#    # Runs at 23:00 UTC Monday through Friday
+#    - cron: "0 23 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # ensure full history for pushing
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        working-directory: update_notify_templates
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Add NOTIFY_API_KEY to .env file
+        working-directory: update_notify_templates
+        run: |
+          echo "NOTIFY_API_KEY=${{ secrets.NOTIFY_API_KEY }}" >> .env
+
+      - name: Run update_notify_templates.py
+        working-directory: update_notify_templates
+        run: |
+          python update_notify_templates.py
+
+      - name: Commit and push changes
+        working-directory: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          # Check if any changes exist
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Update notify templates"
+            git push origin schedule-update-notify-templates
+          else
+            echo "No changes to commit."
+          fi
