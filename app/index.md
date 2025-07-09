@@ -5,7 +5,7 @@ description: A guide on how to use Mavis.
 homepage: true
 ---
 
-{{ serviceName }} (Mavis) is used to manage vaccinations in schools.
+{{ serviceName }} (Mavis) is a digital tool designed to help school age immunisation service (SAIS) teams manage their vaccination programmes end to end.
 
 {% from "action-link/macro.njk" import actionLink %}
 {{ actionLink({
