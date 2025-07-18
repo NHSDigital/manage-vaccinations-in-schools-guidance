@@ -110,3 +110,19 @@ To do this:
 7. Click on **Change** next to the existing vaccination method.
 8. Update the details of the method and click **Continue**.
 9. Review the change to the record and then click **Save changes**.
+
+
+### Updating dose volume for flu (nasal spray)
+
+If a child refuses the second half of a nasal spray flu vaccination, you can record this as a half dose in Mavis. However, if you’re recording vaccinations offline, you cannot do this on the spreadsheet - instead, you’ll need to:
+
+1. Record the vaccination as a full dose on the offline spreadsheet.
+1. Make a note on the spreadsheet that only half the dose was given.
+1. Manually update the child’s vaccination record in Mavis after you’ve uploaded the spreadsheet.
+
+To do this:
+
+1. Follow the steps described above to find and edit the child’s vaccination record (see steps 1 to 6 in ‘Updating subcutaneous vaccinations’).
+1. Click on **Change** next to the existing **Dose volume** shown in the vaccination details.
+1. Mavis will ask if the child got the full dose or a half dose. Select half dose then click **Continue**.
+1. Review the change to the record, then click **Save changes**.
