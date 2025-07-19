@@ -20,11 +20,11 @@ If you receive a request to send a parent a paper-based consent form, you can do
 
 ## Entering a consent response from a paper form
 
-Once the parent returns the form, you can enter the information given into Mavis using the 'Get verbal consent' flow.
+Once the parent returns the form, you can enter the information given into Mavis using the 'Record a new consent response' flow.
 
 1. From the **Consent** tab of a session page, filter for **No response**.
 2. Go to into a child record by clicking on their name.
-3. Select **Get verbal consent**.
+3. Select **Record a new consent response**.
 4. Use the radio button to indicate who’s responded.
 5. Go through the consent flow, making sure to select **Paper** as the way the response was given.
 

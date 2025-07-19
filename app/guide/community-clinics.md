@@ -40,7 +40,7 @@ This will happen 3 weeks before the date of the first scheduled clinic.
 
 ### If the child belongs to a school but did not get vaccinated there
 
-Some children may have missed being vaccinated at a school session, for example if they were ill or on holiday at the time of the session. 
+Some children may have missed being vaccinated at a school session, for example if they were ill or on holiday at the time of the session.
 
 To send clinic invitations to children who belong to a school, but were not vaccinated there:
 1. Go to **Sessions**
@@ -89,5 +89,5 @@ You could also try to get consent over the phone. To do this:
 
 1. In the **Community clinic** page, go to the **Consent** tab and filter for **No response**.
 2. Click into the child’s record.
-3. Click on **Get verbal consent**.
+3. Click on **Record a new consent response**.
 4. Phone the parent and work through the consent flow to record their response in Mavis.
