@@ -81,6 +81,7 @@ Before uploading the spreadsheet, you first have to save a copy of the data from
 
 1. Open the spreadsheet in Excel.
 2. Go to **File > Save a copy** and then choose format “CSV UTF-8 (Comma delimited) (.csv)” and save it.
+3. A dialog box displays telling you that this file format does not support multiple sheets - click on OK.
 
 Then in Mavis:
 
