@@ -16,7 +16,7 @@ The vaccination record spreadsheet contains a record for all children in the ses
 To download the spreadsheet for a session:
 
 1. Go to **Sessions**.
-2. Go to the **Scheduled** tab.
+2. Filter for **Scheduled** sessions.
 3. Click the link for the school you’re interested in.
 4. Click on the **Record offline** link at the top of the page to download the Excel file.
 5. Save this locally.

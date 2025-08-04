@@ -12,7 +12,7 @@ You can only record vaccinations for children who are registered as attending a 
 To register children as attending or absent, the session must be in progress.
 
 1. Go to **Sessions**.
-2. Go to the **Today** tab.
+2. Filter for **In Progress** sessions.
 3. Click on the name of the school you’re attending.
 4. Click on the **Register** tab.
 5. You’ll see a list of all children for this session - you can use the ‘Not registered yet’ filter if you only want to see children who have not been registered yet.

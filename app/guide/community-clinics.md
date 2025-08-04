@@ -13,7 +13,7 @@ Any child can be vaccinated at a clinic. Their parent or guardian will need to b
 To create dates for community clinics:
 
 1. Go to **Sessions**.
-2. Go to the **Unscheduled** tab.
+2. Filter for **Unscheduled** sessions.
 3. Go to the **Community clinic** link.
 4. Click on **Schedule sessions**.
 5. Follow the process as you would for school sessions.
@@ -21,7 +21,7 @@ To create dates for community clinics:
 To add or amend dates for community clinics:
 
 1. Go to **Sessions**.
-2. Go to the **Scheduled** tab.
+2. Filter for **Scheduled** sessions.
 3. Go to the **Community clinic** link (there is just one for all clinics).
 4. Go to **Edit session**.
 5. Follow the process as you would for school sessions.
@@ -44,7 +44,7 @@ Some children may have missed being vaccinated at a school session, for example 
 
 To send clinic invitations to children who belong to a school, but were not vaccinated there:
 1. Go to **Sessions**
-2. Go to the **Completed** tab
+2. Filter for **Completed** sessions
 3. Go to the relevant school session
 4. Go to the **Send clinic invitations** link. This will show you a summary of how many invitations will be sent out
 5. Click the **Send clinic invitations** button
@@ -57,9 +57,10 @@ To send clinic invitations to children who belong to a school, but were not vacc
 
 To send booking reminders for subsequent clinics:
 1. Go to **Sessions**
-2. Go to the **Community clinics** link under the **Scheduled** tab
-3. Go to **Send booking reminders**. This will show you a summary of children you can invite again to the next clinic
-4. Click the **Send booking reminders** button
+2. Filter for **Scheduled** sessions
+3. Go to the **Community clinics** link
+4. Go to **Send booking reminders**. This will show you a summary of children you can invite again to the next clinic
+5. Click the **Send booking reminders** button
 
 You will only be able to send clinic booking reminders to parents of children that have been invited for a previous clinic, but have still not been vaccinated. You can only send one invitation per child per clinic session date.
 

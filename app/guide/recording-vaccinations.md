@@ -12,7 +12,7 @@ To record a vaccination (or a vaccination that didn’t happen), follow the inst
 ## Select the child and programme
 
 1. Go to **Sessions**.
-2. Go to the **Today** tab.
+2. Filter for **In Progress** sessions.
 3. Click on the name of the school you’re attending.
 4. Click on **Record vaccinations** under the relevant programme.
 5. A list of children’s names is displayed - you can filter the list by name or year group.

@@ -9,8 +9,8 @@ order: 10
 Mavis lets you review consent responses for each session.
 
 1. Go to **Sessions**.
-2. Go to the **Scheduled** tab.
-3. Click the link for the school you’re interested in.
+2. Filter for **Scheduled** sessions.
+3. Select the relevant location.
 4. Go to the **Consent** tab.
 5. Use the filters to see how many consents, refusals and conflicts you have - a list of children matching the filters you’ve used will display.
 6. Click on a child’s name if you want to see more details about consent for that child.

@@ -11,8 +11,8 @@ eleventyComputed:
 
 If you receive a request to send a parent a paper-based consent form, you can download and print the relevant form from Mavis.
 
-1. Go to **Sessions**, then the **Scheduled** tab.
-2. Find the relevant school.
+1. Go to **Sessions**, then filter for **Scheduled** sessions.
+2. Select the relevant location.
 3. On the school page, click on the **Download consent form** link for the relevant vaccination programme.
 4. You can then print the form off and send it to the parent who requested it.
 
