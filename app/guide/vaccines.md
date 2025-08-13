@@ -1,7 +1,7 @@
 ---
 title: Adding vaccines
 group: Recording vaccinations
-order: 15
+order: 16
 ---
 
 ![Screenshot of vaccines page.](/assets/images/vaccines.png)

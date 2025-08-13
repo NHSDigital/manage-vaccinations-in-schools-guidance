@@ -1,7 +1,7 @@
 ---
 title: Viewing session outcomes
 group: Recording vaccinations
-order: 21
+order: 22
 ---
 
 From a session page, click on the **Session outcomes** tab to see the vaccination outcomes for all children at the school. You can use filters (for example, ‘No outcome yet’ or ‘Absent from school’) to narrow the list, or you can search for individual children. 

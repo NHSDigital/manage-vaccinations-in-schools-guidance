@@ -1,7 +1,7 @@
 ---
 title: Adding notes to a child's record
 group: Recording vaccinations
-order: 16
+order: 17
 eleventyComputed:
   eleventyNavigation:
     key: Adding notes

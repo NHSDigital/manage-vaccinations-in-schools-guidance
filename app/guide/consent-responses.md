@@ -1,7 +1,7 @@
 ---
 title: Checking consent responses
 group: Managing consent
-order: 10
+order: 11
 ---
 
 [[toc]]

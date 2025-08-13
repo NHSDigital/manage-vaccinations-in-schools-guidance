@@ -1,7 +1,7 @@
 ---
 title: Registering attendance of children in sessions
 group: Recording vaccinations
-order: 17
+order: 18
 eleventyComputed:
   eleventyNavigation:
     key: Registering attendance

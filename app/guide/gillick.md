@@ -1,7 +1,7 @@
 ---
 title: Assessing Gillick competence
 group: Recording vaccinations
-order: 18
+order: 19
 eleventyComputed:
   eleventyNavigation:
     key: Gillick assessment
