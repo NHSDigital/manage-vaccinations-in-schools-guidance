@@ -7,9 +7,13 @@ eleventyComputed:
     key: Registering attendance
 ---
 
-You can only record vaccinations for children who are registered as attending a session.
+You can register children’s attendance at vaccination sessions using the Register tab while a session is in progress. 
 
-To register children as attending or absent, the session must be in progress.
+If this feature is enabled for your team, you can only record vaccinations for children who are registered as attending a session.
+
+This feature can be switched off. In that case, all children with consent (and ‘safe to vaccinate’ triage outcomes, where relevant) will appear in ‘Record vaccinations’. 
+
+To register children’s attendance or absence:
 
 1. Go to **Sessions**.
 2. Filter for **In Progress** sessions.
