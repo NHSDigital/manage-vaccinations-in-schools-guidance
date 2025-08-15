@@ -1,7 +1,7 @@
 ---
 title: Sharing consent forms with schools who have not provided contact details
 group: Managing consent
-order: 12
+order: 13
 eleventyComputed:
   eleventyNavigation:
     key: Sharing consent forms with schools
@@ -11,6 +11,8 @@ If schools have not provided parents’ contact details, they’ll need to send 
 
 ### Consent request templates
 
+- [Flu consent request email](/guide/consent-request-email-flu)
+- [Flu consent reminder email](/guide/consent-reminder-email-flu)
 - [HPV consent request email](/guide/consent-request-email-hpv)
 - [HPV consent reminder email](/guide/consent-reminder-email-hpv)
 - [MenACWY and Td/IPV consent request email](/guide/consent-request-email-doubles)

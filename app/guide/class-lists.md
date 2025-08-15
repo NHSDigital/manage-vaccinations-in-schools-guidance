@@ -1,7 +1,7 @@
 ---
 title: Importing class lists
 group: Organising sessions
-order: 8
+order: 9
 ---
 
 [[toc]]

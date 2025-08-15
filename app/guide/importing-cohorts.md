@@ -14,7 +14,7 @@ Mavis is designed to be used with complete age-based cohorts, including those al
 Before using Mavis for vaccination programmes, SAIS teams will need to:
 
 - import full details of the cohort in the team’s area
-- upload relevant historic vaccination records for all children in the cohort
+- upload relevant historical vaccination records for all children in the cohort
 
 We explain how to do this below.
 
@@ -26,23 +26,47 @@ We explain how to do this below.
 }) }}
 
 The cohort should include all children in your SAIS team’s area, as follows:
-- all children in the target year for the vaccination programme (Year 8 for HPV, Year 9 for MenACWY and Td/IPV)
+- all children in the target year (or years) for the vaccination programme, which is usually:
+  - HPV - Year 8
+  - MenACWY and Td/IPV - Year 9
+  - flu - all years from Reception (Year 0) to Year 11 (or up to Year 13 or 14 for Special Educational Needs schools, where applicable)
 - all children in older year groups, up to Year 11, whether they have already been vaccinated or not
 
 You’ll only need to upload the older year groups the first time you use Mavis. Once the cohort has been set up and used to record vaccinations for a particular year group, those records will stay in Mavis.
 
-### Preparing files for upload
+### What to include
 
-To upload cohort records, use the following template:
+You must include include the following information for each child in the cohort:
+
+- unique reference number (URN) for their school (use 888888 for school unknown, or 999999 for home-schooled)
+- first name
+- last name
+- date of birth
+- postcode
+
+The template below shows what other information can be imported into Mavis for child records.
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
   text: "Cohort import template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
   href: "/files/cohort-import-template.xlsx"
-}) }}
+}) }} 
 
-Make sure the cohort records are in the format shown in the template above. Files need to be in .csv format. Records can be all in one file, or split across multiple files. If you have an excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
+If you haven’t included a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis automatically searches PDS to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
+
+### Preparing files for upload
+
+You can use the template provided below, or your own files as long as the headings and formatting match those in our template.
+
+To upload files successfully:
+
+- the cohort records must be in the format shown in the template above (note that for flu, Reception is Year 0 in Mavis)
+- information marked as ‘Required’ in our template must be included for each child
+- files need to be in .csv format
+- if you have an Excel file with multiple tabs, you will need to consolidate this into a single tab before saving it as a CSV file, or create a separate CSV file for each tab
+- make sure the file you’re uploading has no more than 10,000 rows
+
 
 {% from "inset-text/macro.njk" import insetText %}
 {{ insetText({
@@ -58,7 +82,7 @@ Make sure the cohort records are in the format shown in the template above. File
 4. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
 5. Wait for the file to finish importing.
 
-![Screenshot of programme cohorts tab.](/assets/images/programme-cohorts.png 'Mavis shows the number of children within each programme cohort.')
+![Screenshot of programme overview.](/assets/images/programme-overview.png 'Mavis shows the number of children within each programme cohort.')
 
 Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
 

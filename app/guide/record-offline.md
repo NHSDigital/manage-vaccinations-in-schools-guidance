@@ -1,7 +1,7 @@
 ---
 title: Recording vaccinations offline
 group: Recording vaccinations
-order: 22
+order: 23
 eleventyComputed:
   eleventyNavigation:
     key: Recording vaccinations offline
@@ -57,11 +57,10 @@ When filling out the spreadsheet, you need to make sure you use accepted formats
 
 To view a list of accepted formats:
 
-1. Go to **Programmes**.
-2. Go to the relevant programme.
-3. Go to **Vaccinations**.
-4. Go to **Import vaccination records**.
-5. Open the link ‘How to format your CSV for vaccination records’.
+1. Go to **Import**.
+2. Click on **Import records**.
+3. Select **Vaccination records** and **Continue**.
+4. Open the link ‘How to format your CSV for vaccination records’.
 
 ## Adding offline data to Mavis
 
@@ -85,17 +84,16 @@ Before uploading the spreadsheet, you first have to save a copy of the data from
 
 Then in Mavis:
 
-1. Go to **Programmes**.
-2. Go to the relevant programme.
-3. Go to **Vaccinations**.
+1. Go to **Import**.
+2. Click on **Import records**.
 
-![Screenshot of programme vaccinations tab.](/assets/images/programme-vaccinations.png)
+![Screenshot of Import page.](/assets/images/import-records.png)
 
-4. Go to **Import vaccination records**.
-5. Click on **Choose File**.
-6. Open the file and select **Continue**. If there are any validation issues, Mavis will not import the file.
-7. Correct the issues listed and try again.
-8. Wait for the file to finish importing.
+3. Select **Vaccination records** and **Continue**.
+4. Click on **Choose File**.
+5. Open the file and select **Continue**. If there are any validation issues, Mavis will not import the file.
+6. Correct the issues listed and try again.
+7. Wait for the file to finish importing.
 
 ### Updating subcutaneous vaccinations
 
@@ -104,7 +102,7 @@ Finally, if any vaccinations were subcutaneous rather intramuscular, this needs 
 To do this:
 
 1. Go to the relevant session in Mavis.
-2. Go to the **Session outcomes** tab.
+2. Go to the **Children** tab.
 3. Filter for **Vaccinated** children.
 4. Find the name of the child in the list and click on their name.
 5. On the child record, scroll down the page to find the vaccination record.
@@ -112,3 +110,19 @@ To do this:
 7. Click on **Change** next to the existing vaccination method.
 8. Update the details of the method and click **Continue**.
 9. Review the change to the record and then click **Save changes**.
+
+
+### Updating dose volume for flu (nasal spray)
+
+If a child refuses the second half of a nasal spray flu vaccination, you can record this as a half dose in Mavis. However, if you’re recording vaccinations offline, you cannot do this on the spreadsheet - instead, you’ll need to:
+
+1. Record the vaccination as a full dose on the offline spreadsheet.
+1. Make a note on the spreadsheet that only half the dose was given.
+1. Manually update the child’s vaccination record in Mavis after you’ve uploaded the spreadsheet.
+
+To do this:
+
+1. Follow the steps described above to find and edit the child’s vaccination record (see steps 1 to 6 in ‘Updating subcutaneous vaccinations’).
+1. Click on **Change** next to the existing **Dose volume** shown in the vaccination details.
+1. Mavis will ask if the child got the full dose or a half dose. Select half dose then click **Continue**.
+1. Review the change to the record, then click **Save changes**.
