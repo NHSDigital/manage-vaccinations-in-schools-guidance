@@ -57,11 +57,10 @@ When filling out the spreadsheet, you need to make sure you use accepted formats
 
 To view a list of accepted formats:
 
-1. Go to **Programmes**.
-2. Go to the relevant programme.
-3. Go to **Vaccinations**.
-4. Go to **Import vaccination records**.
-5. Open the link ‘How to format your CSV for vaccination records’.
+1. Go to **Import**.
+2. Click on **Import records**.
+3. Select **Vaccination records** and **Continue**.
+4. Open the link ‘How to format your CSV for vaccination records’.
 
 ## Adding offline data to Mavis
 
@@ -85,17 +84,16 @@ Before uploading the spreadsheet, you first have to save a copy of the data from
 
 Then in Mavis:
 
-1. Go to **Programmes**.
-2. Go to the relevant programme.
-3. Go to **Vaccinations**.
+1. Go to **Import**.
+2. Click on **Import records**.
 
-![Screenshot of programme vaccinations tab.](/assets/images/programme-vaccinations.png)
+![Screenshot of Import page.](/assets/images/import-records.png)
 
-4. Go to **Import vaccination records**.
-5. Click on **Choose File**.
-6. Open the file and select **Continue**. If there are any validation issues, Mavis will not import the file.
-7. Correct the issues listed and try again.
-8. Wait for the file to finish importing.
+3. Select **Vaccination records** and **Continue**.
+4. Click on **Choose File**.
+5. Open the file and select **Continue**. If there are any validation issues, Mavis will not import the file.
+6. Correct the issues listed and try again.
+7. Wait for the file to finish importing.
 
 ### Updating subcutaneous vaccinations
 
@@ -104,7 +102,7 @@ Finally, if any vaccinations were subcutaneous rather intramuscular, this needs 
 To do this:
 
 1. Go to the relevant session in Mavis.
-2. Go to the **Session outcomes** tab.
+2. Go to the **Children** tab.
 3. Filter for **Vaccinated** children.
 4. Find the name of the child in the list and click on their name.
 5. On the child record, scroll down the page to find the vaccination record.
