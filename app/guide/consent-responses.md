@@ -14,6 +14,12 @@ Mavis lets you review consent responses for each session.
 4. Go to the **Consent** tab.
 5. Use the filters to see how many consents, refusals and conflicts you have - a list of children matching the filters you’ve used will display.
 6. Click on a child’s name if you want to see more details about consent for that child.
+   
+For flu, if consent has been given, you’ll be able to see whether this is for:
+- nasal spray only
+- nasal spray, or injected vaccine if the nasal spray is not suitable
+- injected vaccine only
+
 
 ![Screenshot of consent responses for a session.](/assets/images/session-consent.png 'Mavis shows consent responses for a session grouped by status.')
 
@@ -42,8 +48,14 @@ To review a child changing school, follow the instructions on this page of the u
 
 ## Investigating conflicting consent
 
+If one parent gives consent for a vaccination and the other refuses, Mavis flags this as conflicting consent. 
+
+For flu, ‘conflicting consent’ can also mean that one parent has given consent for the nasal spray only and the other has given consent for the injected vaccine only.
+
+In both cases, you will need to investigate the conflicting consent and resolve it before the child can be vaccinated.
+
 1. From the **Consent** tab of a session page, filter for **Conflicting consent**.
 2. If you click on the child’s record and scroll down, you’ll see who has said what in their consent responses.
-3. Click on the name of the parent who refused.
+3. Click on the name of the parent whose consent you want to investigate.
 4. You can either mark that response as invalid (exercise caution here), or you can follow-up with the parent by returning to the child’s record to see the parent’s contact details.
-5. When speaking to the refuser, if they now give consent, you’ll need to add their consent to the child record manually (see 'Recording verbal consent from a parent before a session starts', above).
+5. If the parent changes their consent decision when you speak to them, you’ll need to add their new response to the child record manually (see ['Getting verbal consent'](/guide/verbal-consent.md)).
