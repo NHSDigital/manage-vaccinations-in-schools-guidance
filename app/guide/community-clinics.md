@@ -60,7 +60,7 @@ You can invite children to clinics or move them instantly to a clinic session by
 ![Screenshot of 'Invite to community clinic' button.](/assets/images/invite-to-clinic.png)
 
 The ‘Invite to community clinic’ button has 2 functions.
-1.	If you need to invite a child to a clinic (for example, if they are immune suppressed and need to be prioritised for a flu vaccination, or you were unable to vaccinate them in a school session) click the button and an invitation will go out to the parents the next day.
+1.	If you need to invite a child to a clinic (for example, if they are immunosuppressed and need to be prioritised for a flu vaccination, or you were unable to vaccinate them in a school session) click the button and an invitation will go out to the parents the next day.
 2.	If a child turns up at a clinic and is not on today’s session list, click the button and the child will be added to the session. If you vaccinate the child, no invitation will be sent.
 
 ### Sending booking reminders for clinics

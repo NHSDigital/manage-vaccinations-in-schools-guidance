@@ -6,7 +6,7 @@ subject: Please respond to our request for consent by ==consent deadline==
 order: 43
 ---
 
-We wrote to you recently we're to ==location name== on ==next session dates== to offer your child their ==vaccination==.
+We wrote to you recently to let you know we're coming to ==location name== on ==next session dates== to offer your child their ==vaccination==.
 
 If you want your child to be vaccinated, you need to give consent by ==consent deadline==.
 

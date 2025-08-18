@@ -14,7 +14,7 @@ In this period you can see 2 school years in the Mavis filters so you can decide
 ![Screenshot of session filters showing two academic years.](/assets/images/academic-year-filters.png)
 
 From 1 August you can:
-- import new cohorts that were not already on Mavis - you only need to import the new cohort, all the others are already in Mavis (when you upload a cohort or class list, make sure the YEAR_GROUP column in the CSV file shows the school year the child will be in from 1 September)
+- import new cohorts that were not already in Mavis - you only need to import the new cohort, all the others are already in Mavis (when you upload a cohort or class list, make sure the YEAR_GROUP column in the CSV file shows the school year the child will be in from 1 September)
 - check cohorts and any important notices
 - review school moves - see [Reviewing school moves](/guide/school-moves.md)
 - schedule sessions - at least the sessions due to take place in the next month need to be scheduled in Mavis so that consent invitations can go out to parents in time - see [Scheduling and editing sessions](/guide/sessions.md)
