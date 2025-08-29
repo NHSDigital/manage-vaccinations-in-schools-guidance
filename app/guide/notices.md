@@ -1,7 +1,7 @@
 ---
 title: Checking important notices
 theme: Managing cohorts
-order: 6
+order: 7
 eleventyComputed:
   eleventyNavigation:
     key: Important notices

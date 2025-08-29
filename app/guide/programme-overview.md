@@ -1,7 +1,7 @@
 ---
 title: Programme overview
 theme: Statistics and reports
-order: 25
+order: 26
 eleventyComputed:
   eleventyNavigation:
     key: Programme overview

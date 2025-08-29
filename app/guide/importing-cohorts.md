@@ -1,7 +1,7 @@
 ---
 title: Importing cohorts into Mavis
 theme: Managing cohorts
-order: 3
+order: 4
 eleventyComputed:
   eleventyNavigation:
     key: Importing cohorts into Mavis
@@ -82,13 +82,27 @@ To upload files successfully:
 
 Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
 
-## Resolving issues when uploading files
+## Duplicates and import issues that need review
 
-Mavis will highlight any potential duplicates found in the uploaded file and compared with what was already in Mavis as an import issue.
+When you upload child records, Mavis will identify children it already has records for. 
+
+If it’s an exact duplicate, Mavis will simply not import the record again - you’ll see a notification telling you how many records were not imported because they already exist in Mavis.
+
+If the file upload includes additional information for the child, such as their gender or preferred name, this will be merged automatically with the existing record. 
+
+If Mavis identifies a near match with an existing child record, you should review the missing or conflicting details and confirm which record to keep and which record to archive.
 
 Go to the **Import** tab. Under **Import issues**, for each record:
 
 1. Select **Review**.
 2. Select which version of the record you want to keep and select **Resolve duplicate**.
 
-If there are some parts of each that are correct, you can note down any correct information from the version you choose to discard, discard it, then go to the child record and manually edit the information there (this feature will be more developed in a future release of Mavis).
+There is also an option to keep both child records. For example, in the case of twins, Mavis will identify a near match and flag them as duplicate, but you can select **Keep both records**. The existing record will stay in Mavis and the uploaded record will be added. 
+
+If there are some parts of each record that are correct, you can:
+
+1. note down any correct information from the version you choose to archive
+2. archive that record
+3. go to the record you are keeping and edit the information there 
+
+Mavis will also highlight if you’ve provided an NHS number for a child that is different from the NHS number held by PDS. Mavis will automatically replace the incorrect NHS number you provided with the correct one from PDS.

@@ -1,7 +1,7 @@
 ---
 title: Getting verbal consent
 theme: Managing consent
-order: 12
+order: 13
 ---
 
 If you phone a parent to get verbal consent before a session starts, you can record this in Mavis.

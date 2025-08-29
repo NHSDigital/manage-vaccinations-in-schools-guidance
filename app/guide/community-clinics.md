@@ -1,14 +1,16 @@
 ---
 title: Vaccinating in community clinics
 theme: Community clinics
-order: 24
+order: 25
 ---
 
 [[toc]]
 
-Any child can be vaccinated at a clinic. Their parent or guardian will need to be invited to book a slot (see below).
+Any child can be vaccinated at a clinic. You can send invitations from Mavis (see below).
 
 ## Scheduling sessions in community clinics
+
+Add all dates of all clinics to one session in Mavis. You cannot add specific clinic locations here. Those details are held in your local booking system.
 
 To create dates for community clinics:
 
@@ -28,16 +30,16 @@ To add or amend dates for community clinics:
 
 ## Inviting parents to book slots
 
-For a child to be vaccinated in a community clinic, their parent or guardian will need to be invited to book an appointment slot through your local booking system.
+For a child to be vaccinated in a community clinic, you can invite their parent or guardian to book an appointment slot through your local booking system.
 
 ### If the child is home-schooled or their school is unknown
 
-An invitation email (and potentially a text message) will be sent automatically to the parents or guardians of:
+Mavis will automatically send an invitation email (and potentially a text message) to the parents or guardians of:
 
 - home-schooled children
 - children with an unknown school
 
-This will happen 3 weeks before the date of the first scheduled clinic.
+The invitations will go out 3 weeks before the date of the first scheduled clinic unless you select a different date.
 
 ### If the child belongs to a school but did not get vaccinated there
 
@@ -45,15 +47,15 @@ Some children may have missed being vaccinated at a school session, for example 
 
 To send clinic invitations to children who belong to a school, but were not vaccinated there:
 
-1. Go to **Sessions**
-2. Filter for **Completed** sessions
-3. Go to the relevant school session
-4. Go to the **Send clinic invitations** link. This will show you a summary of how many invitations will be sent out
-5. Click the **Send clinic invitations** button
+1. Go to the sessions for schools that you are not going to return to in this vaccination programme
+2. In each school session, go to the **Send clinic invitations** link. This will show you a summary of how many invitations will be sent out
+3. Click the **Send clinic invitations** button
 
 ![Screenshot of clinic invitations link for a completed school.](/assets/images/send-clinic-invitations.png)
 
 ![Screenshot of clinic invitations summary page from a completed school.](/assets/images/send-clinic-invitations-summary.png)
+
+Mavis will send the invitations the next day.
 
 ### Inviting or moving individual children to clinic sessions
 
@@ -90,7 +92,9 @@ To check whether an invitation email has been sent:
 
 ## Getting consent to vaccinate
 
-Once a parent has booked a clinic slot through your local booking system, you need to make sure you have consent to vaccinate the child.
+You do not necessarily need to get consent in advance for clinics. If a parent accompanies a child to the clinic, their presence is considered implied consent.
+
+If you choose to seek consent in advance, once a parent has booked a clinic slot through your local booking system, you need to make sure you have consent to vaccinate the child.
 
 If you do not have consent, you need to manually send a consent request. To do this:
 

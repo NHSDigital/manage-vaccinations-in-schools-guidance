@@ -1,7 +1,7 @@
 ---
 title: Reviewing school moves
 theme: Managing cohorts
-order: 7
+order: 8
 eleventyComputed:
   eleventyNavigation:
     key: School moves
