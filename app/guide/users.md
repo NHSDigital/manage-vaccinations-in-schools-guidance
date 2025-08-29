@@ -1,8 +1,9 @@
 ---
 title: Adding and removing users
-theme: Getting started
+group: Managing users
 order: 2
 ---
+This section is for the Registration Authority only. If you are a Mavis user, you will be given the appropriate level of access.
 
 Before accessing Mavis for the first time, users need to be given an appropriate role and workgroup. This can be done using the [Care Identity Management](https://manage-care-identities.care-identity-service2.nhs.uk/) service.
 
@@ -26,15 +27,19 @@ Users should be given one of the following 2 roles:
   - recording or editing Gillick assessments
   - superuser actions (see below)
 
-## Assigning the workgroup
+## Assigning users to a workgroup
 
-Users need to be assigned to the `schoolagedimmunisations` workgroup. [Add this workgroup to your organisation](https://digital.nhs.uk/services/care-identity-service/applications-and-services/care-identity-management/user-guides/managing-workgroups/create-a-workgroup) before assigning it to individual users.
+Each SAIS team using Mavis has a different workgroup name. Users need to be assigned to the appropriate workgroup. 
+
+You may need to [add workgroups to your organisation](https://digital.nhs.uk/services/care-identity-service/applications-and-services/care-identity-management/user-guides/managing-workgroups/create-a-workgroup) before assigning individual users.
+
+If you create a new workgroup, you must inform Mavis by emailing <england.mavis@nhs.net>.
 
 ## Superusers
 
 If users are added to the `mavissuperusers` workgroup, they can:
 
-- view important notices about patients
+- view important notices about children
 - delete vaccination records
 
 Superusers still need to be assigned to the `schoolagedimmunisations` workgroup and be given a role.
