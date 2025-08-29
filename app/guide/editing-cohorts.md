@@ -1,7 +1,7 @@
 ---
 title: Checking and editing cohorts
 theme: Managing cohorts
-order: 5
+order: 6
 ---
 
 Once you have uploaded all the cohort files, you can go to the Cohorts tab and check the counts for each year group are as expected.

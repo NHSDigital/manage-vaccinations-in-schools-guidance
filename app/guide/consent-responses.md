@@ -1,7 +1,7 @@
 ---
 title: Checking consent responses
 theme: Managing consent
-order: 11
+order: 12
 ---
 
 [[toc]]

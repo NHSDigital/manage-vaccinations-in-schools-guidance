@@ -1,7 +1,7 @@
 ---
 title: Scheduling and editing sessions
 theme: Organising sessions
-order: 10
+order: 11
 eleventyComputed:
   eleventyNavigation:
     key: Scheduling and editing sessions

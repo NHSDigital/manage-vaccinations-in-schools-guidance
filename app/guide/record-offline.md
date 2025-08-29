@@ -1,7 +1,7 @@
 ---
 title: Recording vaccinations offline
 theme: Recording vaccinations
-order: 23
+order: 24
 eleventyComputed:
   eleventyNavigation:
     key: Recording vaccinations offline

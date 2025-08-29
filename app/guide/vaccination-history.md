@@ -1,12 +1,12 @@
 ---
 title: Adding vaccination history
 theme: Managing cohorts
-order: 4
+order: 5
 ---
 
 [[toc]]
 
-Where relevant, you should upload relevant historic vaccination records for HPV, MenACWY or Td/IPV before scheduling school sessions. This is so that Mavis:
+Where relevant, you should upload relevant historical vaccination records for HPV, MenACWY or Td/IPV before scheduling school sessions. This is so that Mavis:
 
 - knows which vaccinations a child has already had (if applicable)
 - only sends consent requests for children who have not had the vaccine already

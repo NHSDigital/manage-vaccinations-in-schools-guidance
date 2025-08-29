@@ -1,7 +1,7 @@
 ---
 title: Importing class lists
 theme: Organising sessions
-order: 9
+order: 10
 ---
 
 [[toc]]
@@ -21,7 +21,7 @@ Class lists for each school are uploaded separately, and each school can only ha
 
 ## Uploading a class list file
 
-First, you need to reformat the class list provided by the school ready for upload:
+If the school did not provide the list in CSV format, you need to reformat it ready for upload:
 
 1. Navigate to the relevant Excel file for the school and open it. If there are multiple tabs in the Excel sheet, the records need to be combined into a single table.
 2. If present, remove the helper text row from the table (row 2).
@@ -36,6 +36,9 @@ In Mavis:
 5. Select which year groups these records are for.
 
 ![Screenshot of choosing year groups for class list imports.](/assets/images/import-class-list-year-groups.png 'Select which year groups your class list import contains.')
+
+> [!NOTE]
+> If a school does not provide postcodes for every child, you can still upload the class lists. You will have to add any missing NHS numbers manually.
 
 ## Reviewing children who have moved schools
 
