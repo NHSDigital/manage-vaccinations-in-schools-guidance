@@ -10,6 +10,8 @@ eleventyComputed:
 [[toc]]
 You can also use the Programme area to download reports showing what vaccinations have been given in a specified period of time, which you can share with your local CHIS team or GP practice.
 
+You do not need to share reports for flu or HPV with GPs, as [Mavis does this automatically](/guide/recording-vaccinations.md) but you still need to download and share reports with the local CHIS team.
+
 To download vaccination reports:
 
 1. Go to **Programmes**.
