@@ -94,9 +94,7 @@ To check whether an invitation email has been sent:
 
 You do not necessarily need to get consent in advance for clinics. If a parent accompanies a child to the clinic, their presence is considered implied consent.
 
-If you choose to seek consent in advance, once a parent has booked a clinic slot through your local booking system, you need to make sure you have consent to vaccinate the child.
-
-If you do not have consent, you need to manually send a consent request. To do this:
+If you choose to seek consent in advance, once a parent has booked a clinic slot through your local booking system:
 
 1. In the **Community clinic** page, go to the **Consent** tab and filter for **No response**.
 2. Click into the child’s record and scroll down.
