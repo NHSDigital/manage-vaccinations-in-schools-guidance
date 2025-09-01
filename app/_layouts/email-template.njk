@@ -22,8 +22,13 @@
         description: description
       }) }}
 
+      {% set insetText = "Replace placeholders with the correct names, dates and URLs." %}
+      {% if showConsentHint | default(true) %}
+        {% set insetText = insetText + " The consent URL is different for every school." %}
+      {% endif %}
+
       {{ nhsukInsetText({
-        text: "Replace placeholders with the correct names, dates and URLs. The consent URL is different for every school."
+        text: insetText
       }) }}
 
       <article class="app-email nhsuk-u-reading-width">
