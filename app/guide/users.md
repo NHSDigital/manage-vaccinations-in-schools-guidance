@@ -1,6 +1,6 @@
 ---
 title: Adding and removing users
-group: Managing users
+theme: Managing users
 order: 2
 ---
 This section is for the Registration Authority only. If you are a Mavis user, you will be given the appropriate level of access.
