@@ -40,7 +40,7 @@ You can legally share this information with us under data protection laws, see [
 Some of the common IMSs have online guides to help you get the information into the right format. For example: 
  
 - Arbor has a series of web pages 
-[https://support.arbor-education.com/hc/en-us/articles/28414594882717-Creating-reports-from-scratch-Step-1-Titles-and-Topics]([https://support.arbor-education.com/hc/en-us/articles/28414594882717-Creating-reports-from-scratch-Step-1-Titles-and-Topics)  
+[https://support.arbor-education.com/hc/en-us/articles/28414594882717-Creating-reports-from-scratch-Step-1-Titles-and-Topics](https://support.arbor-education.com/hc/en-us/articles/28414594882717-Creating-reports-from-scratch-Step-1-Titles-and-Topics)  
  
 - Bromcom also has web pages  
 [https://docs.bromcom.com/knowledge-base/how-to-build-a-quick-report-web-wednesday-training/](https://docs.bromcom.com/knowledge-base/how-to-build-a-quick-report-web-wednesday-training/)  
