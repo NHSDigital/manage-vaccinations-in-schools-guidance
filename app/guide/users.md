@@ -15,7 +15,7 @@ Users can be given 1 of the following 2 roles:
 
 This role is for nursing staff who work in primary, secondary care, community care and mental health.
 
-Users with this role can perform nearly all actions in Mavis. To carry out superuser actions, like viewing important notices or deleting vaccination records, they also need to be assigned additional activities (B0062 and B1611) and the superuser workgroup (see below).
+Users with this role can perform nearly all actions in Mavis. To carry out superuser actions, like viewing important notices or deleting vaccination records, they also need to be assigned additional activities (B0062 and B1611) (see below).
 
 ### Medical secretary access role (R8006)
 
@@ -47,6 +47,8 @@ Local system administration (B0062) adds ability to delete vaccination records.
 
 Access sensitive (S) flagged records (B1611) adds ability to view important notices about patients who have been flagged in the Personal Demographics Service (PDS).
 
+We recommend that there are at least 2 superusers with activity codes B0062 and B1611 per organisation.
+
 ## Assigning users to a workgroup
 
 Each SAIS team using Mavis has a different workgroup name. Users need to be assigned to the appropriate workgroup. 
@@ -54,17 +56,6 @@ Each SAIS team using Mavis has a different workgroup name. Users need to be assi
 You may need to [add workgroups to your organisation](https://digital.nhs.uk/services/care-identity-service/applications-and-services/care-identity-management/user-guides/managing-workgroups/create-a-workgroup) before assigning individual users.
 
 If you create a new workgroup, you must inform Mavis by emailing <england.mavis@nhs.net>.
-
-## Superusers
-
-If users are added to the `mavissuperusers` workgroup and have the appropriate activity codes (see above), they can:
-
-- view important notices about children
-- delete vaccination records
-
-Superusers still need to be given a role.
-
-We recommend that there are at least 2 superusers per organisation.
 
 ## Removing users
 
