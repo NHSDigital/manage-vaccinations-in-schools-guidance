@@ -1,7 +1,7 @@
 ---
 title: Adding vaccines
 theme: Recording vaccinations
-order: 17
+order: 19
 ---
 
 ![Screenshot of vaccines page.](/assets/images/vaccines.png)

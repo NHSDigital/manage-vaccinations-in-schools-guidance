@@ -1,7 +1,7 @@
 ---
 title: Viewing vaccination outcomes
 theme: Recording vaccinations
-order: 23
+order: 26
 ---
 
 From a session page, click on the **Children** tab to see the vaccination outcomes for all children at the school. You can use filters (for example, ‘Vaccinated’ or ‘Could not vaccinate’) to narrow the list, or you can search for individual children.
