@@ -58,3 +58,14 @@ In both cases, you will need to investigate the conflicting consent and resolve 
 3. Click on the name of the parent whose consent you want to investigate.
 4. You can either mark that response as invalid (exercise caution here), or you can follow-up with the parent by returning to the child’s record to see the parent’s contact details.
 5. If the parent changes their consent decision when you speak to them, you’ll need to add their new response to the child record manually (see ['Getting verbal consent'](/guide/verbal-consent.md)).
+
+## Investigating unknown parent contact details in consent response
+
+If a consent response has different contact details from those on record, Mavis will automatically:
+- record the consent decision
+- add an additional parent to the child record with the new contact details
+- contact the original parent to make sure the response came from somebody with parental authority
+
+If the original parent informs you that the consent response came from somebody without parental responsibility, you need to:
+- invalidate the consent
+- remove the parent who sent the invalid response from the child record [see Manually editing individual child records](/app/guide/editing-cohorts.md)
