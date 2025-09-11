@@ -2,7 +2,7 @@
 title: Class list request
 theme: Schools
 subject: Providing pupil information for vaccinations
-showConsentHint: false
+toReplacePlaceholders: true
 order: 7
 ---
 

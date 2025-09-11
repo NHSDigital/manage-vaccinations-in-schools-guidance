@@ -22,9 +22,11 @@
         description: description
       }) }}
 
-      {% set insetText = "Replace placeholders with the correct names, dates and URLs." %}
-      {% if showConsentHint | default(true) %}
-        {% set insetText = insetText + " The consent URL is different for every school." %}
+      
+      {% if toReplacePlaceholders | default(false) %}
+        {% set insetText = "Replace placeholders with the correct names, dates and URLs." %}
+      {% else %}
+        {% set insetText = "Mavis automatically inserts the correct names, dates, URLs and team contact information. Note that the consent URL is different for every school." %}
       {% endif %}
 
       {{ nhsukInsetText({
