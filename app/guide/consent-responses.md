@@ -68,4 +68,4 @@ If a consent response has different contact details from those on record, Mavis 
 
 If the original parent informs you that the consent response came from somebody without parental responsibility, you need to:
 - invalidate the consent
-- remove the parent who sent the invalid response from the child record [see Manually editing individual child records](/app/guide/editing-cohorts.md)
+- remove the parent who sent the invalid response from the child record ([see Manually editing individual child records](/guide/editing-cohorts.md))
