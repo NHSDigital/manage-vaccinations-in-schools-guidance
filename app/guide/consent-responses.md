@@ -45,21 +45,19 @@ To review a child changing school, follow the instructions on this page of the u
 5. If you believe it is a match, click **Link response with record**.
 6. If you cannot find a match, you can go back to the **Responses** page and click **Create new record** to create a new child record.
 
-## Investigating conflicting consent
+## Investigating conflicting consent responses
 
 If one parent gives consent for a vaccination and the other refuses, Mavis flags this as conflicting consent.
 
-For flu, ‘conflicting consent’ can also mean that one parent has given consent for the nasal spray only and the other has given consent for the injected vaccine only.
+For flu, ‘conflicting consent’ can also mean that parents have given consent for different vaccines.
 
 In both cases, you will need to investigate the conflicting consent and resolve it before the child can be vaccinated.
 
 1. From the **Consent** tab of a session page, filter for **Conflicting consent**.
 2. If you click on the child’s record and scroll down, you’ll see who has said what in their consent responses.
-3. Click on the name of the parent whose consent you want to investigate.
-4. You can either mark that response as invalid (exercise caution here), or you can follow-up with the parent by returning to the child’s record to see the parent’s contact details.
-5. If the parent changes their consent decision when you speak to them, you’ll need to add their new response to the child record manually (see ['Getting verbal consent'](/guide/verbal-consent.md)).
-
-![Screenshot of a consent response.](/assets/images/consent-form-view.png 'A consent can be invalidated or withdrawn.')
+3. Click on the name of the parent whose consent you want to investigate. This opens their consent response, including their contact details.
+4. Contact the parent to discuss the conflicting consent.
+5. If the parent changes their consent decision when you speak to them, add their new response to the child record manually (see [Recording a new consent response](/guide/add-or-remove-consent.md)).
 
 ## Investigating unknown parent contact details in consent response
 
@@ -69,5 +67,5 @@ If a consent response has different contact details from those on record, Mavis 
 - contact the original parent to make sure the response came from somebody with parental authority
 
 If the original parent informs you that the consent response came from somebody without parental responsibility, you need to:
-- invalidate the consent
+- mark the consent response as invalid (see [Marking a consent response as invalid](/guide/add-or-remove-consent.md))
 - remove the parent who sent the invalid response from the child record ([see Manually editing individual child records](/guide/editing-cohorts.md))
