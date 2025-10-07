@@ -106,3 +106,6 @@ If there are some parts of each record that are correct, you can:
 3. go to the record you are keeping and edit the information there 
 
 Mavis will also highlight if you’ve provided an NHS number for a child that is different from the NHS number held by PDS. Mavis will automatically replace the incorrect NHS number you provided with the correct one from PDS.
+
+> [!NOTE]
+> If less than 70% of records match an NHS number in PDS, the upload will be rejected, and you’ll see an error message. You should review the file, correcting any formatting issues (for example, make sure the first name and last name columns and the date of birth rows are in the correct position) and try uploading it again.
