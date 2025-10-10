@@ -30,8 +30,12 @@ To download vaccination reports:
 
 ## Data sharing between CHIS, SAIS and GP practices on SystmOne
 
-When you send vaccination records to GP practices that use SystmOne, and the local CHIS provider also uses SystmOne, these records may automatically appear in the CHIS system (subject to data sharing agreements).
+### When CHIS uses SystmOne
 
-If your local CHIS provider uses SystmOne, and vaccinations are recorded in Mavis for children whose GP uses EMIS Web or Medicus, you must manually extract those records from Mavis and send them to CHIS.
+Mavis sends vaccination records to GP practices using SystmOne. If your local CHIS provider also uses SystmOne, these records may automatically appear in the CHIS system. This depends on your local data sharing agreements.
 
-The same thing also applies where a SAIS provider uses SystmOne as an electronic patient record (EPR). You must manually extract data from Mavis for children whose GP practice uses EMIS Web or Medicus and upload it to the your SystmOne system.
+If the child's GP uses EMIS Web or Medicus, the vaccination record will not automatically flow through to CHIS. You'll need to manually extract these records from Mavis and send them to CHIS.
+
+### When SAIS uses SystmOne as an electronic patient record (EPR)
+
+If you use SystmOne as an EPR system, vaccination data for children whose GP uses EMIS Web or Medicus will not flow through automatically. You'll need to manually extract these records from Mavis and upload them to the SAIS SystmOne system.
