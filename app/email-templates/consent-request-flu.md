@@ -1,6 +1,6 @@
 ---
 title: Flu initial consent request
-theme: Flu
+theme: Emails to parents
 subject: Annual flu vaccination for ==patient name==
 order: 1
 ---

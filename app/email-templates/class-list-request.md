@@ -1,9 +1,9 @@
 ---
-title: Class list request
-theme: Schools
+title: Request for class list
+theme: Emails to schools
 subject: Providing pupil information for vaccinations
 toReplacePlaceholders: true
-order: 7
+order: 8
 ---
 
 Dear ==name of school== 

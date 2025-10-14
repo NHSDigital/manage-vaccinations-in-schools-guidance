@@ -1,6 +1,6 @@
 ---
 title: HPV consent reminder
-theme: HPV
+theme: Emails to parents
 subject: Please respond to our request for consent by ==consent deadline==
 order: 4
 ---

@@ -1,6 +1,6 @@
 ---
 title: HPV initial consent request
-theme: HPV
+theme: Emails to parents
 subject: HPV vaccination for ==patient name==
 order: 3
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flu consent reminder
-theme: Flu
+theme: Emails to parents
 subject: Please respond to our request for consent by ==consent deadline==
 order: 2
 ---

@@ -1,6 +1,6 @@
 ---
 title: MenACWY and Td/IPV consent reminder
-theme: MenACWY and Td/IPV
+theme: Emails to parents
 subject: Please respond to our request for consent by ==consent deadline==
 order: 6
 ---

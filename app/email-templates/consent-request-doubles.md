@@ -1,6 +1,6 @@
 ---
 title: MenACWY and Td/IPV initial consent request
-theme: MenACWY and Td/IPV
+theme: Emails to parents
 subject: MenACWY and Td/IPV vaccinations for ==patient name==
 order: 5
 ---
