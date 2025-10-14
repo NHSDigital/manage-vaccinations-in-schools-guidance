@@ -1,0 +1,12 @@
+{
+  "layout": "sub-navigation",
+  "collection": "file-upload-templates",
+  "sectionKey": "File upload templates",
+  "showPagination": true,
+  "eleventyComputed": {
+    "caption": "{{ theme }}"
+  },
+  "eleventyNavigation": {
+    "parent": "File upload templates"
+  }
+}
