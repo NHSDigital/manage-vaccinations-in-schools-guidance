@@ -37,6 +37,8 @@ In Mavis:
 
 ![Screenshot of choosing year groups for class list imports.](/assets/images/import-class-list-year-groups.png 'Select which year groups your class list import contains.')
 
+Mavis may add a missing NHS number or replace an incorrect one in your upload by searching PDS. (See [See how Mavis uses PDS to find NHS numbers](/guide/importing-cohorts#see-how-mavis-uses-pds-to-find-nhs-numbers))
+
 > [!NOTE]
 > If a school does not provide postcodes for every child, you can still upload the class lists. You will have to add any missing NHS numbers manually.
 

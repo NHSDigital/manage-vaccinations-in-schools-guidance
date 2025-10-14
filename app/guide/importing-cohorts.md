@@ -52,7 +52,7 @@ The template below shows what other information can be imported into Mavis for c
   href: "/files/cohort-import-template.xlsx"
 }) }}
 
-If you haven’t included a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis automatically searches PDS to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
+If you haven’t included a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](/guide/importing-cohorts#see-how-mavis-uses-pds-to-find-nhs-numbers). to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
 
 ### Preparing files for upload
 
@@ -109,3 +109,18 @@ Mavis will also highlight if you’ve provided an NHS number for a child that is
 
 > [!NOTE]
 > If less than 70% of records match an NHS number in PDS, the upload will be rejected, and you’ll see an error message. You should review the file, correcting any formatting issues (for example, make sure the first name and last name columns and the date of birth rows are in the correct position) and try uploading it again.
+
+## See how Mavis uses PDS to find NHS numbers
+
+Mavis may add a missing NHS number or replace an incorrect one in your upload by searching the NHS Patient Demographics Service (PDS) (sometimes referred to as ‘the Spine’). 
+
+If this happens, a PDS history link appears beside the NHS number in the child’s record. 
+
+![Screenshot of PDS history link on child record.](/assets/images/pds-history-link.png)
+
+If there are any doubts or queries about the NHS number, you can see how Mavis found it by clicking the PDS history link. 
+
+The NHS number lookup history shows the different steps Mavis takes to search for the NHS number, and explains the search methods.
+
+![Screenshot of PDS search history.](/assets/images/pds-search-history.png)
+
