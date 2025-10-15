@@ -1,4 +1,5 @@
 ---
+layout: email-template
 title: MenACWY and Td/IPV initial consent request
 theme: Emails to parents
 subject: MenACWY and Td/IPV vaccinations for ==patient name==
