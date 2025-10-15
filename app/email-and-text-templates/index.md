@@ -1,6 +1,6 @@
 ---
 layout: sub-navigation
-title: Email templates
+title: Email and text message templates
 order: 1
 eleventyNavigation:
   parent: Home
@@ -17,9 +17,18 @@ For scheduled sessions, Mavis automatically emails parents to:
 * remind them when sessions are happening
 * confirm vaccination outcomes
 
+You can see the consent request and reminder emails for each vaccination programme by selecting the relevant link in the menu on this page.
+
+## Text messages Mavis sends to parents
+
 If we have parents’ mobile numbers, Mavis also sends them text messages.
 
-You can see the consent request and reminder emails for each vaccination programme by selecting the relevant link in the menu on this page.
+Mavis automatically sends texts to:
+* ask for consent
+* send reminders if parentsthey have not responded
+* confirm consent responses
+* remind parentsthem when sessions are happening
+* confirm vaccination outcomes
 
 ## Email templates for contacting schools
 

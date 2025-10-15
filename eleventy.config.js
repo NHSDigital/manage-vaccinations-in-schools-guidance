@@ -25,9 +25,16 @@ export default function (eleventyConfig) {
       return a.data.order - b.data.order
     })
   })
-  eleventyConfig.addCollection('email-templates', (collection) => {
+  eleventyConfig.addCollection('email-and-text-templates', (collection) => {
     return collection
-      .getFilteredByGlob('app/email-templates/*.md')
+      .getFilteredByGlob('app/email-and-text-templates/*.md')
+      .sort((a, b) => {
+        return a.data.order - b.data.order
+      })
+  })
+  eleventyConfig.addCollection('file-upload-templates', (collection) => {
+    return collection
+      .getFilteredByGlob('app/file-upload-templates/*.md')
       .sort((a, b) => {
         return a.data.order - b.data.order
       })

@@ -1,18 +1,17 @@
 ---
-title: Flu consent reminder
+layout: email-template
+title: Flu initial consent request
 theme: Emails to parents
-subject: Please respond to our request for consent by ==consent deadline==
-order: 2
+subject: Annual flu vaccination for ==patient name==
+order: 1
 ---
 
-We wrote to you recently to let you know we're coming to ==location name== on ==next session dates== to offer your child their anual flu vaccination.
+We’re coming to ==location name== on ==next session dates== to give pupils their annual flu vaccination.
 
-If you want your child to be vaccinated, you need to give consent by ==consent deadline==.
+We would like your consent to vaccinate ==patient name==. You can respond by filling in our online form.
 
 > [!NOTE]
 > Do not reply to this email to tell us your decision. The link to the online consent form is below.
-
-If you’ve already responded to the consent request, you can ignore this message.
 
 ### About the children's flu vaccine
 

@@ -1,4 +1,5 @@
 ---
+layout: email-template
 title: HPV consent reminder
 theme: Emails to parents
 subject: Please respond to our request for consent by ==consent deadline==

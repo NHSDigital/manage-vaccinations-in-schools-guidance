@@ -1,0 +1,11 @@
+{
+  "layout": "email-template",
+  "collection": "email-and-text-templates",
+  "sectionKey": "Email and text message templates",
+  "eleventyComputed": {
+    "caption": "{{ theme }}"
+  },
+  "eleventyNavigation": {
+    "parent": "Email and text message templates"
+  }
+}

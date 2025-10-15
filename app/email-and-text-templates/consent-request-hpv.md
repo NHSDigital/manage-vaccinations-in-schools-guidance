@@ -1,4 +1,5 @@
 ---
+layout: email-template
 title: HPV initial consent request
 theme: Emails to parents
 subject: HPV vaccination for ==patient name==

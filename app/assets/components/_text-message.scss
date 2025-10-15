@@ -1,0 +1,70 @@
+@use "pkg:nhsuk-frontend/dist/nhsuk/core" as *;
+
+$_text-message-background-colour: nhsuk-colour("white");
+
+.app-text-message {
+  background-color: $_text-message-background-colour;
+  border-radius: nhsuk-spacing(3);
+  border-bottom-left-radius: 0;
+  border: 1px solid $nhsuk-border-colour;
+  font-family: Helvetica, Arial, sans-serif;
+  max-width: 400px;
+  padding: nhsuk-spacing(3);
+  position: relative;
+
+  a {
+    word-break: break-all;
+  }
+
+  &::before {
+    background: $_text-message-background-colour;
+    border-bottom-right-radius: nhsuk-spacing(3);
+    border-bottom: 1px solid $nhsuk-border-colour;
+    bottom: -10px;
+    content: "";
+    height: nhsuk-spacing(3);
+    left: nhsuk-spacing(-2);
+    position: absolute;
+    width: nhsuk-spacing(4);
+    z-index: 0;
+  }
+
+  &::after {
+    background: $nhsuk-body-background-colour;
+    border-bottom-right-radius: nhsuk-spacing(2);
+    border-bottom: 1px solid $nhsuk-border-colour;
+    border-right: 1px solid $nhsuk-border-colour;
+    bottom: -10px;
+    content: "";
+    height: nhsuk-spacing(3);
+    left: nhsuk-spacing(-2);
+    position: absolute;
+    width: nhsuk-spacing(2);
+    z-index: 1;
+  }
+
+  *:last-child {
+    margin: 0;
+  }
+
+  mark {
+    background: $nhsuk-focus-colour;
+    color: $nhsuk-focus-text-colour;
+    display: inline;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    border-radius: 0.5em 0.5em 0.2em 0.2em;
+    box-shadow:
+      inset 0.5em 0 0 0 $_text-message-background-colour,
+      inset -0.5em 0 0 0 $_text-message-background-colour,
+      inset 0 0.2em 0 0 $_text-message-background-colour;
+
+    &::before {
+      content: "((";
+    }
+
+    &::after {
+      content: "))";
+    }
+  }
+}
