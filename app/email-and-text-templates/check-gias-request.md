@@ -1,9 +1,10 @@
 ---
+layout: email-template
 title: Request to check GIAS details
 theme: Emails to schools
 subject: Checking school details in GIAS
 toReplacePlaceholders: true
-order: 7
+order: 9
 ---
 
 Dear ==name of school==,
