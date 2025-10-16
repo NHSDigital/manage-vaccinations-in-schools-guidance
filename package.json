@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.0",
-    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.0"
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.4"
   },
   "devDependencies": {
     "prettier": "^3.3.3"
