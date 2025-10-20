@@ -13,6 +13,7 @@ export default function (eleventyConfig) {
         text: serviceName
       }
     },
+    headingPermalinks: true,
     templates: {
       searchIndex: true
     }
