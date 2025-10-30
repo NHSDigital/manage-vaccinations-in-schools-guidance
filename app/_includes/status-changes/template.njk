@@ -1,0 +1,36 @@
+{% from "nhsuk/components/tag/macro.njk" import tag as nhsukTag %}
+<table class="nhsuk-table app-status-changes">
+  <caption class="nhsuk-table__caption">{{ params.caption }}</caption>
+  <thead class="nhsuk-table__head">
+    <tr>
+      <th scope="col" class="nhsuk-table__header" style="width: 35%">Scenario</th>
+      <th scope="col" class="nhsuk-table__header" style="width: 30%">Previous status</th>
+      <th scope="col" class="nhsuk-table__header" style="width: 35%">New status</th>
+    </tr>
+  </thead>
+  <tbody class="nhsuk-table__body">
+  {% for status in params.statuses %}
+    <tr class="nhsuk-table__row">
+      <td class="nhsuk-table__cell">
+        {{ status.description }}
+      </td>
+      <td class="nhsuk-table__cell">
+        <strong class="nhsuk-tag nhsuk-tag--{{ status.old.colour | default("white") }} ">
+          {{- status.old.text -}}
+        </strong>
+        {%- if status.old.hint -%}
+        <span class="nhsuk-u-secondary-text-colour">{{ status.old.hint }}</span>
+        {%- endif %}
+      </td>
+      <td class="nhsuk-table__cell">
+        <strong class="nhsuk-tag nhsuk-tag--{{ status.new.colour | default("white") }}">
+          {{- status.new.text -}}
+        </strong>
+        {%- if status.new.hint -%}
+        <span class="nhsuk-u-secondary-text-colour">{{ status.new.hint }}</span>
+        {%- endif %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

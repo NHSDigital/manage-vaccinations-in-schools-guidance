@@ -1,0 +1,17 @@
+@use "pkg:nhsuk-frontend/dist/nhsuk/core" as *;
+
+.app-status-changes {
+  table-layout: fixed;
+  width: 100%;
+
+  .nhsuk-tag {
+    white-space: nowrap;
+  }
+
+  .nhsuk-u-secondary-text-colour {
+    display: block;
+    margin-top: nhsuk-spacing(1);
+
+    @include nhsuk-font(16, $line-height: 1.5);
+  }
+}
