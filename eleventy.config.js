@@ -13,6 +13,18 @@ export default function (eleventyConfig) {
         text: serviceName
       }
     },
+    footer: {
+      navigation: [
+        {
+          items: [
+            {
+              href: '/changes-to-programme-statuses',
+              text: 'Changes to programme statuses'
+            }
+          ]
+        }
+      ]
+    },
     markdown: {
       headingPermalinks: true
     },
