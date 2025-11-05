@@ -20,3 +20,8 @@ If it is not synced or could not be synced, the additional text will explain why
 - if it cannot be synced because of a missing NHS number, you must add an NHS number to the child's record before this record will sync
 
 ![Screenshot of a vaccination record that is not synced.](/assets/images/fhir-imms-not-synced.png)
+
+The information sharing works both ways, when enabled for your organisation. Mavis automatically searches NHS England and GP data for flu vaccination records and adds any missing information to the child’s vaccination history (for example, if a child was already vaccinated by their GP, so you can avoid double-vaccinating them).
+
+> [!NOTE]
+> Mavis can only receive this data for children with NHS numbers. If there are any children without NHS numbers in your session, you need to check if they have already been vaccinated.
