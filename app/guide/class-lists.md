@@ -6,7 +6,7 @@ order: 10
 
 [[toc]]
 
-To ensure you have an accurate cohort before a school session, Mavis allows you to import individual school class lists. Mavis will update the cohort list with any contact details provided and automatically identify and movers in and out.
+To ensure you have an accurate cohort before a school session, Mavis allows you to import individual school class lists. Mavis will update the cohort list with any contact details provided and automatically identify any movers in and out.
 
 Class lists from each school can be uploaded using the following template:
 
