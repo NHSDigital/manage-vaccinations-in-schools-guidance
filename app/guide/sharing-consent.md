@@ -29,5 +29,5 @@ To get the URL for the consent form:
 1. Go to **Sessions**.
 2. Filter for **Scheduled** sessions.
 3. Click on the link for the relevant school.
-4. On the right side of the page, you’ll see links for the consent forms for the different vaccination programmes.
-5. If you click on this link, you will get the URL you need to use in the email template.
+4. Scroll down to the links for the consent forms for the different vaccination programmes.
+5. Click on the relevant consent form link to get the URL you need to use in the email template.
