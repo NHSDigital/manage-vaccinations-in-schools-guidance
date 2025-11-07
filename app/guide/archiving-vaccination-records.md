@@ -1,7 +1,7 @@
 ---
 title: Archiving vaccination records
 theme: Recording vaccinations
-order: 29
+order: 30
 eleventyComputed:
   eleventyNavigation:
     key: Archiving vaccination records
