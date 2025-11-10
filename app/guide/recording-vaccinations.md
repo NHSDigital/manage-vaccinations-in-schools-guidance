@@ -48,3 +48,13 @@ If the child was not vaccinated:
 1. Use the relevant radio button to record why the vaccine was not given, then **Continue**.
 2. Check and confirm your answer, and add notes if you want to.
 3. Make any changes (if necessary) and click **Confirm**.
+
+## Keeping track of your vaccinations
+
+You can see how many vaccinations you’ve given today by selecting **Your vaccinations today** near the top of the Record vaccinations tab.
+
+![Screenshot of tally of vaccinations given by the user today.](/assets/images/record-vaccinations-tab-with-tally.png)
+
+You can see how many vaccinations have been given by the team as a whole in the **Session overview** tab, under **Vaccinations given**.
+
+![Screenshot of session overview with tally of vaccinations given by user.](/assets/images/session-overview-vaccinations-given.png)
