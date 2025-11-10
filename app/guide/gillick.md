@@ -25,6 +25,6 @@ If the child is assessed as Gillick competent, you still need to add a consent r
 
 ![Screenshot of selecting a Gillick competent child.](/assets/images/session-consent-gillick-competent.png)
 
-2. Select **Child (Gillick competent)** and click **continue**.
-3. Select the appropriate radio button and click **continue**.
+2. Select **Child (Gillick competent)** and click **Continue**.
+3. Select the appropriate radio button and click **Continue**.
 4. Answer the health questions and click **Confirm**.
