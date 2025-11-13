@@ -1,7 +1,7 @@
 ---
 title: Adding notes to a child's record
 theme: Recording vaccinations
-order: 21
+order: 22
 eleventyComputed:
   eleventyNavigation:
     key: Adding notes

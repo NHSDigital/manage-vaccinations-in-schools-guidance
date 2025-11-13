@@ -1,7 +1,7 @@
 ---
 title: Recording a vaccination (or non-vaccination)
 theme: Recording vaccinations
-order: 24
+order: 25
 eleventyComputed:
   eleventyNavigation:
     key: Recording a vaccination

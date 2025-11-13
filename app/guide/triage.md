@@ -1,7 +1,7 @@
 ---
 title: Triaging health questions
 theme: Managing triage
-order: 19
+order: 20
 ---
 
 You can triage parents’ responses to health questions for each child in a school session.

@@ -1,7 +1,7 @@
 ---
 title: Registering attendance of children in sessions
 theme: Recording vaccinations
-order: 22
+order: 23
 eleventyComputed:
   eleventyNavigation:
     key: Registering attendance

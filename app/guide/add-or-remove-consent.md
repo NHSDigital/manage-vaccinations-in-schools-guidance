@@ -1,7 +1,7 @@
 ---
 title: Adding or removing consent manually
 theme: Managing consent
-order: 14
+order: 15
 ---
 
 ## Recording a new consent response

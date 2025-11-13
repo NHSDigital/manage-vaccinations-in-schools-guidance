@@ -1,7 +1,7 @@
 ---
 title: Enabling PSDs in Mavis
 theme: Managing PSDs
-order: 17
+order: 18
 ---
 
 If your team uses patient specific directions (PSDs) for flu vaccinations, you can turn on this feature in Mavis to allow healthcare assistants to administer the nasal spray vaccine in a session.
