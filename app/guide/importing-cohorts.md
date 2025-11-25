@@ -78,11 +78,13 @@ To upload files successfully:
 5. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
 6. Wait for the file to finish uploading.
 
-![Screenshot of programme overview.](/assets/images/programme-overview.png 'Mavis shows the number of children within each programme cohort.')
+![Screenshot of processed cohort import.](/assets/images/processed-cohort-import.png)
 
 Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
 
 ## Duplicates and import issues that need review
+
+![Screenshot of review screen for cohort import.](/assets/images/review-cohort-import.png)
 
 When you upload child records, Mavis will identify children it already has records for.
 
