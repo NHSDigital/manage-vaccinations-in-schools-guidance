@@ -1,4 +1,7 @@
+@use "sass:color";
 @use "pkg:nhsuk-frontend/dist/nhsuk/core" as *;
+
+$_dark-orange-colour: color.scale(color.mix(nhsuk-colour("red"), nhsuk-colour("yellow"), 60%), $lightness: -10%);
 
 .app-status-changes {
   table-layout: fixed;
@@ -6,6 +9,12 @@
 
   .nhsuk-tag {
     white-space: nowrap;
+  }
+
+  .nhsuk-tag--dark-orange {
+    background-color: nhsuk-tint($_dark-orange-colour, 80%);
+    border-color: nhsuk-shade($_dark-orange-colour, 50%);
+    color: nhsuk-shade($_dark-orange-colour, 50%);
   }
 
   .nhsuk-u-secondary-text-colour {

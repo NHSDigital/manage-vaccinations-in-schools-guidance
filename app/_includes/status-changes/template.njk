@@ -4,7 +4,8 @@
   <thead class="nhsuk-table__head">
     <tr>
       <th scope="col" class="nhsuk-table__header" style="width: 35%">Scenario</th>
-      <th scope="col" class="nhsuk-table__header" style="width: 30%">Previous status</th>
+      <th scope="col" class="nhsuk-table__header" style="width: 30%">Original status</th>
+      <th scope="col" class="nhsuk-table__header" style="width: 35%">3 November 2025</th>
       <th scope="col" class="nhsuk-table__header" style="width: 35%">New status</th>
     </tr>
   </thead>
@@ -15,19 +16,33 @@
         {{ status.description }}
       </td>
       <td class="nhsuk-table__cell">
+        {%- if status.old.text -%}
         <strong class="nhsuk-tag nhsuk-tag--{{ status.old.colour | default("white") }} ">
           {{- status.old.text -}}
         </strong>
+        {%- else -%}—
+        {%- endif %}
         {%- if status.old.hint -%}
         <span class="nhsuk-u-secondary-text-colour">{{ status.old.hint }}</span>
         {%- endif %}
       </td>
       <td class="nhsuk-table__cell">
+        {%- if status.new.text -%}
         <strong class="nhsuk-tag nhsuk-tag--{{ status.new.colour | default("white") }}">
           {{- status.new.text -}}
         </strong>
+        {%- else -%}—
+        {%- endif %}
         {%- if status.new.hint -%}
         <span class="nhsuk-u-secondary-text-colour">{{ status.new.hint }}</span>
+        {%- endif %}
+      </td>
+      <td class="nhsuk-table__cell">
+        <strong class="nhsuk-tag nhsuk-tag--{{ status.now.colour | default("white") }}">
+          {{- status.now.text -}}
+        </strong>
+        {%- if status.now.hint -%}
+        <span class="nhsuk-u-secondary-text-colour">{{ status.now.hint }}</span>
         {%- endif %}
       </td>
     </tr>

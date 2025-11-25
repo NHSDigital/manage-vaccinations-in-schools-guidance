@@ -1,0 +1,27 @@
+{% extends "layouts/base.njk" %}
+
+{% from "nhsuk/components/inset-text/macro.njk" import insetText as nhsukInsetText %}
+{% from "status-changes/macro.njk" import statusChanges %}
+
+{% block content %}
+  {{ appDocumentHeader({
+    caption: caption,
+    title: title,
+    date: date
+  }) }}
+
+  {{ appMetadata({
+    date: date,
+    modified: modified,
+    author: author,
+    tags: tags
+  }) }}
+
+  {% call appProseScope() %}
+    {{ content }}
+  {% endcall %}
+
+  {% for change in changes %}
+    {{- statusChanges(change) }}
+  {% endfor %}
+{% endblock %}
