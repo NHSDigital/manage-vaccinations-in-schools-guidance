@@ -33,20 +33,20 @@ Vaccination record files need to be in .csv format. Records can be all in one fi
 
 For each of your vaccination record CSV files:
 
-1. Go to the **Import** tab.
-2. Click on the **Import records** button near the top of the page.
+1. Go to the **Imports** tab.
+2. Click on the **Upload records** button near the top of the page.
 3. Select **Vaccination records**, then click Continue.
 4. Click on **Choose File**, then select the CSV file you want to import.
 5. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
-6. Wait for the file to finish importing
+6. Wait for the file to finish uploading
 
 Once the file has finished importing, there may be some import issues which you need to review before doing anything else.
 
 ## Resolving issues when uploading files
 
-Mavis will highlight any potential duplicates found in the uploaded file and compared with what was already in Mavis as an import issue.
+Mavis will highlight any potential duplicates found in the uploaded file and compared with what was already in Mavis as an upload issue.
 
-Go to the **Import** tab. For each record under **Import issues**:
+Go to the **Imports** tab. For each record under **Upload issues**:
 
 1. Select **Review**.
 2. Select which version of the record you want to keep and select resolve duplicate.
