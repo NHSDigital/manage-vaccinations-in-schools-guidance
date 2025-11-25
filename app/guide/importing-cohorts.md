@@ -72,11 +72,11 @@ To upload files successfully:
 ### How to upload a cohort file
 
 1. From the dashboard, go to **Import records** (or click on Imports in the top navigation).
-2. Click on the **Import records** button near the top of the page.
+2. Click on the **Upload records** button near the top of the page.
 3. Select **Child records**, then click Continue.
 4. Click on **Choose File**, then select the CSV file you want to import.
 5. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
-6. Wait for the file to finish importing.
+6. Wait for the file to finish uploading.
 
 ![Screenshot of programme overview.](/assets/images/programme-overview.png 'Mavis shows the number of children within each programme cohort.')
 
@@ -88,16 +88,18 @@ When you upload child records, Mavis will identify children it already has recor
 
 If it’s an exact duplicate, Mavis will simply not import the record again - you’ll see a notification telling you how many records were not imported because they already exist in Mavis.
 
-If the file upload includes additional information for the child, such as their gender or preferred name, this will be merged automatically with the existing record.
+If the file upload includes additional information for the child, such as their gender or preferred name, this will be added to the existing record if you approve the upload.
 
-If Mavis identifies a near match with an existing child record, you should review the missing or conflicting details and confirm which record to keep and which record to archive.
+If Mavis identifies any near matches with existing child records, you will need to review the missing or conflicting details after approving the upload, and confirm which record to keep and which record to archive.
 
-Go to the **Import** tab. Under **Import issues**, for each record:
+Click **Approve and import records**
 
-1. Select **Review**.
-2. Select which version of the record you want to keep and select **Resolve duplicate**.
+You'll need to review close matches and school moves after importing.
 
-There is also an option to keep both child records. For example, in the case of twins, Mavis will identify a near match and flag them as duplicate, but you can select **Keep both records**. The existing record will stay in Mavis and the uploaded record will be added.
+1. Click **Review** for each record listed.
+2. For close matches, select which version of the record you want to keep and select **Resolve duplicate**.
+
+There is also an option to keep both child records. For example, in the case of twins, Mavis will identify a near match, but you can select **Keep both records**. The existing record will stay in Mavis and the uploaded record will be added.
 
 If there are some parts of each record that are correct, you can:
 
@@ -105,10 +107,13 @@ If there are some parts of each record that are correct, you can:
 2. archive that record
 3. go to the record you are keeping and edit the information there
 
-Mavis will also highlight if you’ve provided an NHS number for a child that is different from the NHS number held by PDS. Mavis will automatically replace the incorrect NHS number you provided with the correct one from PDS.
+Mavis will also highlight if you’ve provided an NHS number for a child that is different from the NHS number held by PDS. Mavis will automatically replace the incorrect NHS number you provided with the correct one from PDS (see below).
 
 > [!NOTE]
 > If less than 70% of records match an NHS number in PDS, the upload will be rejected, and you’ll see an error message. You should review the file, correcting any formatting issues (for example, make sure the first name and last name columns and the date of birth rows are in the correct position) and try uploading it again.
+
+> [!NOTE]
+>Some records may have changed since you uploaded your file. For example, another import might have been approved that includes some of the records in your file, or a child's school or NHS number may have changed in Mavis. If this happens, you’ll need to review those records again and confirm you still want to import the remaining changes from your file.
 
 ## See how Mavis uses PDS to find NHS numbers
 
