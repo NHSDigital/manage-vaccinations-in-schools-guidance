@@ -9,7 +9,7 @@ eleventyComputed:
 
 [[toc]]
 
-Mavis is designed to be used with complete age-based cohorts, including those already vaccinated in previous academic years.
+Mavis is designed to be used with complete age-based cohorts, including those already vaccinated in previous school years.
 
 Before using Mavis for vaccination programmes, SAIS teams will need to:
 
