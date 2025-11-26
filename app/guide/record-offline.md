@@ -18,7 +18,7 @@ To download the spreadsheet for a session:
 1. Go to **Sessions**.
 2. Filter for **Scheduled** sessions.
 3. Click the link for the school you’re interested in.
-4. Click on the **Record offline** link at the top of the page to download the Excel file.
+4. Click on the **Record offline** link at the bottom of the Scheduled session dates block to download the Excel file.
 5. Save this locally.
 6. Once downloaded, a copy of the spreadsheet should be shared with all the nurses and admins attending the session.
 
@@ -57,8 +57,8 @@ When filling out the spreadsheet, you need to make sure you use accepted formats
 
 To view a list of accepted formats:
 
-1. Go to **Import**.
-2. Click on **Import records**.
+1. Go to **Imports**.
+2. Click on **Upload records**.
 3. Select **Vaccination records** and **Continue**.
 4. Open the link ‘How to format your CSV for vaccination records’.
 
@@ -84,8 +84,8 @@ Before uploading the spreadsheet, you first have to save a copy of the data from
 
 Then in Mavis:
 
-1. Go to **Import**.
-2. Click on **Import records**.
+1. Go to **Imports**.
+2. Click on **Upload records**.
 
 ![Screenshot of Import page.](/assets/images/import-records.png)
 

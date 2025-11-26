@@ -8,7 +8,7 @@ order: 15
 
 If you get a new consent response, for example, through a paper form, or verbally through a phone call, you can record this in Mavis.
 
-1. From the **Consent** tab of a session page, go into the child record by clicking on their name.
+1. From the **Children** tab of a session page, go into the child record by clicking on their name.
 2. Select **Record a new consent response**.
 3. Use the radio button to indicate who the consent is from (you can add a new contact if necessary).
 4. The parent’s details are displayed. Click **Continue** to enter a new consent response from that parent, then indicate whether it was given by phone, paper or in person.
@@ -34,7 +34,7 @@ The new consent from the same parent will override the previous one.
 You should only withdraw a consent response if a parent previously gave consent but wants to withdraw it.
 
 1. Verify that the person contacting you is the original responder.
-2. From the consent tab of a session page, go into the child record by clicking on their name.
+2. From the Children tab of a session page, go into the child record by clicking on their name.
 3. Go to the parent’s consent response by clicking on the parent’s name.
 4. Click on **Withdraw consent**.
 5. Select the parent’s reason for withdrawing consent, add notes and click **Withdraw consent**.
@@ -46,7 +46,7 @@ You should only withdraw a consent response if a parent previously gave consent 
 You should only mark a consent response as invalid if you have established that the person who responded does not have parental responsibility.
 
 1. Verify that the consent response was recorded from someone who did not have authority to consent.
-2. From the consent tab of a session page, go into the child record by clicking on their name.
+2. From the Children tab of a session page, go into the child record by clicking on their name.
 3. Go to the consent response by clicking on the name of the person who responded without authority to consent.
 4. Click on **Mark as invalid**.
 5. Add a note explaining why you are doing this and click on **Mark as invalid**.

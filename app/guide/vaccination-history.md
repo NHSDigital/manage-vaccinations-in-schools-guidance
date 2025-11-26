@@ -58,7 +58,7 @@ If there are some parts of each that are correct, you can note down any correct 
 If a child’s historical vaccination record is missing from CHIS data, or you have not been able to upload their historical vaccination record into Mavis, you can manually record the child as ‘already vaccinated’ for a specific programme. You can only do this once sessions have been scheduled (setting up sessions is covered in the ['Sessions'](/guide/sessions.md) section of this user guide).
 
 1. From Sessions, select a session that is not currently in progress.
-2. Search for the child under the **Consent** or **Children** tab - then click on the child’s name to open the child record.
+2. Search for the child under the **Children** tab - then click on the child’s name to open the child record.
 3. Select the relevant tab for the vaccination programme you want to record.
 4. Click on the **Record as already vaccinated** link near the top of the page.
 5. Check the details on the page and add a note to explain this was a historical vaccination - then click the **Confirm** button.
