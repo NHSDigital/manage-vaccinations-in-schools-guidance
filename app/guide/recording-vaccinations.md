@@ -55,6 +55,4 @@ You can see how many vaccinations you’ve given today by selecting **Your vacci
 
 ![Screenshot of tally of vaccinations given by the user today.](/assets/images/record-vaccinations-tab-with-tally.png)
 
-You can see how many vaccinations have been given by the team as a whole in the **Session overview** tab.
-
-![Screenshot of session overview with tally of vaccinations given by user.](/assets/images/session-overview-vaccinations-given.png)
+You can see how many vaccinations have been given by the team as a whole in the **Session overview** tab. (See [Keeping track of sessions](/guide/keeping-track-of-sessions.md))

@@ -16,7 +16,7 @@ If you receive a request to send a parent a paper-based consent form, you can do
 3. On the school page, click on the **Download consent form** link for the relevant vaccination programme.
 4. You can then print the form off and send it to the parent who requested it.
 
-![Screenshot of a session overview page.](/assets/images/session.png)
+![Screenshot of a session overview page.](/assets/images/session-overview.png)
 
 ## Entering a consent response from a paper form
 

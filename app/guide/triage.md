@@ -11,7 +11,7 @@ You can triage parents’ responses to health questions for each child in a scho
 3. Select the session you’re interested in.
 4. Go to the **Children** tab and filter for **Needs triage**. You’ll see a list of children who need triage.
 
-![Screenshot of a session overview page.](/assets/images/session.png)
+![Screenshot of a list of children who need triage.](/assets/images/session-needs-triage.png)
 
 5. Select the child whose record you want to triage.
 6. Review the parent’s answers to health questions.
