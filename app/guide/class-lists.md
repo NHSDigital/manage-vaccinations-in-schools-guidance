@@ -52,7 +52,7 @@ If it’s an exact duplicate, Mavis will simply not import the record again - yo
 
 If the file upload includes additional information for the child, such as their gender or preferred name, this will be added to the existing record if you approve the upload.
 
-If Mavis identifies any near matches with an existing child records, you will need to review the missing or conflicting details after approving the upload, and confirm which record to keep and which record to archive.
+If Mavis identifies any near matches with existing child records, you will need to review the missing or conflicting details after approving the upload, and confirm which record to keep and which record to archive.
 
 Click **Approve and import records**
 

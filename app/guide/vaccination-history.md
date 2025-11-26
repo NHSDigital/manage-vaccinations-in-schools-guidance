@@ -40,7 +40,7 @@ For each of your vaccination record CSV files:
 5. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
 6. Wait for the file to finish uploading
 
-Once the file has finished importing, there may be some import issues which you need to review before doing anything else.
+Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
 
 ## Resolving issues when uploading files
 
