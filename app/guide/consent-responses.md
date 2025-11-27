@@ -21,7 +21,7 @@ For flu, if consent has been given, you’ll be able to see whether this is for:
 - nasal spray, or injected vaccine if the nasal spray is not suitable
 - injected vaccine only
 
-![Screenshot of consent responses for a session.](/assets/images/session-consent.png 'Mavis shows consent responses for a session grouped by status.')
+![Screenshot of consent responses for a session.](/assets/images/session-no-consent-response.png 'Mavis shows consent responses for a session grouped by status.')
 
 ## Reviewing children who’ve changed schools
 

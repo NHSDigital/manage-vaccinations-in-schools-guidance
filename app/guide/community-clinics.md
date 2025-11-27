@@ -73,10 +73,10 @@ The ‘Invite to community clinic’ button has 2 functions.
 To send booking reminders for subsequent clinics:
 
 1. Go to **Sessions**
-2. Filter for **Scheduled** sessions
-3. Go to the **Community clinics** link
-4. Go to **Send booking reminders**. This will show you a summary of children you can invite again to the next clinic
-5. Click the **Send booking reminders** button
+2. On the filters menu, select **Scheduled** and **Community clinic**.
+3. Select the clinic session you're interested in.
+4. On the **Overview** tab, select the **Send booking reminders** link (it's in the 'Scheduled session dates' block). This will show you how many children you can invite again to the next clinic.
+5. Click the **Send booking reminders** button.
 
 You will only be able to send clinic booking reminders to parents of children that have been invited for a previous clinic, but have still not been vaccinated. You can only send one invitation per child per clinic session date.
 
