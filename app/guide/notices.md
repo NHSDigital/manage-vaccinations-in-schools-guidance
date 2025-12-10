@@ -17,3 +17,13 @@ Whenever you log in to Mavis, you should go to **Import** and then **Important N
 Records might be flagged as invalid if the child has 2 NHS numbers (if they’re adopted, for example).
 
 If you see that a record has been flagged as sensitive, you need to follow this up with the child’s school and agree how to manage future contact outside Mavis.
+
+Once you have seen and, if necessary, acted on an important notice, you can dismiss it.
+
+![Screenshot of dismissing an important notice.](/assets/images/dismiss-notices.png)
+
+If you dismiss an important notice it will disappear from the **Import** page for all superusers in your team. It will still be visible on the individual child record.
+
+![Screenshot of child record with important notice.](/assets/images/sensitive-child-record.png)
+
+
