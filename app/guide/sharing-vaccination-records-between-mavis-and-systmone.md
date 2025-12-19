@@ -23,7 +23,7 @@ Until there’s fully automated data sharing, you should periodically download v
 2. Select a date range.
 3. Select the **CSV for SystmOne (TPP)** file format and **Continue**.
 
-### Upload the file to SystmOne
+### Upload the file to SystemOne
 
 1. Open SystmOne.
 2. Use the application menu to navigate to **Setup** then **Bulk Operations** then **Childhood Vaccination Upload**.

@@ -27,3 +27,15 @@ To download vaccination reports:
 
 > [!NOTE]
 > **CarePlus** and **SystmOne** format downloads only include vaccinations given whereas the Mavis **CSV** format download also includes entries for children in the cohort who were not vaccinated.
+
+## Data sharing between CHIS, SAIS and GP practices on SystmOne
+
+### When CHIS uses SystmOne
+
+Mavis sends vaccination records to GP practices using SystmOne. If your local CHIS provider also uses SystmOne, these records may automatically appear in the CHIS system. This depends on your local data sharing agreements.
+
+If the child's GP uses EMIS Web or Medicus, the vaccination record will not automatically flow through to CHIS. You'll need to manually extract these records from Mavis and send them to CHIS.
+
+### When SAIS uses SystmOne as an electronic patient record (EPR)
+
+If you use SystmOne as an EPR system, vaccination data for children whose GP uses EMIS Web or Medicus will not flow through automatically. You'll need to manually extract these records from Mavis and upload them to the SAIS SystmOne system.
