@@ -17,6 +17,8 @@ If schools have not provided parents’ contact details, they’ll need to send 
 - [HPV consent reminder email](/email-and-text-templates/consent-reminder-hpv)
 - [MenACWY and Td/IPV consent request email](/email-and-text-templates/consent-request-doubles)
 - [MenACWY and Td/IPV consent reminder email](/email-and-text-templates/consent-reminder-doubles)
+- [MMR consent request email](/email-and-text-templates/consent-request-mmr)
+- [MMR consent reminder email](/email-and-text-templates/consent-reminder-mmr)
 
 ### How to use the templates
 
