@@ -30,10 +30,13 @@ If the school did not provide the list in CSV format, you need to reformat it re
 In Mavis:
 
 1. Go to **Imports** in the top navigation.
-2. Click on **Upload records**.
-3. Select **Class list records** and click **Continue**.
-4. Search for the school by name and click **Continue.**
+2. Select **Upload records**.
+3. Select **Class list records** then **Continue**.
+4. Search for the school by name and select **Continue**.
 5. Select which year groups these records are for.
+6. Select **Choose File**, then select the CSV file you want to import.
+7. Select **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
+8. Wait for the file to finish uploading.
 
 ![Screenshot of choosing year groups for class list imports.](/assets/images/import-class-list-year-groups.png 'Select which year groups your class list import contains.')
 
