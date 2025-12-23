@@ -10,7 +10,7 @@ Mavis lets you review consent responses for each session.
 
 1. Go to **Sessions**.
 2. Filter for **Scheduled** sessions.
-3. Select the relevant location.
+3. Find the session you’re interested in and select it.
 4. Go to the **Children** tab.
 5. Use the filters to see how many consents, refusals and conflicts you have. To see any children with conflicting consent responses, select **Has a refusal** then select **Conflicting consent** in the dropdown.
 6. Click on a child’s name if you want to see more details about consent for that child.
@@ -53,11 +53,12 @@ For flu, ‘conflicting consent’ can also mean that parents have given consent
 
 In both cases, you will need to investigate the conflicting consent and resolve it before the child can be vaccinated.
 
-1. From the **Children** tab of a session page, filter for **Has a refusal** then select **Conflicting consent**.
-2. If you click on the child’s record and scroll down, you’ll see who has said what in their consent responses.
-3. Click on the name of the parent whose consent you want to investigate. This opens their consent response, including their contact details.
-4. Contact the parent to discuss the conflicting consent.
-5. If the parent changes their consent decision when you speak to them, add their new response to the child record manually (see [Recording a new consent response](/guide/add-or-remove-consent.md)).
+1. Go to **Sessions** and find the session you’re looking for. Select it.
+2. In the **Children** tab for this session, filter for **Has a refusal** then select **Conflicting consent**.
+3. If you click on the child’s record and scroll down, you’ll see who has said what in their consent responses.
+4. Click on the name of the parent whose consent you want to investigate. This opens their consent response, including their contact details.
+5. Contact the parent to discuss the conflicting consent.
+6. If the parent changes their consent decision when you speak to them, add their new response to the child record manually (see [Recording a new consent response](/guide/add-or-remove-consent.md)).
 
 ## Investigating unknown parent contact details in consent response
 
