@@ -38,8 +38,6 @@ In Mavis:
 7. Select **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
 8. Wait for the file to finish uploading.
 
-![Screenshot of choosing year groups for class list imports.](/assets/images/import-class-list-year-groups.png 'Select which year groups your class list import contains.')
-
 Mavis may add a missing NHS number or replace an incorrect one in your upload by searching PDS. (See [See how Mavis uses PDS to find NHS numbers](/guide/importing-cohorts#see-how-mavis-uses-pds-to-find-nhs-numbers))
 
 > [!NOTE]
