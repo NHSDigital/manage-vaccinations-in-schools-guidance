@@ -45,7 +45,7 @@ Mavis may add a missing NHS number or replace an incorrect one in your upload by
 > [!NOTE]
 > If a school does not provide postcodes for every child, you can still upload the class lists. You will have to add any missing NHS numbers manually.
 
-## Duplicates and import issues that need review
+## Reviewing and approving uploads
 
 ![Screenshot of review screen for class import.](/assets/images/review-class-import.png)
 
