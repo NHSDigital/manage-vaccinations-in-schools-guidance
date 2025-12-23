@@ -4,7 +4,7 @@ theme: Recording vaccinations
 order: 28
 ---
 
-From a session page, click on the **Children** tab to see the vaccination outcomes for all children at the school. You can use filters (for example, ‘Vaccinated’ or ‘Could not vaccinate’) to narrow the list, or you can search for individual children.
+From a session page, click on the **Children** tab to see the vaccination outcomes for all children at the school. You can use filters (for example, ‘Vaccinated’ or ‘Unable to vaccinate’) to narrow the list, or you can search for individual children.
 
 Once all dates of a session have been completed, you can invite all unvaccinated children from this school to a community clinic. This is covered in the ‘Community clinics’ section of this guide.
 

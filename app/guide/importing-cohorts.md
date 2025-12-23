@@ -82,7 +82,7 @@ To upload files successfully:
 
 Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
 
-## Duplicates and import issues that need review
+## Reviewing and approving uploads
 
 ![Screenshot of review screen for cohort import.](/assets/images/review-cohort-import.png)
 

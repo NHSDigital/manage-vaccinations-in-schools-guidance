@@ -9,7 +9,7 @@ eleventyComputed:
 
 All sessions in Mavis have an overview page that shows a summary of the vaccination session.
 
-1. Go to Sessions.
+1. Go to **Sessions**.
 2. Find the session you want, then select it. The **Overview** tab opens automatically.
 
 The session overview includes:

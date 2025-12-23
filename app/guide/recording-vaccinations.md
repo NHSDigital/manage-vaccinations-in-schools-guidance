@@ -7,16 +7,17 @@ eleventyComputed:
     key: Recording a vaccination
 ---
 
-To record a vaccination (or a vaccination that didn’t happen), follow the instructions below.
+To record a vaccination (or a vaccination that did not happen), follow the instructions below.
+
+The **Record vaccinations** tab only shows children who have consent to be vaccinated, have been triaged as safe to vaccinate (if triage was necessary) and are registered as attending the session (if you’re using registration).
 
 ## Select the child and programme
 
 1. Go to **Sessions**.
 2. Filter for **In Progress** sessions.
-3. Click on the name of the school you’re attending.
-4. Click on **Record vaccinations** under the relevant programme.
-5. A list of children’s names is displayed - you can filter the list by name or year group.
-6. Click on the name of the child in front of you.
+3. Find the relevant session and select it.
+4. Select the **Record vaccinations** tab. A list of children’s names is displayed - you can use filters to narrow the list.
+5. Select the name of the child in front of you.
 
 > [!NOTE]
 > If you’re offering more than one vaccination programme at this session, make sure you select the relevant programme tab, near the top of the screen.

@@ -12,18 +12,21 @@ Any child can be vaccinated at a clinic. You can send invitations from Mavis (se
 
 Add all dates of all clinics to one session in Mavis. You cannot add specific clinic locations here. Those details are held in your local booking system.
 
+You should only schedule sessions after you’ve uploaded vaccination records.
+
 To create dates for community clinics:
 
 1. Go to **Sessions**.
-2. Filter for **Unscheduled** sessions.
-3. Go to the **Community clinic** link.
-4. Click on **Schedule sessions**.
-5. Follow the process as you would for school sessions.
+2. Select **Add a new session**
+3. Select **Community clinic** and **Continue**.
+4. Select the programme(s) to run at this session.
+5. Enter the date the session will run, then select **Continue**.
+6. Check the session details on the **Check and confirm** page and select **Continue** to save the session.
 
 To add or amend dates for community clinics:
 
 1. Go to **Sessions**.
-2. Filter for **Scheduled** sessions.
+2. Filter for **Scheduled** sessions and **Community clinic**.
 3. Go to the **Community clinic** link (there is just one for all clinics).
 4. Go to **Edit session**.
 5. Follow the process as you would for school sessions.
