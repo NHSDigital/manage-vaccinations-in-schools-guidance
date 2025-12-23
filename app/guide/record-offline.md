@@ -84,16 +84,18 @@ Before uploading the spreadsheet, you first have to save a copy of the data from
 
 Then in Mavis:
 
-1. Go to **Imports**.
-2. Click on **Upload records**.
+1. From the dashboard, go to **Import records** (or select **Imports** in the top navigation).
+2. Select **Upload records**.
 
 ![Screenshot of Import page.](/assets/images/import-records.png)
 
 3. Select **Vaccination records** and **Continue**.
-4. Click on **Choose File**.
+4. Select **Choose File**.
 5. Open the file and select **Continue**. If there are any validation issues, Mavis will not import the file.
 6. Correct the issues listed and try again.
 7. Wait for the file to finish importing.
+
+Once the file has finished uploading, there may be some import issues that you need to review before doing anything else (see [Resolving issues when uploading files](/guide/vaccination-history/#resolving-issues-when-uploading-files)).
 
 ### Updating subcutaneous vaccinations
 
