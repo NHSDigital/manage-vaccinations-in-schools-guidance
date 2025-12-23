@@ -17,7 +17,7 @@ You should only schedule sessions after you’ve uploaded vaccination records an
 2. Find the school you want to create a session for and select it to open its record.
 3. Select the **Sessions** tab.
 
-[Add screenshot of school record, with a couple of existing scheduled sessions showing?]
+![Screenshot of session tab on a school page](/assets/images/school-sessions.png)
 
 4. Select **Add a new session**.
 5. Select the programmes you will run at the session then **Continue**.
