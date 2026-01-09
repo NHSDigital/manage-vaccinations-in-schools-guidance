@@ -26,7 +26,7 @@ If we have parents’ mobile numbers, Mavis also sends them text messages.
 Mavis automatically sends texts to:
 
 - ask for consent
-- send reminders if parentsthey have not responded
+- send reminders if parents have not responded
 - confirm consent responses
 - remind parentsthem when sessions are happening
 - confirm vaccination outcomes
