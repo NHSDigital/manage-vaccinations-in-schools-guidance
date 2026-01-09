@@ -28,7 +28,7 @@ Mavis automatically sends texts to:
 - ask for consent
 - send reminders if parents have not responded
 - confirm consent responses
-- remind parentsthem when sessions are happening
+- remind parents when sessions are happening
 - confirm vaccination outcomes
 
 ## Email templates for contacting schools
