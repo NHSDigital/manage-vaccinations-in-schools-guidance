@@ -6,7 +6,7 @@ order: 5
 
 [[toc]]
 
-Where relevant, you should upload relevant historical vaccination records for HPV, MMRV, MenACWY or Td/IPV before scheduling school sessions. This is so that Mavis:
+Where relevant, you should upload relevant historical vaccination records for HPV, MMR(V), MenACWY or Td/IPV before scheduling school sessions. This is so that Mavis:
 
 - knows which vaccinations a child has already had (if applicable)
 - only sends consent requests for children who have not had the vaccine already
@@ -22,7 +22,7 @@ You should also include vaccination records for anyone in the cohort who was vac
 
 Use the following template to upload historical vaccination records for HPV, MenACWY and Td/IPV from the last 3 years. 
 
-For MMR, you should go as far back as the oldest member of the cohort minus one year. For example, if you’re vaccinating Year 6 children (where the oldest child is 11), you’d upload records for the last 10 years. For Year 11 children (where the oldest child is 16), this would mean uploading records for the last 15 years.
+For MMR(V), you should go as far back as the oldest member of the cohort minus one year. For example, if you’re vaccinating Year 6 children (where the oldest child is 11), you’d upload records for the last 10 years. For Year 11 children (where the oldest child is 16), this would mean uploading records for the last 15 years.
 
 This does not apply to flu.
 
