@@ -17,7 +17,7 @@ If you later find out that a child has already been vaccinated, you can update t
 
 You should include vaccination records for anyone in the cohort who was vaccinated elsewhere, if you have them. These records will be stored in Mavis and will not be sent anywhere else.
 
-### What vaccination history you need to upload
+## What vaccination history you need to upload
 
 How much vaccination history you need to upload depends on the programme. 
 
