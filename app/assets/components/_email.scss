@@ -45,8 +45,8 @@
     }
   }
 
-  // Make inset text better match to GOV.UK Notify appearance
-  .nhsuk-inset-text {
+  // Make information callouts better match to GOV.UK Notify appearance
+  [data-govspeak="information-callout"] {
     border-color: nhsuk-colour("grey-3");
     margin-bottom: nhsuk-spacing(4);
     margin-top: nhsuk-spacing(4);
