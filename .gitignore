@@ -2,6 +2,7 @@
 .sass-cache
 .idea/
 .vscode/
+.venv
 node_modules
 _site
 
