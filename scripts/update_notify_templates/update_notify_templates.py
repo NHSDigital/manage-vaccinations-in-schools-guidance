@@ -31,7 +31,7 @@ def replace_underscored_variables(text: str) -> str:
         # Replace underscores with spaces
         readable_name = var_name.replace('__', ' ').replace('_', ' ')
         return f"(({readable_name}))"
-    
+
     # Match ((variable_name)) patterns
     return re.sub(r"\(\(([a-zA-Z0-9_]+)\)\)", replace_match, text)
 
@@ -57,9 +57,6 @@ def convert_to_markdown(body: str) -> str:
     # Convert all ## to ### (demote headings)
     body = re.sub(r"^##\s?", "### ", body, flags=re.MULTILINE)
 
-    # Replace ^ with > if it's at the start of a line
-    body = re.sub(r"^\^\s?", "> [!NOTE]\n> ", body, flags=re.MULTILINE)
-
     return body
 
 
@@ -69,20 +66,20 @@ def compose_yaml_frontmatter(frontmatter: dict[str, str|int]) -> str:
         yaml_lines.append(f"{key}: {value}")
     yaml_lines.append("---\n")
     return "\n".join(yaml_lines)
-    
+
 def extract_frontmatter(file_path: str) -> dict[str, str | int]:
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
-        
+
         # Extract frontmatter section
         parts = content.split("---", 2)
         if len(parts) < 3:
             return {}
-        
+
         frontmatter = parts[1]
         result = {}
-        
+
         # Find all key-value pairs
         for line in frontmatter.strip().split("\n"):
             if ":" in line:
@@ -94,7 +91,7 @@ def extract_frontmatter(file_path: str) -> dict[str, str | int]:
                     result[key] = int(value)
                 else:
                     result[key] = value
-        
+
         return result
     except Exception as e:
         print(f"Error reading {file_path}: {e}")
@@ -104,7 +101,7 @@ def strip_square_brackets(text: str) -> str:
     return re.sub(r"^\[.*?]\s*", "", text)
 
 def get_file_name(template: dict[str, str|int]) -> str:
-    file_name = f"{DEFAULT_TEMPLATE_IDS.get(template.get("id", ""))}"
+    file_name = f"{DEFAULT_TEMPLATE_IDS.get(template.get('id', ''))}"
 
     return file_name
 
@@ -155,15 +152,15 @@ def update_templates(template_ids: list[str], output_dir: str, order_start: int=
             "title": title,
             "theme": "Emails to parents" if template.get("type", "email") == "email" else "Text messages to parents",
         }
-        
+
         # Only add subject if it exists in existing frontmatter
         if "subject" in existing_frontmatter:
             frontmatter["subject"] = convert_to_markdown(template.get("subject", ""))
-        
+
         # Only add toReplacePlaceholders if it exists in existing frontmatter
         if "toReplacePlaceholders" in existing_frontmatter:
             frontmatter["toReplacePlaceholders"] = existing_frontmatter["toReplacePlaceholders"]
-        
+
         # Add order last
         frontmatter["order"] = order
 
