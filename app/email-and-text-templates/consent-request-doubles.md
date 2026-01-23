@@ -2,21 +2,23 @@
 layout: email-template
 title: MenACWY and Td/IPV initial consent request
 theme: Emails to parents
-subject: MenACWY and Td/IPV vaccinations for ==patient name==
+subject: MenACWY and Td/IPV vaccinations for ==short patient name==
 order: 5
 ---
 
 We’re coming to ==location name== on ==next session dates== to offer the following vaccinations to your child:
 
-- MenACWY
-- Td/IPV (also called the 3-in-1 teenage booster)
+* MenACWY
+* Td/IPV (also called the 3-in-1 teenage booster)
 
 We would like your consent to vaccinate ==short patient name==. You can respond by filling in our online form.
 
 > [!NOTE]
 > Do not reply to this email to tell us your decision. The link to the online consent form is below.
 
-## About the MenACWY vaccine
+
+
+### About the MenACWY vaccine
 
 The MenACWY vaccine helps protect against life-threatening illnesses including meningitis, sepsis and septicaemia (blood poisoning).
 
@@ -36,23 +38,23 @@ It’s offered at around 13 or 14 years old (school year 9 or 10). It boosts the
 
 [Learn about the Td/IPV vaccine on GOV.UK](https://www.gov.uk/government/publications/a-guide-to-the-3-in-1-teenage-booster-tdipv) (with links to information in other languages)
 
-### How to respond
-
-> It’s important to let us know whether you do or do not want your child to have these vaccinations. It will take less than 5 minutes to respond using the link below.
-
-[Respond to the consent request](==consent link==)
-
-You need to respond by ==consent deadline==.
-
-If you do not respond, you’ll get automatic reminders. Responding will stop reminders.
-
 ### Talk to your child about what they want
 
 We suggest you talk to your child about the vaccinations before you respond to us.
 
-Young people have the right to refuse vaccinations. Those who show [‘Gillick competence'](https://www.nhs.uk/conditions/consent-to-treatment/children/) have the right to consent to vaccinations themselves. Our team may assess Gillick competence during vaccination sessions.
+Young people have the right to refuse vaccinations. Those who show ['Gillick competence'](https://www.nhs.uk/conditions/consent-to-treatment/children/) have the right to consent to vaccinations themselves. Our team may assess Gillick competence during vaccination sessions.
 
-### If you cannot use the online form
+
+### How to respond
+
+> [!NOTE]
+> It’s important to let us know whether you do or do not want your child to have these vaccinations. It will take less than 5 minutes to respond using the link below.
+
+[Respond to the consent request now](==consent link==)
+
+You need to respond by ==consent deadline==.
+
+If you do not respond, you’ll get automatic reminders. Responding will stop reminders.
 
 If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
 
@@ -60,6 +62,6 @@ If you cannot use the online form, you can respond over the phone using the cont
 
 By responding, you’re agreeing to your data being processed as set out in our [privacy notice](==team privacy notice url==).
 
-### Get in touch with us
+### Contact us
 
 Speak to a member of our team by calling ==subteam phone==, or email ==subteam email==.

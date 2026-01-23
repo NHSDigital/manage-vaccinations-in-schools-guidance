@@ -6,6 +6,6 @@ toReplacePlaceholders: true
 order: 8
 ---
 
-We recently asked you to give or refuse consent for ==short_patient_name== to have their ==vaccination==.
+We recently asked you to give or refuse consent for ==short patient name== to have their ==vaccination sms==.
 
-Go to ==consent_link== to submit a response. This will take less than 5 minutes.
+Go to ==consent link== to submit a response. This will take less than 5 minutes.

@@ -2,11 +2,15 @@
 layout: email-template
 title: HPV initial consent request
 theme: Emails to parents
-subject: HPV vaccination for ==patient name==
+subject: HPV vaccination for ==short patient name==
 order: 3
 ---
 
-We're coming to ==location name== on ==next session dates== to give the human papillomavirus (HPV) vaccine. We would like your consent to vaccinate ==patient name==. You can respond by filling in our online form.
+We’re coming to ==location name== on ==next session dates== to give the human papillomavirus (HPV) vaccine .
+
+
+
+We would like your consent to vaccinate ==short patient name==. You can respond by filling in our online form. 
 
 > [!NOTE]
 > Do not reply to this email to tell us your decision. The link to the online consent form is below.
@@ -15,41 +19,41 @@ We're coming to ==location name== on ==next session dates== to give the human pa
 
 The HPV vaccine helps protect boys and girls against cancers caused by HPV, including:
 
-- cervical cancer
-- some mouth and throat (head and neck) cancers
-- some cancers of the anal and genital areas
+* cervical cancer
+* some mouth and throat (head and neck) cancers
+* some cancers of the anal and genital areas
 
 It also helps protect against genital warts.
 
-The HPV vaccine works best if it’s given before young people become sexually active.
+The HPV vaccine works best if it’s given before young people become sexually active. Young people usually only need 1 dose.
 
 [Find out more about the HPV vaccine on NHS.UK](https://www.nhs.uk/conditions/vaccinations/hpv-human-papillomavirus-vaccine/)
 
-[Read the patient information leaflet (PDF)](https://www.medicines.org.uk/emc/files/pil.7330.pdf)
+[Learn about the HPV vaccine on GOV.UK](https://www.gov.uk/government/publications/hpv-vaccine-vaccination-guide-leaflet) (with information available in different languages and alternative formats, including BSL and Braille)
 
 ### How to respond
 
 > [!NOTE]
-> It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below.
+> It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below. You need to respond by ==consent deadline==.
 
-==consent URL==
+[Respond to the consent request now](==consent link==)
 
 If you do not respond, you’ll get automatic reminders. Responding will stop reminders.
 
 ### Talk to your child about what they want
 
-We suggest you talk to ==patient name== about the vaccination before you respond to us.
+We suggest you talk to ==short patient name== about the vaccination before you respond to us. 
 
-Young people have the right to refuse vaccinations. Those who show [Gillick competence](https://www.nhs.uk/conditions/consent-to-treatment/children/#:~:text=Children%20under%20the%20age%20of,responsibility%20can%20consent%20for%20them) have the right to consent to vaccinations themselves. Our team may assess Gillick competence during vaccination sessions.
+Young people have the right to refuse vaccinations. Those who show [‘Gillick competence’](https://www.nhs.uk/conditions/consent-to-treatment/children/#:~:text=Children%20under%20the%20age%20of,responsibility%20can%20consent%20for%20them) have the right to consent to vaccinations themselves. Our team may assess Gillick competence during vaccination sessions.
 
 ### If you cannot use the online form
 
-If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
+If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent. 
 
 ### Your data
 
-By responding, you’re agreeing to your data being processed as set out in our privacy notice: ==privacy notice URL==.
+By responding, you're agreeing to your data being processed as set out in our [privacy notice](==team privacy notice url==).
 
-### Get in touch with us
+### Contact our team
 
-Speak to a member of the local health team by calling ==team phone number==, or email ==team email address==.
+Speak to a member of our team by calling ==subteam phone==, or email ==subteam email==.
