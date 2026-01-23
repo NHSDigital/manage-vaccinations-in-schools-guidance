@@ -12,8 +12,7 @@ We'd like your consent to vaccinate ==short patient name==. You can respond by f
 
 If you're sure your child has had 2 doses, please confirm this using the consent request form.
 
-> [!NOTE]
-> Do not reply to this email to tell us your decision. The link to the consent form is below.
+^ Do not reply to this email to tell us your decision. The link to the consent form is below.
 
 
 
@@ -36,8 +35,7 @@ Young people have the right to refuse vaccinations. Those who show ['Gillick com
 
 ### How to respond
 
-> [!NOTE]
-> It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below.
+^ It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below.
 
 [Respond to the consent request now](==consent link==)
 

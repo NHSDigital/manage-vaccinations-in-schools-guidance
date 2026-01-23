@@ -8,14 +8,13 @@ order: 4
 
 We wrote to you recently about a visit by a local health team to ==location name== on ==next session dates==.
 
-If you want your child to get the HPV vaccination, you need to give consent by ==consent deadline==. 
+If you want your child to get the HPV vaccination, you need to give consent by ==consent deadline==.
 
-> [!NOTE]
-> Do not reply to this email to tell us your decision. The link to the online consent form is below.
+^ Do not reply to this email to tell us your decision. The link to the online consent form is below.
 
 If you've already responded to the consent request, you can ignore this message.
 
-### What the vaccine is for 
+### What the vaccine is for
 
 The HPV vaccine helps protect against cancers caused by HPV, including:
 
@@ -33,8 +32,7 @@ The HPV vaccine works best if it’s given before young people become sexually a
 
 ### How to respond
 
-> [!NOTE]
-> It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below. You need to respond by ==consent deadline==.
+^ It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below. You need to respond by ==consent deadline==.
 
 [Respond to the consent request now](==consent link==)
 
@@ -42,11 +40,11 @@ If you do not respond, you’ll get automatic reminders. Responding will stop re
 
 ### Talk to your child about what they want
 
-We suggest you talk to your child about the vaccine before you respond to us. 
+We suggest you talk to your child about the vaccine before you respond to us.
 
 ### If you cannot use the online form
 
-If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent. 
+If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
 
 ### Get in touch with us
 
