@@ -1,0 +1,23 @@
+{% extends "layouts/base.njk" %}
+{% block header %}
+  {{ nhsukHeader(options.header | currentPage(page.url)) }}
+{% endblock %}
+{% block content %}
+  <div class="nhsuk-grid-row">
+    <div class="nhsuk-grid-column-one-quarter">
+      {{ appSubNavigation({
+        items: collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | itemsFromNavigation(page.url, { pathPrefix: options.pathPrefix })
+      }) }}
+    </div>
+    <div class="nhsuk-grid-column-three-quarters">
+      {{ appDocumentHeader({
+        caption: caption,
+        title: title,
+        description: description
+      }) }}
+      {% call appProseScope() %}
+      {{ content }}
+      {% endcall %}
+    </div>
+  </div>
+{% endblock %}

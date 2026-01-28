@@ -1,0 +1,9 @@
+{
+  "layout": "national-reporting",
+  "collection": "national-reporting-guide",
+  "sectionKey": "National reporting user guide",
+  "showPagination": true,
+  "eleventyNavigation": {
+    "parent": "National reporting user guide"
+  }
+}
