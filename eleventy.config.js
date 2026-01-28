@@ -53,6 +53,13 @@ export default function (eleventyConfig) {
         return a.data.order - b.data.order
       })
   })
+  eleventyConfig.addCollection('national-reporting-guide', (collection) => {
+    return collection
+      .getFilteredByGlob('app/national-reporting-guide/*.md')
+      .sort((a, b) => {
+        return a.data.order - b.data.order
+      })
+  })
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('app/assets/images')
