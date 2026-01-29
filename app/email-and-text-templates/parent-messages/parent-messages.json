@@ -1,0 +1,7 @@
+{
+  "layout": "sub-navigation",
+  "sectionKey": "Text messages to parents",
+  "eleventyNavigation": {
+    "parent": "Text messages to parents"
+  }
+}
