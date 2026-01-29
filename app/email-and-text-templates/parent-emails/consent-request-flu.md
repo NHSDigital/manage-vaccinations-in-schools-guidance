@@ -1,18 +1,16 @@
 ---
 layout: email-template
-title: Flu consent reminder
-theme: Emails to parents
-subject: Please respond to our request for consent by ==consent deadline==
-order: 2
+title: "Initial consent request for flu"
+theme: Consent requests
+subject: Annual flu vaccination for ==short patient name==
+order: 40
 ---
 
-We wrote to you recently to let you know we’re coming to ==location name== on ==next session dates== to offer your child their annual flu vaccination.
+We’re coming to ==location name== on ==next session dates== to give pupils their annual flu vaccination.
+
+We would like your consent to vaccinate ==short patient name==. You can respond by filling in our online form.
 
 ^ Do not reply to this email to tell us your decision. The link to the online consent form is below.
-
-
-
-If you’ve already responded to the consent request, you can ignore this message.
 
 ### About the children’s flu vaccine
 
@@ -36,10 +34,9 @@ We suggest you talk to your child about the vaccinations before you respond to u
 
 Young people have the right to refuse vaccinations. Those who show ['Gillick competence'](https://www.nhs.uk/conditions/consent-to-treatment/children/) have the right to consent to vaccinations themselves. Our team may assess Gillick competence during vaccination sessions.
 
-
 ### How to respond
 
-^It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below.
+^ It’s important to let us know whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below.
 
 [Respond to the consent request now](==consent link==)
 

@@ -1,21 +1,19 @@
 ---
 layout: email-template
-title: MenACWY and Td/IPV initial consent request
-theme: Emails to parents
+title: "Initial consent request for MenACWY and Td/IPV"
+theme: Consent requests
 subject: MenACWY and Td/IPV vaccinations for ==short patient name==
-order: 5
+order: 42
 ---
 
 We’re coming to ==location name== on ==next session dates== to offer the following vaccinations to your child:
 
-* MenACWY
-* Td/IPV (also called the 3-in-1 teenage booster)
+- MenACWY
+- Td/IPV (also called the 3-in-1 teenage booster)
 
 We would like your consent to vaccinate ==short patient name==. You can respond by filling in our online form.
 
 ^ Do not reply to this email to tell us your decision. The link to the online consent form is below.
-
-
 
 ### About the MenACWY vaccine
 
@@ -42,7 +40,6 @@ It’s offered at around 13 or 14 years old (school year 9 or 10). It boosts the
 We suggest you talk to your child about the vaccinations before you respond to us.
 
 Young people have the right to refuse vaccinations. Those who show ['Gillick competence'](https://www.nhs.uk/conditions/consent-to-treatment/children/) have the right to consent to vaccinations themselves. Our team may assess Gillick competence during vaccination sessions.
-
 
 ### How to respond
 

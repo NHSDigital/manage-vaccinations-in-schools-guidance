@@ -1,9 +1,9 @@
 ---
 layout: email-template
-title: MMR initial consent request
-theme: Emails to parents
+title: "Initial consent request for MMR"
+theme: Consent requests
 subject: MMR (measles, mumps and rubella) catch-up vaccination for ==short patient name==
-order: 7
+order: 43
 ---
 
 We’re coming to ==location name== on ==next session dates== to offer the MMR vaccination to children who have not yet had 2 doses of the vaccine.
@@ -13,8 +13,6 @@ We'd like your consent to vaccinate ==short patient name==. You can respond by f
 If you're sure your child has had 2 doses, please confirm this using the consent request form.
 
 ^ Do not reply to this email to tell us your decision. The link to the consent form is below.
-
-
 
 ### About the MMR vaccine
 
@@ -31,7 +29,6 @@ You can also find a range of [information about the vaccine on GOV.​UK](https:
 We suggest you talk to your child about the vaccinations before you respond to us.
 
 Young people have the right to refuse vaccinations. Those who show ['Gillick competence'](https://www.nhs.uk/conditions/consent-to-treatment/children/) have the right to consent to vaccinations themselves. Our team may assess Gillick competence during vaccination sessions.
-
 
 ### How to respond
 
