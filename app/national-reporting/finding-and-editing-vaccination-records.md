@@ -22,7 +22,7 @@ To edit a child’s details:
 4. Select **Continue**.
 5. When you’ve made all necessary changes, select **Save changes**.
 
-![Screenshot of child record showing edit child record button.](/assets/images/nr-edit-child-record.png)
+![Screenshot of child record showing edit child record button.](/assets/images/national-reporting/edit-child-record.png)
 
 To edit a vaccination record:
 
