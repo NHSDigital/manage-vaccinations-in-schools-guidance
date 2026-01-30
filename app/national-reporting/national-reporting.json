@@ -1,6 +1,6 @@
 {
   "layout": "national-reporting",
-  "collection": "national-reporting-guide",
+  "collection": "national-reporting",
   "sectionKey": "National reporting user guide",
   "showPagination": true,
   "eleventyNavigation": {
