@@ -53,9 +53,9 @@ export default function (eleventyConfig) {
         return a.data.order - b.data.order
       })
   })
-  eleventyConfig.addCollection('national-reporting-guide', (collection) => {
+  eleventyConfig.addCollection('national-reporting', (collection) => {
     return collection
-      .getFilteredByGlob('app/national-reporting-guide/*.md')
+      .getFilteredByGlob('app/national-reporting/*.md')
       .sort((a, b) => {
         return a.data.order - b.data.order
       })

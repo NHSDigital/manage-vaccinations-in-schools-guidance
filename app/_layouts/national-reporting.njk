@@ -1,23 +1,22 @@
-{% extends "layouts/base.njk" %}
+{% extends "layouts/sub-navigation.njk" %}
 {% block header %}
-  {{ nhsukHeader(options.header | currentPage(page.url)) }}
+  {{ nhsukHeader({
+    service: {
+      text: options.header.service.text
+    }
+  }) }}
 {% endblock %}
-{% block content %}
-  <div class="nhsuk-grid-row">
-    <div class="nhsuk-grid-column-one-quarter">
-      {{ appSubNavigation({
-        items: collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | itemsFromNavigation(page.url, { pathPrefix: options.pathPrefix })
-      }) }}
-    </div>
-    <div class="nhsuk-grid-column-three-quarters">
-      {{ appDocumentHeader({
-        caption: caption,
-        title: title,
-        description: description
-      }) }}
-      {% call appProseScope() %}
-      {{ content }}
-      {% endcall %}
-    </div>
-  </div>
+{% block beforeContent %}
+  <nav class="nhsuk-breadcrumb" aria-label="Breadcrumb">
+    <ol class="nhsuk-breadcrumb__list">
+      <li class="nhsuk-breadcrumb__list-item">
+        <a class="nhsuk-breadcrumb__link" href="/national-reporting/">Home</a>
+      </li>
+    </ol>
+    <a class="nhsuk-back-link" href="/national-reporting/">
+      <span class="nhsuk-u-visually-hidden">Back to&nbsp;</span>National reporting user guide</a>
+  </nav>
+{% endblock %}
+{% block footer %}
+  {{ nhsukFooter() }}
 {% endblock %}

@@ -33,13 +33,13 @@ To edit a vaccination record:
 5. Select **Continue**.
 6. When you’ve made all necessary changes, select **Save changes**.
 
-![Screenshot of child record showing edit vaccination record button.](/assets/images/nr-edit-vaccs-record.png)
+![Screenshot of child record showing edit vaccination record button.](/assets/images/national-reporting/edit-vaccs-record.png)
 
 You can only edit records uploaded by your SAIS team. You can view records uploaded by other teams – for example, if a child moved into your area – but you cannot edit these records.
 
 ### Adding or changing NHS numbers
 
-Mavis will automatically replace any incorrect NHS numbers in your upload or add any missing ones found by searching the NHS Patient Demographics Service (PDS) (sometimes called ‘the Spine’) overnight.
+Mavis will automatically replace any incorrect NHS numbers in your upload or add any missing ones found by searching the NHS Patient Demographics Service (PDS, sometimes called ‘the Spine’) overnight.
 
 You can also manually add or change an NHS number by editing the child’s details - see ‘Editing children’s details and vaccination records’, above.
 

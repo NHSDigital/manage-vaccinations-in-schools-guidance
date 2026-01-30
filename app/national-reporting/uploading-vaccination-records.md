@@ -6,7 +6,7 @@ order: 4
 
 From the homepage, select **Imports**.
 
-![Screenshot of Imports page showing Upload records button, incomplete uploads and completed imports.](/assets/images/nr-imports.png)
+![Screenshot of Imports page showing Upload records button and incomplete uploads.](/assets/images/national-reporting/imports.png)
 
 ## Preparing files to upload
 
@@ -36,12 +36,14 @@ If there are any validation issues, Mavis will not import the file. It will stay
 2. Return to your CSV file and correct the issues listed.
 3. Save the changes and upload the file again.
 
-![Screenshot of an import with errors.](/assets/images/nr-import-errors.png)
+![Screenshot of an import with errors.](/assets/images/national-reporting/import-errors.png)
 
 ## Successful upload
 
 If the file was imported successfully it will no longer be visible on the **Incomplete imports** list. It will now be on the **Completed imports** list.
 
 You can find it by selecting the **Completed imports** tab.
+
+![Screenshot of Completed imports tab.](/assets/images/national-reporting/imports-completed.png)
 
 Mavis will automatically send imported vaccination records to NHS England.

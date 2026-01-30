@@ -19,6 +19,6 @@ To archive a record:
 4. Select **Archive vaccination record** at the bottom of the vaccination details card.
 5. Confirm by selecting **Yes, archive this vaccination record**.
 
-![Screenshot of archive vaccination record link.](/assets/images/nr-archive-record.png)
+![Screenshot of archive vaccination record link.](/assets/images/national-reporting/archive-record.png)
 
-![Screenshot of archive vaccination record confirmation.](/assets/images/nr-confirm-archive.png)
+![Screenshot of archive vaccination record confirmation.](/assets/images/national-reporting/confirm-archive.png)
