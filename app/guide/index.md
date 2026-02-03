@@ -15,6 +15,5 @@ Mavis aims to remove the problems of system fragmentation and manual data entry,
 
 > [!NOTE]
 > **Mavis changes frequently**
-> Updates are released around twice a week, including new features and other improvements.
-> Do not print this guide, as printed copies will quickly become out of date.
-> Always refer to the online version.
+> We make updates around twice a week.
+> Do not print this guide, as printed copies will quickly become out of date. Always refer to the online version.
