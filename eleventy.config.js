@@ -1,6 +1,6 @@
 import { InputPathToUrlTransformPlugin } from '@11ty/eleventy'
 import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
-import { createSearchIndex } from './app/lib/search'
+import { createSearchIndex } from './app/lib/search.js'
 
 const serviceName = 'Manage vaccinations in schools'
 
@@ -32,7 +32,8 @@ export default function (eleventyConfig) {
     },
     templates: {
       searchIndex: false
-    }
+    },
+    _searchIndexPath: '/search-index.json',
   })
 
   // Collections
