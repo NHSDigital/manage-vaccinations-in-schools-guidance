@@ -1,10 +1,13 @@
 {% extends "layouts/sub-navigation.njk" %}
 {% block header %}
+<app-search index="/national-reporting/search-index.json">
   {{ nhsukHeader({
     service: {
       text: options.header.service.text
-    }
+    },
+    search: true
   }) }}
+</app-search>
 {% endblock %}
 {% block beforeContent %}
   <nav class="nhsuk-breadcrumb" aria-label="Breadcrumb">

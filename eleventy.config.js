@@ -1,5 +1,6 @@
 import { InputPathToUrlTransformPlugin } from '@11ty/eleventy'
 import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
+import { createSearchIndex } from './app/lib/search'
 
 const serviceName = 'Manage vaccinations in schools'
 
@@ -9,6 +10,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
     stylesheets: ['/assets/application.css'],
     header: {
+      search: true,
       service: {
         text: serviceName
       }
@@ -29,7 +31,7 @@ export default function (eleventyConfig) {
       headingPermalinks: true
     },
     templates: {
-      searchIndex: true
+      searchIndex: false
     }
   })
 
@@ -60,6 +62,23 @@ export default function (eleventyConfig) {
         return a.data.order - b.data.order
       })
   })
+
+  eleventyConfig.addTemplate(
+    'national-reporting-search.11ty.js',
+    createSearchIndex(
+      '/national-reporting/search-index.json',
+      (collections) => collections['national-reporting']
+    )
+  )
+
+  eleventyConfig.addTemplate(
+    'main-search.11ty.js',
+    createSearchIndex('/search-index.json', (collections) =>
+      collections.sitemap.filter(
+        (item) => !item.inputPath.includes('/national-reporting/')
+      )
+    )
+  )
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('app/assets/images')
