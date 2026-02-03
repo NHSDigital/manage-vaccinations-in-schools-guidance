@@ -6,7 +6,7 @@
  */
 export const createSearchIndex = (permalink, getItems) => ({
   data: () => ({ eleventyExcludeFromCollections: true, permalink }),
-  render({ collections }) {
+  render({ collections, options }) {
     const index = getItems(collections)
       .map((item) => ({
         //
