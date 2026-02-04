@@ -33,6 +33,8 @@ The cohort should include all children in your SAIS team’s area, as follows:
 
 You’ll only need to upload the older year groups the first time you use Mavis. Once the cohort has been set up and used to record vaccinations for a particular year group, those records will stay in Mavis.
 
+When children are taught outside their chronological year group, you’ll need to record this in either the cohort upload or class list upload - for more details, see ‘Handling out-of-year-group children’ below.
+
 ### What to include
 
 You must include include the following information for each child in the cohort:
@@ -116,6 +118,10 @@ Mavis will also highlight if you’ve provided an NHS number for a child that is
 
 > [!NOTE]
 >Some records may have changed since you uploaded your file. For example, another import might have been approved that includes some of the records in your file, or a child's school or NHS number may have changed in Mavis. If this happens, you’ll need to review those records again and confirm you still want to import the remaining changes from your file.
+
+## Handling out-of-year-group children
+
+{% include "fragments/out-of-year-group-children.md" %}
 
 ## See how Mavis uses PDS to find NHS numbers
 

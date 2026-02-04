@@ -1,27 +1,20 @@
 ---
-title: Checking and editing cohorts
+title: Editing individual child records
 theme: Managing cohorts
 order: 6
 ---
 
-Once you have uploaded all the cohort files, you can go to the Cohorts tab and check the counts for each year group are as expected.
-
-You can also check individual children’s records by navigating to the Children tab. However, you won’t be able to see the children listed under their school in the sessions tab until you have scheduled at least one session at that school.
-
-Once you have confirmed that the cohort is successfully uploaded, you’re ready to start organising sessions (this is covered in the ‘Organising sessions’ section).
-
-## Handling out-of-year-group children
-
-{% include "fragments/out-of-year-group-children.md" %}
-
-## Manually editing individual child records
-
 1. Go to **Children**.
 2. Search for the child by name and select their record.
 3. Select **Edit child record**.
-4. Find the information you want to edit and select **Change**.
+4. If you need to:
+   - change their NHS number or school, select **Change**
+   - change a parent or guardian’s details, select **Edit**
+   - remove the relationship between this child and a parent or guardian, select **Remove**
+   - add a new parent or guardian for this child, select **Add parent or guardian**
+    > [!NOTE]
+    >  To change a child’s school, after selecting  **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-schooled for home-schooled children. If the new school is outside your SAIS area, archive the child record.
 5. Edit the information and select **Continue**.
-6. Select **Save changes**.
 
 ![Screenshot of page to edit a child record.](/assets/images/edit-child-record.png)
 
