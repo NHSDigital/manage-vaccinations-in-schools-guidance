@@ -1,10 +1,9 @@
 ---
 layout: email-template
 title: Request for class list
-theme: Emails to schools
 subject: Providing pupil information for vaccinations
 toReplacePlaceholders: true
-order: 10
+order: 2
 ---
 
 Dear ==name of school==

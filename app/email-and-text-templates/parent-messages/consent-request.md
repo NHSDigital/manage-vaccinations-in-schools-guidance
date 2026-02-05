@@ -1,9 +1,8 @@
 ---
 layout: text-message-template
-title: Consent request
-theme: Text messages to parents
-toReplacePlaceholders: true
-order: 7
+title: "Consent request"
+subject: None
+order: 61
 ---
 
 Give or refuse consent for ==short patient name== to have their ==vaccination==:
