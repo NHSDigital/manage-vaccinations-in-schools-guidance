@@ -2,28 +2,42 @@
 title: Downloading vaccination reports
 theme: Statistics and reports
 order: 34
-eleventyComputed:
-  eleventyNavigation:
-    key: Downloading vaccination reports
 ---
 
 [[toc]]
 
-You can use the Programme area to download reports showing what vaccinations have been given in a specified period of time. You can share the downloads with your local CHIS team or GP practice.
-
-You do not need to share reports for flu or HPV with GPs (except in some cases of self-consent), as [Mavis does this automatically](/guide/recording-vaccinations.md) but you still need to download and share reports with the local CHIS team.
-
-## Download a vaccination report
-
-To download vaccination reports:
-
-1. Go to **Programmes**.
-2. Select the programme you want to download a report for.
-3. Click on **Download vaccination report**.
-4. Enter a date range you want to download records for.
-5. Click **Continue**.
-6. Select the file format (CarePlus, SystmOne or CSV) you’d like to use for the download.
-7. Click **Continue** to download the report.
+You can download vaccination reports as CSV files which you can share with your CHIS provider, GP practices or others.
 
 > [!NOTE]
-> **CarePlus** and **SystmOne** format downloads only include vaccinations given whereas the Mavis **CSV** format download also includes entries for children in the cohort who were not vaccinated.
+> You do not need to share reports for flu or HPV with GPs (except in some cases of self-consent), as Mavis does this automatically but you still need to download and share reports with the local CHIS team.
+
+To download a report:
+
+1. Select **Reports** from the Mavis homepage or the top navigation bar.
+2. Select the **Download data** tab.
+3. Select the type of data you want to download:
+   - child-level vaccination data
+   - aggregate vaccination data
+4. Select the vaccination programme you want to download data for, and any other relevant options.
+5. Select the **Download vaccination data** button to confirm your choices and download the report.
+
+![Screenshot of the Download data tab.](/assets/images/reports-download.png)
+
+## Child-level vaccination reports
+
+Child-level vaccination reports include detailed vaccination data for the selected programme. The data only includes vaccinations administered by your team. Each row shows data for one child.
+
+You’ll need to select a file format before downloading the report.
+
+If your team, or the team you’re sharing the data with, uses SystmOne alongside Mavis, select **CSV for SystmOne (TPP)**. For more information, read [Sharing vaccination records between Mavis and SystmOne](/guide/sharing-vaccination-records-between-mavis-and-systmone/).
+
+## Aggregate vaccination reports
+
+Aggregate vaccination reports show the total number of children in your cohort who are vaccinated and not vaccinated for the selected programme in the current school year. This includes vaccinations given by other providers.
+
+You can choose to break down the data by:
+
+- local authority
+- school
+- year group
+- gender
