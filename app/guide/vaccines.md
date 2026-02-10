@@ -12,16 +12,19 @@ To add a vaccine batch:
 2. Find the relevant vaccine type and select **Add a new batch**.
 3. Enter the batch ID and expiry date, then click on **Add batch**.
 
-To edit a batch:
+## Archiving batches
 
-1. From the dashboard, go to **Vaccines**.
-2. Find the relevant vaccine type and batch ID and select **Change**.
-3. Make your edits and save the changes.
+When all vaccines in a batch have been used, or the batch has expired, you should archive it. Archiving a batch removes it from the list of vaccines nurses can select when recording vaccinations.
 
-Archiving a batch will remove it from the list of vaccines available to nurses when recording vaccinations. To archive a batch:
+To archive a batch:
 
 1. From the dashboard, go to **Vaccines**.
 2. Find the relevant vaccine type and batch ID and select **Archive**.
-3. Once you’ve confirmed this action, you cannot undo it.
+3. Select **Confirm**.
 
-All batches need to be manually archived. This doesn’t happen automatically.
+Once a batch has been archived, you cannot undo this.
+
+Batches are not archived automatically. You must archive each batch manually.
+
+> [!NOTE]
+> You cannot edit vaccine batches in Mavis. If there’s a mistake in the batch number or expiry date, archive the batch and add a new one with the correct information
