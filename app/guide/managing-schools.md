@@ -45,5 +45,5 @@ When you name a school site, consider the following points:
 
 * each site name must be unique
 * site names appear in emails and text messages to parents, and the online consent form, so the name should be clear to parents
-* schools and sites are listed alphabetically in Mavis - if you want to see a school and its sites appear together, start each site name with the school name, for example, ‘Parkview School, Station Road site
+* schools and sites are listed alphabetically in Mavis - if you want to see a school and its sites appear together, start each site name with the school name, for example, ‘Parkview School, Station Road site'
 
