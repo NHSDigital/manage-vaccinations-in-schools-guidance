@@ -1,0 +1,48 @@
+{% extends "layouts/base.njk" %}
+
+{% from "nhsuk/components/inset-text/macro.njk" import insetText as nhsukInsetText %}
+
+{% block beforeContent %}
+  {{ nhsukBreadcrumb({
+    items: breadcrumbItems
+  }) if showBreadcrumbs }}
+{% endblock %}
+
+{% block content %}
+  {{ appDocumentHeader({
+    caption: caption,
+    title: template.title
+  }) }}
+
+  {{ nhsukInsetText({
+    text: "Mavis automatically inserts the correct names, dates, URLs and team contact information."
+  }) }}
+
+  <div class="nhsuk-grid-row">
+    <div class="nhsuk-grid-column-two-thirds">
+      <h2 class="nhsuk-heading-m">Email</h2>
+
+      <article class="app-email nhsuk-u-reading-width">
+        <h2 class="app-email__subject">{{ template.subject | markdown("inline") }}</h2>
+
+        <hr class="nhsuk-section-break nhsuk-section-break--visible nhsuk-section-break--m">
+
+        {{ nhsukHeader({
+          classes: "nhsuk-header--white"
+        }) }}
+
+        {{ template.email | markdown }}
+      </article>
+    </div>
+
+    {% if template.text %}
+    <div class="nhsuk-grid-column-one-third">
+      <h2 class="nhsuk-heading-m">Text message</h2>
+
+      <article class="app-text-message">
+        {{ template.text | markdown }}
+      </article>
+    </div>
+    {% endif %}
+  </div>
+{% endblock %}

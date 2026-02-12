@@ -1,39 +1,57 @@
 ---
-layout: sub-navigation
-title: Email and text message templates
-order: 1
-eleventyNavigation:
-  parent: Home
+layout: page
+title: Email and text message templates for parents
 ---
 
-## Emails Mavis sends to parents
+## Consent requests
 
-For scheduled sessions, Mavis automatically emails parents to:
+For scheduled sessions, Mavis automatically contacts parents 3 weeks before a scheduled session to inform them about the vaccines and ask for consent. A reminder is sent 1 week before the session to those who have not responded.
 
-- give information about the vaccines and ask for consent
-- send reminders if they have not responded
-- confirm consent responses
-- share triage decisions (where relevant)
-- remind them when sessions are happening
-- confirm vaccination outcomes
+{% from "contents-list/macro.njk" import contentsList %}
+{{ contentsList({
+  text: "Consent request templates",
+  items: collections["consent-request"]
+}) }}
 
-You can see the consent request and reminder emails for each vaccination programme by selecting the relevant link in the menu on this page.
+## Consent response confirmation
 
-## Text messages Mavis sends to parents
+Once a parent has completed a consent form, Mavis sends them a confirmation.
 
-If we have parents’ mobile numbers, Mavis also sends them text messages.
+{{ contentsList({
+  text: "Consent response confirmation templates",
+  items: collections["consent-outcome"]
+}) }}
 
-Mavis automatically sends texts to:
+## Triage outcomes
 
-- ask for consent
-- send reminders if parents have not responded
-- confirm consent responses
-- remind parents when sessions are happening
-- confirm vaccination outcomes
+Once a nurse has triaged answers to health questions, Mavis sends the parent confirmation of their decision.
 
-## Email templates for contacting schools
+{{ contentsList({
+  text: "Triage outcome templates",
+  items: collections["triage-outcome"]
+}) }}
 
-You can copy and edit these email templates to:
+## Session reminder
 
-- request class lists from schools – this helps them send pupil information in the right format for uploading files into Mavis
-- ask schools to check their details are up to date in Get Information about Schools (GIAS)
+One day before a session, Mavis sends a reminder to parents who consented to a vaccination, with details of the upcoming session.
+
+{{ contentsList({
+  text: "Triage outcome templates",
+  items: collections["session-reminder"]
+}) }}
+
+## Session outcomes
+
+Once a vaccination session has been completed, Mavis sends the parent confirmation of the vaccination given, or the reason it was not given.
+
+{{ contentsList({
+  text: "Triage outcome templates",
+  items: collections["session-outcome"]
+}) }}
+
+## Clinics
+
+{{ contentsList({
+  text: "Triage outcome templates",
+  items: collections["clinics"]
+}) }}

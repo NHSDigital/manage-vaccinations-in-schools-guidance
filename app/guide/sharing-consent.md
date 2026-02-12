@@ -7,18 +7,7 @@ eleventyComputed:
     key: Sharing consent forms with schools
 ---
 
-If schools have not provided parents’ contact details, they’ll need to send out consent requests and consent reminders that you’ve provided them with.
-
-### Consent request templates
-
-- [Flu consent request email](/email-and-text-templates/consent-request-flu/)
-- [Flu consent reminder email](/email-and-text-templates/consent-reminder-flu/)
-- [HPV consent request email](/email-and-text-templates/consent-request-hpv)
-- [HPV consent reminder email](/email-and-text-templates/consent-reminder-hpv)
-- [MenACWY and Td/IPV consent request email](/email-and-text-templates/consent-request-doubles)
-- [MenACWY and Td/IPV consent reminder email](/email-and-text-templates/consent-reminder-doubles)
-- [MMR consent request email](/email-and-text-templates/consent-request-mmr)
-- [MMR consent reminder email](/email-and-text-templates/consent-reminder-mmr)
+If schools have not provided parents’ contact details, they’ll need to send out consent requests and consent reminders that you’ve provided them with. See [email and text message templates for parents](/email-and-text-templates).
 
 ### How to use the templates
 

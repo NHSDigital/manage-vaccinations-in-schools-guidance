@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.0",
-    "@x-govuk/nhsuk-eleventy-plugin": "^1.1.1"
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.1.1",
+    "dotenv": "^17.2.4",
+    "notifications-node-client": "^8.2.1"
   },
   "devDependencies": {
     "prettier": "^3.3.3"

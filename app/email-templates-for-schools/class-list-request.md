@@ -1,9 +1,6 @@
 ---
-layout: email-template
-title: Request for class list
+title: Request class lists from a school
 subject: Providing pupil information for vaccinations
-toReplacePlaceholders: true
-order: 2
 ---
 
 Dear ==name of school==

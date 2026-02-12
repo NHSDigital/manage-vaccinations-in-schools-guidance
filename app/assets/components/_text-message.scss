@@ -9,6 +9,7 @@ $_text-message-background-colour: nhsuk-colour("white");
   border: 1px solid $nhsuk-border-colour;
   font-family: Helvetica, Arial, sans-serif;
   max-width: 400px;
+  overflow-wrap: break-word;
   padding: nhsuk-spacing(3);
   position: relative;
 

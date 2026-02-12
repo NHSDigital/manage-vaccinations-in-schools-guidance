@@ -1,7 +1,0 @@
-{
-  "layout": "sub-navigation",
-  "sectionKey": "Emails to parents",
-  "eleventyNavigation": {
-    "parent": "Emails to parents"
-  }
-}
