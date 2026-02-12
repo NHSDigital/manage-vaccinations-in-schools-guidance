@@ -1,9 +1,6 @@
 ---
-layout: email-template
-title: Request to check GIAS details
+title: Ask a school to check their details are up to date in Get Information about Schools (GIAS)
 subject: Checking school details in GIAS
-toReplacePlaceholders: true
-order: 1
 ---
 
 Dear ==name of school==,

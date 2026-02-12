@@ -1,0 +1,9 @@
+<nav class="nhsuk-contents-list" aria-label="{{ params.label }}">
+  <ol class="nhsuk-contents-list__list">
+  {% for item in params.items %}
+    <li class="nhsuk-contents-list__item">
+      <a class="nhsuk-contents-list__link" href="{{ item.url }}">{{ item.data.title }}</a>
+    </li>
+  {% endfor %}
+  </ol>
+</nav>

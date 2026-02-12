@@ -33,29 +33,24 @@ export default function (eleventyConfig) {
     templates: {
       searchIndex: false
     },
-    _searchIndexPath: '/search-index.json',
+    _searchIndexPath: '/search-index.json'
   })
 
   // Collections
-  eleventyConfig.addCollection('guide', (collection) => {
-    return collection.getFilteredByGlob('app/guide/*.md').sort((a, b) => {
+  eleventyConfig.addCollection('guide', (collection) =>
+    collection.getFilteredByGlob('app/guide/*.md').sort((a, b) => {
       return a.data.order - b.data.order
     })
-  })
-  eleventyConfig.addCollection('email-and-text-templates', (collection) => {
-    return collection
-      .getFilteredByGlob('app/email-and-text-templates/*.md')
-      .sort((a, b) => {
-        return a.data.order - b.data.order
-      })
-  })
-  eleventyConfig.addCollection('file-upload-templates', (collection) => {
-    return collection
+  )
+
+  eleventyConfig.addCollection('file-upload-templates', (collection) =>
+    collection
       .getFilteredByGlob('app/file-upload-templates/*.md')
       .sort((a, b) => {
         return a.data.order - b.data.order
       })
-  })
+  )
+
   eleventyConfig.addCollection('national-reporting', (collection) => {
     return collection
       .getFilteredByGlob('app/national-reporting/*.md')
@@ -64,6 +59,7 @@ export default function (eleventyConfig) {
       })
   })
 
+  // Templates
   eleventyConfig.addTemplate(
     'national-reporting-search.11ty.js',
     createSearchIndex(
@@ -80,6 +76,19 @@ export default function (eleventyConfig) {
       )
     )
   )
+
+  for (const key of [
+    'consent-request',
+    'consent-outcome',
+    'triage-outcome',
+    'session-reminder',
+    'session-outcome',
+    'clinics'
+  ]) {
+    eleventyConfig.addCollection(key, (collection) =>
+      collection.getAll().filter((item) => item.data?.tags?.includes(key))
+    )
+  }
 
   // Passthrough
   eleventyConfig.addPassthroughCopy('app/assets/images')

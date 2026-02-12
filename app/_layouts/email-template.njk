@@ -9,39 +9,25 @@
 {% endblock %}
 
 {% block content %}
-  <div class="nhsuk-grid-row">
-    <div class="nhsuk-grid-column-one-quarter">
-      {{ appSubNavigation({
-        items: collections.navigation | eleventyNavigation(sectionKey or options.homeKey) | itemsFromNavigation(page.url, { pathPrefix: options.pathPrefix })
-      }) }}
-    </div>
-    <div class="nhsuk-grid-column-three-quarters">
-      {{ appDocumentHeader({
-        caption: caption,
-        title: title,
-        description: description
-      }) }}
+  {{ appDocumentHeader({
+    caption: caption,
+    title: title,
+    description: description
+  }) }}
 
-      
-      {% if toReplacePlaceholders | default(false) %}
-        {% set insetText = "Replace placeholders with the correct names, dates and URLs." %}
-      {% else %}
-        {% set insetText = "Mavis automatically inserts the correct names, dates, URLs and team contact information. Note that the consent URL is different for every school." %}
-      {% endif %}
+  {{ nhsukInsetText({
+    text: "Replace placeholders with the correct names, dates and URLs."
+  }) }}
 
-      {{ nhsukInsetText({
-        text: insetText
-      }) }}
+  <article class="app-email nhsuk-u-reading-width">
+    <h2 class="app-email__subject">{{ subject | markdown("inline") }}</h2>
 
-      <article class="app-email nhsuk-u-reading-width">
-        <h2 class="app-email__subject">{{ subject | replace(" ==", " <mark>") | replace("==", "</mark>") | safe }}</h2>
-        <hr class="nhsuk-section-break nhsuk-section-break--visible nhsuk-section-break--m">
-        {{ nhsukHeader({
-          classes: "nhsuk-header--white"
-        }) }}
+    <hr class="nhsuk-section-break nhsuk-section-break--visible nhsuk-section-break--m">
 
-        {{ content | safe }}
-      </article>
-    </div>
-  </div>
+    {{ nhsukHeader({
+      classes: "nhsuk-header--white"
+    }) }}
+
+    {{ content | safe }}
+  </article>
 {% endblock %}
