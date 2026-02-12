@@ -33,6 +33,9 @@ jobs:
         run: npm ci
       - name: Build with Eleventy
         run: npm run-script build
+        env:
+          NOTIFY_API_KEY: ${{ secrets.NOTIFY_API_KEY }}
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
