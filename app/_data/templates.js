@@ -89,7 +89,7 @@ export default async function () {
     },
     'triage-outcome-do-not-vaccinate': {
       title: 'Triage outcome: vaccination will not happen',
-      emailId: '279c517c-4c52-4a69-96cb-31355bfa4e21',
+      emailId: 'd1faf47e-ccc3-4481-975b-1ec34211a21f',
       tags: ['triage-outcome']
     },
     'session-reminder': {
