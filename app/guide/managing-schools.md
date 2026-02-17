@@ -14,8 +14,36 @@ You can do this through the link in your **Getting ready to use Mavis** email or
 > [!NOTE]
 > It’s important to include the correct unique reference number (URN) for each school on your list. Mavis gets the information it shows about schools (including which year groups attend the school) using the URNs you provide.
 
-If a school has multiple sites you can state that 1 URN covers multiple sites and provide the name and address where the vaccinations will take place in the list you send us.
-
 If you need to add or remove a school, [contact the Mavis team](mailto:england.mavis@nhs.net).
 
-When you first access Mavis, you will see unscheduled sessions for each programme at each eligible school. If you don’t see a session that you need, contact support and we will add it.
+You can update children's schools on their record. See [Editing individual child records](/guide/editing-cohorts.md).
+
+## Adding school sites
+
+If a school has more than 1 site you need to add them in Mavis.
+
+1. Go to **Team** by selecting it in the top navigation.
+2. Select **Schools** under the **Your team** heading.
+3. Select **Add a new school site**.
+4. Search for the existing school by typing its name in the search field.
+
+![Screenshot of form to enter details of a new site](/assets/images/add-site.png)
+
+5. Add the name of the site, adjust the address if necessary, and select **Continue**.
+
+> [!NOTE]
+> The new site will have the same URN as the main (parent) school with an extra letter at the end. Mavis will automatically add **A** to the parent school URN, and B to the 1st extra site, C to the 2nd one, and so on.
+
+7. Check the details. Select **Back** if you need to change the name or address of the new site, or **Change parent school** if you need to add this site to a different school.
+8. Select **Add site**.
+
+![Screenshot of overview of team's schools, with one school split into two sites](/assets/images/team-schools-page-with-site.png)
+
+### Naming a school site
+
+When you name a school site, consider the following points:
+
+* each site name must be unique
+* site names appear in emails and text messages to parents, and the online consent form, so the name should be clear to parents
+* schools and sites are listed alphabetically in Mavis - if you want to see a school and its sites appear together, start each site name with the school name, for example, ‘Parkview School, Station Road site’
+
