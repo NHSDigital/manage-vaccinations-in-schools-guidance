@@ -11,9 +11,9 @@ Before users can access Mavis for the first time, you need to give them an appro
 
 ## Assigning a role
 
-Give all users the medical secretary access role (R8006).
+Give users either the medical secretary access role (R8006) or admin/clinical support access role (R8008) according to which roles are already in use in their organisation.
 
-Users with this role can perform all actions in Mavis national reporting except superuser activities (see below).
+Users with these roles can perform all actions in Mavis national reporting except superuser activities (see below).
 
 ### Superuser activities (B0062 and B1611)
 
@@ -34,7 +34,7 @@ If you create a new workgroup, you must inform Mavis by emailing <england.mavis@
 
 When staff leave your organisation or no longer need Mavis access, remove their access promptly through the Care Identity Management service:
 
-- end-date their Mavis role assignment (R8006)
+- end-date their Mavis role assignment (R8006 or R8008)
 
 and/or
 

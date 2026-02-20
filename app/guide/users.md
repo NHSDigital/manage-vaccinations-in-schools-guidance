@@ -10,19 +10,23 @@ Before they can access Mavis for the first time, users need to be given an appro
 
 ## Assigning a role
 
-Users can be given 1 of the following 2 roles:
+Users can be given 1 of the following sets of roles:
 
-### Nurse access role (R8001)
+### Nurse access role (R8001) or health professional access role (R8003)
 
-This role is for nursing staff who work in primary, secondary care, community care and mental health.
+These roles are for nursing staff who work in primary, secondary care, community care and mental health.
 
-Users with this role can perform nearly all actions in Mavis. To carry out superuser actions, like viewing important notices or deleting vaccination records, they also need to be assigned additional activities (B0062 and B1611) (see below).
+Select either R8001 or R8003 for users according to which roles are already in use in their organisation.
 
-### Medical secretary access role (R8006)
+Users with these roles can perform nearly all actions in Mavis. To carry out superuser actions, like viewing important notices or deleting vaccination records, they also need to be assigned additional activities (B0062 and B1611) (see below).
 
-This role is for staff who support nurses in an administrative role and require access to clinical information.
+### Medical secretary access role (R8006) or admin/clinical support access role (R8008)
 
-Users with this role can perform all actions in Mavis except:
+These roles are for staff who support nurses in an administrative role and require access to clinical information.
+
+Select either R8006 or R8008 for users according to which roles are already in use in their organisation.
+
+Users with these roles can perform all actions in Mavis except:
 
 - recording or editing triage
 - recording or editing vaccinations (unless they are also assigned the administration activity code (B0428) - see below)
@@ -65,7 +69,7 @@ If you create a new workgroup, you must inform Mavis by emailing <england.mavis@
 
 When staff leave your organisation or no longer require Mavis access, remove their access promptly through the Care Identity Management service:
 
-- end-date their Mavis role assignments (R8001 or R8006)
+- end-date their Mavis role assignments (R8001, R8003, R8006 or R8008)
 
 and/or
 
