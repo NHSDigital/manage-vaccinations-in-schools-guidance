@@ -1,7 +1,7 @@
 ---
 title: Finding and editing vaccination records
 theme: National reporting
-order: 5
+order: 6
 ---
 
 ## Finding vaccination records
