@@ -7,6 +7,10 @@ order: 30
 The table below shows which vaccination records Mavis shares automatically
 and which ones you need to share manually for each vaccination programme.
 
+> [!NOTE]
+> From 2 March 2026, all vaccinations recorded in Mavis for all programmes will be automatically shared with NHS England and GP practices.
+> Until then, follow the guidance in the table below.
+
 | Vaccination programme | Shared with GPs by Mavis? | Shared with NHS England by Mavis? | Shared with CHIS by Mavis? |     What you need to do     |
 |:---------------------:|:-------------------------:|:---------------------------------:|:--------------------------:|:---------------------------:|
 | Flu                   | Yes*                      | Yes                               | No                         | Send record to CHIS         |
