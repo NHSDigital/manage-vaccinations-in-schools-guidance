@@ -4,13 +4,15 @@ theme: National reporting
 order: 4
 ---
 
-From the homepage, select **Imports**.
+From the homepage, select **Imports**. This takes you to the Imports page.
 
 ![Screenshot of Imports page showing Upload records button and incomplete uploads.](/assets/images/national-reporting/imports.png)
 
 ## Preparing files to upload
 
 Files must be in CSV format. If you have an Excel file with multiple tabs, you’ll need to consolidate this into a single tab before saving it as a CSV file, or create a separate CSV file for each tab.
+
+You can include records from different vaccination programmes in the same file.
 
 Any file that’s compatible with NIVS specifications will also be compatible with national reporting specifications.
 
@@ -32,11 +34,16 @@ You may need to refresh the page to see the latest status.
 
 If there are any validation issues, Mavis will not import the file. It will stay on the **Incomplete imports** list with its status marked as invalid.
 
-1. Click on your file upload’s date and time stamp to view the validation issues.
-2. Return to your CSV file and correct the issues listed.
-3. Save the changes and upload the file again.
+### Viewing and resolving upload issues
+
+To view the validation issues, click on your file upload’s date and time stamp.
 
 ![Screenshot of an import with errors.](/assets/images/national-reporting/import-errors.png)
+
+You should then:
+
+- return to your CSV file and correct the issues listed
+- save the changes and upload the file again
 
 ## Successful upload
 
