@@ -1,7 +1,7 @@
 ---
 title: Archiving vaccination records
 theme: National reporting
-order: 7
+order: 8
 ---
 
 > [!NOTE]
