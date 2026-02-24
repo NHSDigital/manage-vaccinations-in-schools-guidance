@@ -15,7 +15,6 @@ Examples of important notices include:
 
 - records flagged as invalid if a child has no NHS number or 2 NHS numbers, for example, in cases of adoption
 - records flagged as sensitive, for example, if a child is in witness protection or if there’s an ongoing police investigation
-- child vaccinated under Gillick competence and said not to notify their parents
 - child is deceased
 
 Once you have seen and, if necessary, acted on an important notice, you can dismiss it.
