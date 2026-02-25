@@ -12,7 +12,7 @@ Mavis national reporting automatically shares imported flu and HPV vaccination r
 
 ### When a child asks for confidentiality
 
-If a child self-consented for a vaccination under Gillick competence and asked for their parents not to be informed, you must not upload their record to Mavis national reporting. 
+If a child self-consented for a vaccination under Gillick competence and asked for their parents not to be informed, you must not upload their record to Mavis national reporting.
 
 You must share the record with the child’s GP manually.
 
