@@ -49,7 +49,7 @@ The template below shows what other information can be imported into Mavis for c
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
-  text: "Cohort import template",
+  text: "Cohort upload template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
   href: "/files/cohort-import-template.xlsx"
 }) }}
