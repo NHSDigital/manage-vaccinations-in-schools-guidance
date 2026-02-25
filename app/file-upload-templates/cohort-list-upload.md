@@ -11,7 +11,7 @@ This template shows what information you need to upload when importing cohorts i
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
-  text: "Cohort import template",
+  text: "Cohort upload template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
   href: "/files/cohort-import-template.xlsx"
 }) }}

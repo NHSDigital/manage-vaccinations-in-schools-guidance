@@ -72,7 +72,7 @@ This does not apply to flu.
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
-  text: "Vaccination records import template",
+  text: "Vaccination records upload template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
   href: "/files/historical-vaccination-records-import-template.xlsx"
 }) }}

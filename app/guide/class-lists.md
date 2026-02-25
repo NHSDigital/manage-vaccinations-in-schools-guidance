@@ -12,7 +12,7 @@ Class lists from each school can be uploaded using the following template:
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
-  text: "Class list import template",
+  text: "Class list upload template",
   summary: "Microsoft Excel spreadsheet, 17 KB",
   href: "/files/class-list-import-template.xlsx"
 }) }}
