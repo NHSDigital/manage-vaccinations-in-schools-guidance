@@ -13,5 +13,5 @@ This template shows what information you need to upload when importing historica
 {{ attachment({
   text: "Vaccination records upload template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
-  href: "/files/historical-vaccination-records-import-template.xlsx"
+  href: "/files/historical-vaccination-records-upload-template.xlsx"
 }) }}
