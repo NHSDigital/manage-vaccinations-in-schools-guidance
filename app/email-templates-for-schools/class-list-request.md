@@ -53,5 +53,5 @@ sign-off text here, for example: Thank you for your help
 {{ attachment({
   text: "Class list upload template",
   summary: "Microsoft Excel spreadsheet, 17 KB",
-  href: "/files/class-list-import-template.xlsx"
+  href: "/files/class-list-upload-template.xlsx"
 }) }}
