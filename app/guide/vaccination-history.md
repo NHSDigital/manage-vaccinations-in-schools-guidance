@@ -74,7 +74,7 @@ This does not apply to flu.
 {{ attachment({
   text: "Vaccination records upload template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
-  href: "/files/historical-vaccination-records-import-template.xlsx"
+  href: "/files/historical-vaccination-records-upload-template.xlsx"
 }) }}
 
 Vaccination record files need to be in .csv format. Records can be all in one file, or split across multiple files; Mavis is not picky about this. If you have an Excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.

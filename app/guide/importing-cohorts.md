@@ -51,7 +51,7 @@ The template below shows what other information can be imported into Mavis for c
 {{ attachment({
   text: "Cohort upload template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
-  href: "/files/cohort-import-template.xlsx"
+  href: "/files/cohort-upload-template.xlsx"
 }) }}
 
 If you haven’t included a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](/guide/importing-cohorts#see-how-mavis-uses-pds-to-find-nhs-numbers). to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).

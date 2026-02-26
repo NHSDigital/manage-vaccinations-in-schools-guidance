@@ -14,7 +14,7 @@ Class lists from each school can be uploaded using the following template:
 {{ attachment({
   text: "Class list upload template",
   summary: "Microsoft Excel spreadsheet, 17 KB",
-  href: "/files/class-list-import-template.xlsx"
+  href: "/files/class-list-upload-template.xlsx"
 }) }}
 
 Class lists for each school are uploaded separately, and each school can only have one class list.
