@@ -13,7 +13,7 @@ Using the national reporting service you can:
 - upload and import vaccination records to be automatically shared with NHS England
 - find children, view and edit their uploaded vaccination records
 
-We want this guide to be as useful as possible. If you’d like to suggest an improvement or give feedback about the guide, contact us at england.mavis@nhs.net. 
+We want this guide to be as useful as possible. If you’d like to suggest an improvement or give feedback about the guide, contact us at [england.mavis@nhs.net](mailto:england.mavis@nhs.net).
 
 > [!NOTE]
 > **Mavis national reporting changes frequently**
