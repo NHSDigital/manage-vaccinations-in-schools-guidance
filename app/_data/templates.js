@@ -44,10 +44,20 @@ export default async function () {
       textId: 'c7bd8150-d09e-4607-817d-db75c9a6a966',
       tags: ['consent-request']
     },
+    'consent-request-mmr-outbreak': {
+      title: 'Outbreak consent request (MMR)',
+      emailId: '517b02ee-2b1c-493e-bec2-1ee39f73dbae',
+      tags: ['consent-request']
+    },
     'consent-request-mmrv': {
       title: 'Initial consent request (MMRV)',
       emailId: 'fe194b88-5692-49a2-ab14-648e8ce2af63',
       textId: 'c7bd8150-d09e-4607-817d-db75c9a6a966',
+      tags: ['consent-request']
+    },
+    'consent-request-mmrv-outbreak': {
+      title: 'Outbreak consent request (MMRV)',
+      emailId: 'abe274c2-cd29-4099-b3ff-0e5ed710e532',
       tags: ['consent-request']
     },
     'consent-outcome-given': {
