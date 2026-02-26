@@ -13,5 +13,5 @@ This template shows what information you need to upload when importing cohorts i
 {{ attachment({
   text: "Cohort upload template",
   summary: "Microsoft Excel spreadsheet, 18 KB",
-  href: "/files/cohort-import-template.xlsx"
+  href: "/files/cohort-upload-template.xlsx"
 }) }}
