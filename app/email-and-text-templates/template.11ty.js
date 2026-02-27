@@ -2,7 +2,7 @@ export default class NotifyTemplate {
   data() {
     return {
       layout: 'notify-templates',
-      title: 'Email and text message template for parents',
+      title: 'Emails and text messages Mavis sends to parents',
       pagination: {
         data: 'templates',
         size: 1,
@@ -15,7 +15,7 @@ export default class NotifyTemplate {
         title: ({ template }) => template.title
       },
       eleventyNavigation: {
-        parent: 'Email and text message templates for parents'
+        parent: 'Emails and text messages Mavis sends to parents'
       }
     }
   }
