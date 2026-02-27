@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Email and text message templates for parents
+title: Emails and text messages Mavis sends to parents
 ---
 
 ## Consent requests
