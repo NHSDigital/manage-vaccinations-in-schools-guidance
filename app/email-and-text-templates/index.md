@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Email and text message templates for parents
+title: Emails and text messages Mavis sends to parents
 ---
 
 ## Consent requests
@@ -36,7 +36,7 @@ Once a nurse has triaged answers to health questions, Mavis sends the parent con
 One day before a session, Mavis sends a reminder to parents who consented to a vaccination, with details of the upcoming session.
 
 {{ contentsList({
-  text: "Triage outcome templates",
+  text: "Session reminder templates",
   items: collections["session-reminder"]
 }) }}
 
@@ -45,13 +45,13 @@ One day before a session, Mavis sends a reminder to parents who consented to a v
 Once a vaccination session has been completed, Mavis sends the parent confirmation of the vaccination given, or the reason it was not given.
 
 {{ contentsList({
-  text: "Triage outcome templates",
+  text: "Session outcome templates",
   items: collections["session-outcome"]
 }) }}
 
 ## Clinics
 
 {{ contentsList({
-  text: "Triage outcome templates",
+  text: "Clinic templates",
   items: collections["clinics"]
 }) }}

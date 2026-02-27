@@ -42,7 +42,7 @@ Mavis is used by school age immunisation service (SAIS) teams across England. Ma
 
 You may want to let parents and guardians know that future consent requests for school vaccinations will come directly from the NHS, not from the school.
 
-You can copy and edit this [example email template](LINK) if helpful.
+You can copy and edit this [example email template](../changing-consent-process-for-parents) if helpful.
 
 ### Questions
 
