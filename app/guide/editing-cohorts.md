@@ -12,8 +12,8 @@ order: 6
    - change a parent or guardian’s details, select **Edit**
    - remove the relationship between this child and a parent or guardian, select **Remove**
    - add a new parent or guardian for this child, select **Add parent or guardian**
-    > [!NOTE]
-    >  To change a child’s school, after selecting  **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-schooled for home-schooled children. If the new school is outside your SAIS area, archive the child record.
+     > [!NOTE]
+     > To change a child’s school, after selecting **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-schooled for home-schooled children. If the new school is outside your SAIS area, archive the child record.
 5. Edit the information and select **Continue**.
 
 ![Screenshot of page to edit a child record.](/assets/images/edit-child-record.png)

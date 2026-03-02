@@ -3,6 +3,7 @@ title: Sharing vaccination records with GP practices
 theme: National reporting
 order: 5
 ---
+
 ## Flu and HPV
 
 Mavis national reporting automatically shares imported flu and HPV vaccination records with GP practices.

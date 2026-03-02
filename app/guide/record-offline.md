@@ -87,7 +87,7 @@ Then in Mavis:
 1. From the dashboard, go to **Import records** (or select **Imports** in the top navigation).
 2. Select **Upload records**.
 
-![Screenshot of Import page.](/assets/images/import-records.png)
+   ![Screenshot of Import page.](/assets/images/import-records.png)
 
 3. Select **Vaccination records** and **Continue**.
 4. Select **Choose File**.

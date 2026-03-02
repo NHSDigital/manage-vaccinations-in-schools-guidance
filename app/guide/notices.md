@@ -25,5 +25,3 @@ Once you have seen and, if necessary, acted on an important notice, you can dism
 If you dismiss an important notice it will disappear from the **Import** page for all superusers in your team. It will still be visible on the individual child record.
 
 ![Screenshot of child record with important notice.](/assets/images/sensitive-child-record.png)
-
-

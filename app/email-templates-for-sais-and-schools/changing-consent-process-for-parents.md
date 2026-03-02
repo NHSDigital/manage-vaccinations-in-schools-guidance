@@ -7,22 +7,24 @@ subject: School vaccinations - consent requests will come directly from the NHS
 
 Dear parent or guardian,
 
-We’re writing to let you know about a change to how you’ll be asked to give consent for school vaccinations. 
+We’re writing to let you know about a change to how you’ll be asked to give consent for school vaccinations.
 
-From ==month==, our local NHS school age immunisation service will contact parents and guardians directly to ask for consent. 
+From ==month==, our local NHS school age immunisation service will contact parents and guardians directly to ask for consent.
 
-You’ll receive an email or text message from the NHS with a link to an online consent form. 
+You’ll receive an email or text message from the NHS with a link to an online consent form.
 
 You can use the online form to:
+
 - give consent for your child to be vaccinated
 - say you do not want your child to be vaccinated
 - update your contact details if needed
 
-Filling in the form will be quick and easy. It’s important to respond, even if you do not want your child to be vaccinated. 
+Filling in the form will be quick and easy. It’s important to respond, even if you do not want your child to be vaccinated.
 
 ### What information we will share
 
 To allow the NHS immunisation team to contact you, we will give them:
+
 - your child’s name and class
 - your email address and mobile phone number
 
@@ -39,4 +41,3 @@ Your personal data will be stored securely in line with NHS data security standa
 If you have questions about vaccinations or the consent form, please contact the immunisation team at ==SAIS team email==.
 
 If you have questions about how the school shares information, please contact us.
-

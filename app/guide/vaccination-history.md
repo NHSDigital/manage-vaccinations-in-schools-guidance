@@ -6,12 +6,12 @@ order: 5
 
 [[toc]]
 
-You should upload relevant historical vaccination records before scheduling school sessions. 
+You should upload relevant historical vaccination records before scheduling school sessions.
 
 This allows Mavis to:
 
-* identify which vaccinations a child has already had 
-* only send consent requests for children who have not had the vaccine already
+- identify which vaccinations a child has already had
+- only send consent requests for children who have not had the vaccine already
 
 If you later find out that a child has already been vaccinated, you can update their record in Mavis (see ‘Manually recording a child as already vaccinated’ below).
 
@@ -19,52 +19,55 @@ You should include vaccination records for anyone in the cohort who was vaccinat
 
 ## What vaccination history you need to upload
 
-How much vaccination history you need to upload depends on the programme. 
+How much vaccination history you need to upload depends on the programme.
 
 > [!NOTE]
 > If you do not upload vaccination histories for a year group, but then you schedule a session that includes that year group, the parents of every child in that year will get a consent request, including those already vaccinated.
 
-#### Flu
-Do not upload flu vaccination records from previous academic years. 
+### Flu
+
+Do not upload flu vaccination records from previous academic years.
 
 Only upload a record if the flu vaccination was given in the current academic year.
 
-#### HPV
+### HPV
 
-Upload records of any previous HPV vaccinations given to children in your cohort from age 9 onwards. 
-
-For example:
-if you’re vaccinating children in Year 8, upload records from the previous 4 years 
-if you’re running a catch-up session for Year 10, upload records from the previous 6 years 
-
-#### MenACWY
-
-Upload records of any previous MenACWY vaccinations given to children in your cohort from age 10 onwards. 
-
-For example, if you’re vaccinating children in Year 9, upload records from the previous 3 years. 
-
-#### MMR(V)
-
-Mavis needs each child’s full MMR vaccination history from 12 months of age onwards. 
-
-This means you should upload vaccination history as far back as the oldest child in the cohort minus one year. 
+Upload records of any previous HPV vaccinations given to children in your cohort from age 9 onwards.
 
 For example:
-if you’re vaccinating Year 6 children (where the oldest child is 11), upload records from the previous 10 years
-if you’re vaccinating Year 11 children (where the oldest child is 16), upload records from the previous 15 years
 
-#### Td/IPV
+- if you’re vaccinating children in Year 8, upload records from the previous 4 years
+- if you’re running a catch-up session for Year 10, upload records from the previous 6 years
+
+### MenACWY
+
+Upload records of any previous MenACWY vaccinations given to children in your cohort from age 10 onwards.
+
+For example, if you’re vaccinating children in Year 9, upload records from the previous 3 years.
+
+### MMR(V)
+
+Mavis needs each child’s full MMR vaccination history from 12 months of age onwards.
+
+This means you should upload vaccination history as far back as the oldest child in the cohort minus one year.
+
+For example:
+
+- if you’re vaccinating Year 6 children (where the oldest child is 11), upload records from the previous 10 years
+- if you’re vaccinating Year 11 children (where the oldest child is 16), upload records from the previous 15 years
+
+### Td/IPV
 
 Upload records of any previous Td/IPV (3-in-1) vaccinations given to children in your cohort from age 9 onwards.
 
-For example, if you’re vaccinating children in Year 9, upload records of Td/IPV vaccinations from the previous 5 years. 
+For example, if you’re vaccinating children in Year 9, upload records of Td/IPV vaccinations from the previous 5 years.
 
 > [!NOTE]
-> Do not upload records of any previous tetanus-, diphtheria- or polio-containing vaccines that are not Td/IPV, for example the 6-in-1 vaccine or the 4-in-1 pre-school booster. Mavis is not authorised to hold this information. 
+> Do not upload records of any previous tetanus-, diphtheria- or polio-containing vaccines that are not Td/IPV, for example the 6-in-1 vaccine or the 4-in-1 pre-school booster. Mavis is not authorised to hold this information.
 
 ## How to import historical vaccination records
 
-Use the following template to upload historical vaccination records for HPV, MenACWY and Td/IPV from the last 3 years. 
+Use the following template to upload historical vaccination records for HPV, MenACWY and Td/IPV from the last 3 years.
 
 For MMR(V), you should go as far back as the oldest member of the cohort minus one year. For example, if you’re vaccinating Year 6 children (where the oldest child is 11), you’d upload records for the last 10 years. For Year 11 children (where the oldest child is 16), this would mean uploading records for the last 15 years.
 

@@ -9,7 +9,7 @@ eleventyComputed:
 
 If schools have not provided parents’ contact details, they’ll need to send out consent requests and consent reminders that you’ve provided them with. See [email and text message templates for parents](/email-and-text-templates).
 
-### How to use the templates
+## How to use the templates
 
 You will need to add the correct dates and a URL for the consent form yourselves. **This URL is different for every school.**
 

@@ -28,7 +28,7 @@ Until there’s fully automated data sharing, you should periodically download v
 1. Open SystmOne.
 2. Use the application menu to navigate to **Setup** then **Bulk Operations** then **Childhood Vaccination Upload**.
 
-![Screenshot of how to find the Childhood Vaccination Upload in SystmOne.](/assets/images/s1-menus.png)
+   ![Screenshot of how to find the Childhood Vaccination Upload in SystmOne.](/assets/images/s1-menus.png)
 
 3. Select the data file you want to upload.
 4. Select **Import file**.
@@ -38,8 +38,8 @@ Until there’s fully automated data sharing, you should periodically download v
 1. Resolve any records that appear in the **Unmatched Patients** tab.
 2. Check that any records that appear in the **Ready for Upload** tab look as expected.
 3. Review any errors shown in the **Errors** tab:
-    - to double-check the errors, you can download a CSV of the errors and use filters to check that all of the errors are *"This item already exists on the child's record. Details of this item will not be included in any task created as a result of this upload."*
-    - you’ll need to review and resolve any other errors separately
+   - to double-check the errors, you can download a CSV of the errors and use filters to check that all of the errors are _“This item already exists on the child's record. Details of this item will not be included in any task created as a result of this upload.”_
+   - you’ll need to review and resolve any other errors separately
 
 4. Select **Accept Changes**.
 
@@ -47,7 +47,7 @@ Until there’s fully automated data sharing, you should periodically download v
 
 1. You’ll see an error message saying that errors exist with the upload.
 
-![Screenshot of the SystmOne error message when errors exist with the upload.](/assets/images/s1-error-message.png)
+   ![Screenshot of the SystmOne error message when errors exist with the upload.](/assets/images/s1-error-message.png)
 
 2. Select **OK** to dismiss the error message.
 3. The new records will have been added to SystmOne successfully and the duplicates ignored.

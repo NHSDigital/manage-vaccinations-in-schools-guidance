@@ -27,6 +27,7 @@ You should only schedule sessions after you’ve uploaded vaccination records an
 You can add more than one date for a session. If you do that, parents will get consent requests showing all dates.
 
 You can also create sessions through the Sessions area of Mavis.
+
 1. Go to **Sessions**.
 2. Select **Add a new session** near the top of the page.
 3. Use the radio buttons to indicate whether this is a **school session** or a **community clinic**.
