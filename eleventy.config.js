@@ -59,6 +59,12 @@ export default function (eleventyConfig) {
       })
   })
 
+  // Filters
+  eleventyConfig.addFilter('absoluteUrl', (path) => {
+    return new URL(path, 'https://guide.manage-vaccinations-in-schools.nhs.uk')
+      .href
+  })
+
   // Templates
   eleventyConfig.addTemplate(
     'national-reporting-search.11ty.js',
