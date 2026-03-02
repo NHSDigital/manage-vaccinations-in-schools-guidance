@@ -95,7 +95,7 @@ Then in Mavis:
 6. Correct the issues listed and try again.
 7. Wait for the file to finish importing.
 
-Once the file has finished uploading, there may be some import issues that you need to review before doing anything else (see [Resolving issues when uploading files](/guide/vaccination-history/#resolving-issues-when-uploading-files)).
+Once the file has finished uploading, there may be some import issues that you need to review before doing anything else (see [Resolving issues when uploading files](vaccination-history.md#resolving-issues-when-uploading-files)).
 
 ### Updating subcutaneous vaccinations
 

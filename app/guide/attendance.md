@@ -11,7 +11,7 @@ You can register children’s attendance at vaccination sessions in Mavis.
 
 If this feature is enabled for your team, you can only record vaccinations for children who are registered as attending a session.
 
-This feature can be switched off on the [Edit session page](/guide/sessions).
+This feature can be switched off on the [Edit session page](sessions.md).
 
 If you switch it off, all children with consent (and ‘safe to vaccinate’ triage outcomes, where relevant) will appear in ‘Record vaccinations’.
 

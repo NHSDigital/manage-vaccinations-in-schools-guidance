@@ -54,7 +54,7 @@ The template below shows what other information can be imported into Mavis for c
   href: "/files/cohort-upload-template.xlsx"
 }) }}
 
-If you haven’t included a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](/guide/importing-cohorts#see-how-mavis-uses-pds-to-find-nhs-numbers). to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
+If you haven’t included a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](importing-cohorts.md#see-how-mavis-uses-pds-to-find-nhs-numbers). to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
 
 ### Preparing files for upload
 

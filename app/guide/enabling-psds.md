@@ -14,4 +14,4 @@ If your team uses patient specific directions (PSDs) for flu vaccinations, you c
 
 ![Screenshot of session delegation settings.](/assets/images/enable-psd.png)
 
-Any user can turn this feature on for a session. Once it’s enabled, users with a prescriber role can add PSDs to named children (see [Reviewing and adding PSDs](/guide/reviewing-and-adding-psds/)).
+Any user can turn this feature on for a session. Once it’s enabled, users with a prescriber role can add PSDs to named children (see [Reviewing and adding PSDs](reviewing-and-adding-psds.md)).

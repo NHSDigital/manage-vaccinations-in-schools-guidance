@@ -6,7 +6,7 @@ order: 14
 
 Mavis sends email and text reminders to parents who have not responded to the initial consent request.
 
-Automatic reminders are sent 1 week before a session takes place. You can change this on the Edit session page (see [Scheduling and editing sessions](/guide/sessions.md)).
+Automatic reminders are sent 1 week before a session takes place. You can change this on the Edit session page (see [Scheduling and editing sessions](sessions.md)).
 
 You can also send reminders manually. Mavis will then skip the next automatic reminder if it's due to be sent within 3 days.
 

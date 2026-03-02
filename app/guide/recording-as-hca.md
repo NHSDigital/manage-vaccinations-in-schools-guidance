@@ -14,4 +14,4 @@ If you’re a healthcare assistant, only children who have had a PSD added by a 
 
 You’ll see a list of all children who have had a PSD added by a prescriber and are ready to be vaccinated. The vaccination method is shown clearly as nasal spray. You can record nasal spray vaccinations for these children.
 
-For more on how to record vaccinations in Mavis, see [Recording a vaccination or non-vaccination](/guide/recording-vaccinations.md)
+For more on how to record vaccinations in Mavis, see [Recording a vaccination or non-vaccination](recording-vaccinations.md)

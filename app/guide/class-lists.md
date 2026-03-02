@@ -38,7 +38,7 @@ In Mavis:
 7. Select **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
 8. Wait for the file to finish uploading.
 
-Mavis may add a missing NHS number or replace an incorrect one in your upload by searching PDS. (See [See how Mavis uses PDS to find NHS numbers](/guide/importing-cohorts#see-how-mavis-uses-pds-to-find-nhs-numbers))
+Mavis may add a missing NHS number or replace an incorrect one in your upload by searching PDS. (See [See how Mavis uses PDS to find NHS numbers](importing-cohorts.md#see-how-mavis-uses-pds-to-find-nhs-numbers))
 
 > [!NOTE]
 > If a school does not provide postcodes for every child, you can still upload the class lists. You will have to add any missing NHS numbers manually.
@@ -82,7 +82,7 @@ When importing class lists, Mavis will automatically identify if a child’s sch
 
 To review a child changing school, follow the instructions on this page of the user guide:
 
-- [Reviewing school moves](/guide/school-moves)
+- [Reviewing school moves](school-moves.md)
 
 ## Handling out-of-year-group children
 

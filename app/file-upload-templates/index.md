@@ -23,6 +23,6 @@ Select the template you need from the File upload templates menu on this page.
 
 For detailed instructions on uploading files, see the following sections of the Mavis user guide:
 
-- [Importing cohorts into Mavis](guide/importing-cohorts.md)
-- [Adding vaccination history](guide/vaccination-history.md)
-- [Importing class lists](guide/class-lists.md)
+- [Importing cohorts into Mavis](../guide/importing-cohorts.md)
+- [Adding vaccination history](../guide/vaccination-history.md)
+- [Importing class lists](../guide/class-lists.md)

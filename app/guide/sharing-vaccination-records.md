@@ -28,7 +28,7 @@ If a record cannot be synced, Mavis explains why and in some cases will tell you
 
 ## If a child self-consents under Gillick competence
 
-If a child self-consents under Gillick competence and asks for their parents not to be informed, the record will not be synced and you must let the child’s GP know they were vaccinated. These records will be flagged to Superusers as an important notice - see [Checking important notices](/guide/notices/).
+If a child self-consents under Gillick competence and asks for their parents not to be informed, the record will not be synced and you must let the child’s GP know they were vaccinated. These records will be flagged to Superusers as an important notice - see [Checking important notices](notices.md).
 
 ![Screenshot of a vaccination record that is not synced.](/assets/images/fhir-imms-not-synced.png)
 
@@ -36,4 +36,4 @@ If a child self-consents under Gillick competence and asks for their parents not
 
 You must share vaccination records for all programmes with CHIS manually.
 
-To do this, download child-level vaccination reports as CSV files from the **Reports** area of Mavis and send them to your CHIS provider. For more information, read [Downloading vaccination reports](/guide/reporting/).
+To do this, download child-level vaccination reports as CSV files from the **Reports** area of Mavis and send them to your CHIS provider. For more information, read [Downloading vaccination reports](reporting.md).

@@ -16,7 +16,7 @@ You can do this through the link in your **Getting ready to use Mavis** email or
 
 If you need to add or remove a school, [contact the Mavis team](mailto:england.mavis@nhs.net).
 
-You can update children's schools on their record. See [Editing individual child records](/guide/editing-cohorts.md).
+You can update children's schools on their record. See [Editing individual child records](editing-cohorts.md).
 
 ## Adding school sites
 

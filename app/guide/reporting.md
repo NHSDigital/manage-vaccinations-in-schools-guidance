@@ -29,7 +29,7 @@ Child-level vaccination reports include detailed vaccination data for the select
 
 You’ll need to select a file format before downloading the report.
 
-If your team, or the team you’re sharing the data with, uses SystmOne alongside Mavis, select **CSV for SystmOne (TPP)**. For more information, read [Sharing vaccination records between Mavis and SystmOne](/guide/sharing-vaccination-records-between-mavis-and-systmone/).
+If your team, or the team you’re sharing the data with, uses SystmOne alongside Mavis, select **CSV for SystmOne (TPP)**. For more information, read [Sharing vaccination records between Mavis and SystmOne](sharing-vaccination-records-between-mavis-and-systmone.md).
 
 ## Aggregate vaccination reports
 

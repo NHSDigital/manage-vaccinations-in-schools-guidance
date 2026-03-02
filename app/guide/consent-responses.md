@@ -29,7 +29,7 @@ When a parent submits a consent response, they can also let Mavis know that a ch
 
 To review a child changing school, follow the instructions on this page of the user guide:
 
-- [Reviewing school moves](/guide/school-moves)
+- [Reviewing school moves](school-moves.md)
 
 ## Reviewing unmatched consent responses
 
@@ -76,7 +76,7 @@ In both cases, you will need to investigate the conflicting consent and resolve 
 3. If you click on the child’s record and scroll down, you’ll see who has said what in their consent responses.
 4. Click on the name of the parent whose consent you want to investigate. This opens their consent response, including their contact details.
 5. Contact the parent to discuss the conflicting consent.
-6. If the parent changes their consent decision when you speak to them, add their new response to the child record manually (see [Recording a new consent response](/guide/add-or-remove-consent.md)).
+6. If the parent changes their consent decision when you speak to them, add their new response to the child record manually (see [Recording a new consent response](add-or-remove-consent.md)).
 
 ## Investigating unknown parent contact details in consent response
 
@@ -88,5 +88,5 @@ If a consent response has different contact details from those on record, Mavis 
 
 If the original parent informs you that the consent response came from somebody without parental responsibility, you need to:
 
-- mark the consent response as invalid (see [Marking a consent response as invalid](/guide/add-or-remove-consent.md))
-- remove the parent who sent the invalid response from the child record ([see Manually editing individual child records](/guide/editing-cohorts.md))
+- mark the consent response as invalid (see [Marking a consent response as invalid](add-or-remove-consent.md))
+- remove the parent who sent the invalid response from the child record ([see Manually editing individual child records](editing-cohorts.md))

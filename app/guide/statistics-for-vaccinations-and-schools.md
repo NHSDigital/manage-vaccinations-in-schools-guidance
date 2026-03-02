@@ -47,4 +47,4 @@ You can use filters to view data for specific programmes, genders and year group
 
 Schools are listed in ascending order by unique reference number (URN).
 
-This data is also available to download as a CSV report (see [Downloading vaccination reports](/guide/reporting/)).
+This data is also available to download as a CSV report (see [Downloading vaccination reports](reporting.md)).
