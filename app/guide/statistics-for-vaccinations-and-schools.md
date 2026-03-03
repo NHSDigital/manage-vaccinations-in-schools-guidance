@@ -1,5 +1,5 @@
 ---
-title: Statistics for vaccinations and schools
+title: Statistics for vaccinations, consent and schools
 theme: Statistics and reports
 order: 33
 ---
@@ -28,6 +28,28 @@ You can use filters to view data for specific programmes, genders and year group
 
 ![Screenshot of the vaccinations dashboard.](/assets/images/reports-vaccinations.png)
 
+## Consent dashboard
+
+You can see a breakdown of the consent status of children in your area.
+
+1. Select **Reports** from the Mavis homepage or the top navigation bar.
+2. Select the **Consent** tab.
+
+You can see the number of children with:
+
+- no consent recorded
+- consent given
+
+In addition, the ‘no consent recorded’ figure is broken down to show the number of children with:
+
+- no consent response (including children not yet invited to a session)
+- consent refused
+- conflicting consent
+
+You can use filters to view data for specific vaccine programmes, genders and year groups.
+
+![Screenshot of the consent dashboard](/assets/images/reports-consent.png)
+
 ## Schools list
 
 You can view a list of all schools in your area.
@@ -35,11 +57,12 @@ You can view a list of all schools in your area.
 1. Select **Reports** from the Mavis homepage or the top navigation bar.
 2. Select the **Schools** tab.
 
-The list shows the following information for each school:
+For each school, you can see the number of children:
 
-- number of children in the cohort
-- number of children vaccinated
-- number of children not vaccinated
+- in the cohort
+- with no consent response
+- with consent given
+- vaccinated
 
 You can use filters to view data for specific programmes, genders and year groups.
 
