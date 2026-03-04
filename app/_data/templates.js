@@ -41,13 +41,13 @@ export default async function () {
     'consent-request-mmr': {
       title: 'Initial consent request (MMR)',
       emailId: '7e86e688-ceca-4dcc-a1cf-19cb559d38a8',
-      textId: '2d3e2370-7faa-4798-b7ae-607692a85059',
+      textId: '710bf0f1-3916-4f90-a07c-d6999090b230',
       tags: ['consent-request']
     },
     'consent-request-mmrv': {
       title: 'Initial consent request (MMRV)',
       emailId: 'fe194b88-5692-49a2-ab14-648e8ce2af63',
-      textId: '2d3e2370-7faa-4798-b7ae-607692a85059',
+      textId: '5b208af0-da7c-4a13-9e3c-9350f6806ee2',
       tags: ['consent-request']
     },
     'consent-outcome-given': {
