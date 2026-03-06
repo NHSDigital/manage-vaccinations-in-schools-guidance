@@ -50,6 +50,25 @@ You will soon be able to send invitations to these children manually. Invitation
 
 We expect this feature to be available by the middle of March 2026. We’ll update this guide as soon as it’s live.
 
+## Getting consent to vaccinate
+
+You do not necessarily need to get consent in advance for clinics. If a parent accompanies a child to the clinic, their presence is considered implied consent.
+
+If you choose to seek consent in advance, once a parent has booked a clinic slot through your local booking system:
+
+1. In the **Community clinic** page, go to the **Children** tab and filter for **Needs consent**.
+2. Click into the child’s record and scroll down.
+3. Click on **Send consent request**.
+
+This will trigger an email to the parent or guardian.
+
+You could also try to get consent over the phone. To do this:
+
+1. In the **Community clinic** page, go to the **Children** tab and filter for **Needs consent**.
+2. Click into the child’s record.
+3. Click on **Record a new consent response**.
+4. Phone the parent and work through the consent flow to record their response in Mavis.
+
 ## Recording vaccinations in clinics
 
 You will soon be able to record vaccinations given in clinics directly from a child’s record in Mavis. We expect this feature to be available by the end of March 2026. We will update this guide when it goes live.
