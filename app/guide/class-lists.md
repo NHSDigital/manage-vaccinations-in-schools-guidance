@@ -64,11 +64,11 @@ You’ll need to review close matches and school moves after importing.
 
 There is also an option to keep both child records. For example, in the case of twins, Mavis will identify a near match, but you can select **Keep both records**. The existing record will stay in Mavis and the uploaded record will be added.
 
-If there are some parts of each record that are correct, you can:
+If each record contains some correct information:
 
-1. note down any correct information from the version you choose to archive
-2. archive that record
-3. go to the record you are keeping and edit the information there
+1. Note any correct information from the record you plan to archive.
+2. Go to the record you are keeping and edit the information there.
+3. Archive the record you no longer need.
 
 > [!NOTE]
 > If less than 70% of records, uploaded with a postcode, match an NHS number in PDS, the upload will be rejected, and you’ll see an error message. You should review the file, correcting any formatting issues (for example, make sure the first name and last name columns and the date of birth rows are in the correct position) and try uploading it again.
