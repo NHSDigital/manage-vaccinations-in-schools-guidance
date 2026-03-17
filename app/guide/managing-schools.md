@@ -4,6 +4,8 @@ theme: Managing cohorts
 order: 3
 ---
 
+[[toc]]
+
 You need to provide a list of schools in your area:
 
 - when you start using Mavis
@@ -13,7 +15,9 @@ You can do this through the link in your **Getting ready to use Mavis** email or
 
 > [!NOTE]
 > It’s important to include the correct unique reference number (URN) for each school on your list. Mavis gets the information it shows about schools (including which year groups attend the school) using the URNs you provide.
->
+
+## Adding schools manually
+
 If your team is responsible for a school, but it was not included in your list, you can add it to Mavis manually.
 
 1. Go to the **Team** tab.
