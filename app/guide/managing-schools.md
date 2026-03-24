@@ -25,7 +25,10 @@ If your team is responsible for a school, but it was not included in your list, 
 3. Select **Add a new school**.
 4. Enter the school URN and select **Continue**.
 5. If this is the school you want to add, select **Yes, add this school**. If not, select **No** and enter the correct URN.
-6. Review the school details and select **Add school**.
+6. After you select **Yes, add this school** you’ll see the pre-selected year groups for that school.
+7. Deselect any year groups and/or select additional ones as necessary.
+8. Review the school details and select **Add school**.
+
 
 > [!NOTE]
 > You cannot add a school if it is already assigned to another team in Mavis.
@@ -50,6 +53,7 @@ If a school has more than 1 site you can add them in Mavis.
 > [!NOTE]
 > The new site will have the same URN as the main (parent) school with an extra letter at the end. Mavis will automatically add **A** to the parent school URN, and B to the 1st extra site, C to the 2nd one, and so on.
 
+6. You’ll see the pre-selected year groups for that site. You can deselect any year groups and/or select additional ones as necessary.
 7. Check the details. Select **Back** if you need to change the name or address of the new site, or **Change parent school** if you need to add this site to a different school.
 8. Select **Add site**.
 
@@ -65,11 +69,28 @@ When you name a school site, consider the following points:
 
 ### Editing school sites
 
-You can edit a site’s name and/or address.
+You can edit a site’s name and/or address, or the year groups it serves.
 
 1. Go to the **Team** tab.
 2. Select **Schools**.
 3. Find the site you need to amend and click **Edit**.
 4. Change the site’s name and/or address and select **Continue**.
 5. Review the updated information and select **Save changes**.
+
+### Adding year groups to schools already in Mavis
+
+If a school does not include the correct school years, you can add them. 
+
+To add year groups to a school that’s already in Mavis:
+1. Go to the **Team* tab.
+2. Select **Schools**.
+3. Find the school you need to add to and select **Edit**.
+4. Select **Change** on the Year groups row.
+5. Select the year group(s) you need to add from the list that appears and click **Continue**.
+6. Review your changes and select **Save changes**.
+7. To add year groups to a school site that’s already on Mavis, see Editing school sites (above).
+
+> [!NOTE]
+> You can only add year groups to a school or school site that’s already in Mavis, you cannot remove them.
+
 
