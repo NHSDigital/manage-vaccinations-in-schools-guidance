@@ -74,7 +74,7 @@ You can edit a site’s name and/or address, or the year groups it serves.
 1. Go to the **Team** tab.
 2. Select **Schools**.
 3. Find the site you need to amend and click **Edit**.
-4. Change the site’s name and/or address and/or select additional year groups and select **Continue**.
+4. Make any changes you need to make then select **Continue**.
 5. Review the updated information and select **Save changes**.
 
 ### Adding year groups to schools already in Mavis
