@@ -1,8 +1,29 @@
 ---
-title: Editing individual child records
+title: Viewing, editing and archiving child records
 theme: Managing cohorts
 order: 6
 ---
+Once cohort records have been imported into Mavis, you can view, edit and archive individual child records.
+
+## Viewing child records
+
+1. From the dashboard, go to **Children**.
+2. Search for the child whose record you want to view.
+3. Select their name to open their record.
+
+The child record gives details about the child and their current vaccination status across all programmes.
+
+![Screenshot of a child record.](/assets/images/child-record.png)
+
+### Viewing programme details
+
+Use the programme tabs at the top of the child record page to view more detailed information for each programme.
+
+This includes the child’s vaccination record, any sessions they’ve been added to, and an activity timeline for that programme.
+
+![Screenshot of a programme tab of a child record.](/assets/images/child-record-programme.png)
+
+## Editing child records
 
 1. Go to **Children**.
 2. Search for the child by name and select their record.
@@ -18,7 +39,7 @@ order: 6
 
 ![Screenshot of page to edit a child record.](/assets/images/edit-child-record.png)
 
-## Archiving individual child records
+## Archiving child records
 
 To remove a child’s record from the cohort, for example if:
 
