@@ -88,4 +88,6 @@ For each local authority, you can see the number of children:
 
 You can use filters to view data for specific programmes, genders and year groups.
 
+![Screenshot of the local authorities dashboard.](/assets/images/reports-local-authorities.png)
+
 This data is also available to download as a CSV report (see [Downloading vaccination reports](reporting.md)).
