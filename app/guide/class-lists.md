@@ -87,3 +87,39 @@ To review a child changing school, follow the instructions on this page of the u
 ## Handling out-of-year-group children
 
 {% include "fragments/out-of-year-group-children.md" %}
+
+## Removing incorrect parent-child relationships from the import
+
+If you import a class list and later find that the parent-child relationships are incorrect, you can remove those relationships from Mavis.
+
+For example, you might need to do this if the parent details in your CSV file are not lined up with the right children. You can then:
+- remove the parent-child relationships from Mavis
+- correct the CSV file
+- re-upload the file
+
+> [!NOTE]
+> Removing a parent-child relationship from Mavis will invalidate any consent responses the parent has given for that child. You can choose to only remove relationships where no consent response has been given.
+
+1. Go to **Imports** and select the **Completed imports** tab.
+2. Select the relevant import to view its details.
+3. At the bottom of the details, select **Remove all parent-child relationships from import**.
+
+![Screenshot of remove parent-child relationships button](/assets/images/remove-parent-child-relationships-button.png)
+
+4. When asked “Are you sure you want to remove all parent-child relationships included in this import”, select **Continue** to confirm, or **Cancel** to stop.
+
+### If parents have given consent responses
+
+If any parents in the import have submitted a consent response for any children in the import, you can choose to leave those parent-child relationships in place, if you know they are correct.
+
+1. Follow steps 1 to 3 described above.
+2. Mavis will tell you that one or more parents in the import have submitted consent responses for children in the import. It will also show the full consent details.
+3. Choose one of the following options:
+   - **Only remove parent–child relationships where no consent response has been submitted**
+   The relationships and consent responses shown above will stay in Mavis
+   - **Remove all parent–child relationships included in this import**
+   This will invalidate the consent responses listed above
+
+Select **Continue** to confirm, or **Cancel** to stop.
+
+![Screenshot of remove parent-child relationships confirmation screen](/assets/images/remove-parent-child-relationships-confirm.png)
