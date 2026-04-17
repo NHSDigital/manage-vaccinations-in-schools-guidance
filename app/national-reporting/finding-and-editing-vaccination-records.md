@@ -29,7 +29,7 @@ You can also manually add or change an NHS number by editing the child’s detai
 > [!NOTE]
 > If an NHS number is invalid, Mavis will not send that child’s vaccination record to NHS England. A superuser can identify invalid NHS numbers through important notices.
 
-## Editing a vaccination record
+## Editing vaccination records
 
 To edit a vaccination record:
 
@@ -43,3 +43,7 @@ To edit a vaccination record:
 ![Screenshot of child record showing edit vaccination record button.](/assets/images/national-reporting/edit-vaccs-record.png)
 
 You can only edit records uploaded by your SAIS team. You can view records uploaded by other teams – for example, if a child moved into your area – but you cannot edit these records.
+
+### Editing records in NIVS
+
+If you need to edit records that were previously uploaded to NIVS, contact [nivs.support@nhs.uk](mailto:nivs.support@nhs.uk).
