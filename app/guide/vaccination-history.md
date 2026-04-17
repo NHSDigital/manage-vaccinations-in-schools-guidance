@@ -108,13 +108,17 @@ If there are some parts of each that are correct, you can note down any correct 
 
 ## Manually recording a child as 'already vaccinated'
 
-If a child’s historical vaccination record is missing from CHIS data, or you have not been able to upload their historical vaccination record into Mavis, you can manually record the child as ‘already vaccinated’ for a specific programme. You can only do this once sessions have been scheduled (setting up sessions is covered in the ['Sessions'](sessions.md) section of this user guide).
+If a child’s historical vaccination record is missing from CHIS data, or you have not been able to upload their historical vaccination record into Mavis, you can manually record the child as ‘already vaccinated’ for a specific programme.
 
-1. From Sessions, select a session that is not currently in progress.
-2. Search for the child under the **Children** tab - then click on the child’s name to open the child record.
+1. From the dashboard, go to **Children**.
+2. Search for the child then click on their name to open the child record.
 3. Select the relevant tab for the vaccination programme you want to record.
-4. Click on the **Record as already vaccinated** link near the top of the page.
-5. Check the details on the page and add a note to explain this was a historical vaccination - then click the **Confirm** button.
+4. Click on the **Record as already vaccinated** button at top of the page.
+   
+![Screenshot of Record as already vaccinated button.](/assets/images/record-as-already-vaccinated-button.png)
 
+5. Enter the date when the vaccination was given (and the time if you know it).
 > [!NOTE]
-> You can only carry out this action for sessions that are not in progress.
+> You must know the date of vaccination in order to record it here. You do not need to know the time.
+
+6. Check the details on the page and add a note to explain this was a historical vaccination, then click the **Confirm** button.
