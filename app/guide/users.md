@@ -59,11 +59,12 @@ We recommend that there are at least 2 superusers with activity codes B0062 and 
 
 ## Assigning users to a workgroup
 
-Each SAIS team using Mavis has a different workgroup name. Users need to be assigned to the appropriate workgroup.
+Each SAIS team using Mavis has a different workgroup name, set by Mavis and sent to you when a team is onboarding. You need to assign users to the appropriate workgroup.
 
-You may need to [add workgroups to your organisation](https://digital.nhs.uk/services/care-identity-service/applications-and-services/care-identity-management/user-guides/managing-workgroups/create-a-workgroup) before assigning individual users.
+You may need to [create a workgroup in your organisation with the correct name](https://digital.nhs.uk/services/care-identity-service/applications-and-services/care-identity-management/user-guides/managing-workgroups/create-a-workgroup) before assigning individual users.
 
-If you create a new workgroup, you must inform Mavis by emailing <england.mavis@nhs.net>.
+> [!NOTE]
+> Workgroups names are case sensitive. You must use the exact workgroup name set by Mavis. For example, do not replace lower case letters with capitals.
 
 ## Removing users
 
