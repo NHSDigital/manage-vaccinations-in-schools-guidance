@@ -9,7 +9,7 @@ eleventyComputed:
 
 To assess Gillick competence for a child with no consent response:
 
-1. From the session page for a school go to the **Children** tab.
+1. From the session page for a school go to the **Children in session** tab.
 2. Find the child using the **Needs consent** or **Has a refusal** filters.
 
 ![Screenshot of the check consent responses page.](/assets/images/session-no-consent-response.png)
