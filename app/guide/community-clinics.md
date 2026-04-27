@@ -88,4 +88,4 @@ You can record vaccinations given in clinics directly from a child’s record in
 7. Record the vaccination, specifying the clinic location when prompted.
 
 > [!NOTE]
-> > When you record a vaccination for a child outside a school session, Mavis automatically creates a clinic session if there is not already a clinic session with today’s date.
+> When you record a vaccination for a child outside a school session, Mavis automatically creates a clinic session if there is not already a clinic session with today’s date.
