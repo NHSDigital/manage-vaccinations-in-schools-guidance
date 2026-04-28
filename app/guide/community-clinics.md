@@ -83,6 +83,9 @@ You can record vaccinations given in clinics directly from a child’s record in
 2. Find the child you are about to vaccinate and open their record.
 3. Select the vaccination programme. 
 4. Select **Record a vaccination in clinic** near the top of the screen (this button only appears if the child is due the vaccination).
-5. Record a new consent response for the child, if needed. 
-6. Record the vaccination, specifying the clinic location when prompted.
+5. Record a new consent response for the child, if needed.
+6. Review the health questions and triage outcome if necessary.
+7. Record the vaccination, specifying the clinic location when prompted.
 
+> [!NOTE]
+> When you record a vaccination for a child outside a school session, Mavis automatically creates a clinic session if there is not already a clinic session with today’s date.
