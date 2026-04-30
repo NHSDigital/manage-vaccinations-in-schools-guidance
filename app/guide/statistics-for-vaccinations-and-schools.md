@@ -9,7 +9,7 @@ order: 33
 The **Reports** area of Mavis lets you:
 
 - view consent and vaccination data for children, schools and local authorities in your area
-- download vaccination reports to share with CHIS, GP practices or others
+- download vaccination reports to review or share when needed
 
 To get there, select **Reports** from the Mavis homepage or the top navigation bar.
 
@@ -48,9 +48,13 @@ In addition, the ‘no consent recorded’ figure is broken down to show the num
 - consent refused
 - conflicting consent
 
+The ‘consent refused’ figure is broken down, to show the reasons for refusal as a percentage of total refusals.
+
+You can also see the different methods of response (for example, website, paper, phone) as a percentage of total responses.
+
 You can use filters to view data for specific vaccine programmes, genders and year groups.
 
-![Screenshot of the consent dashboard](/assets/images/reports-consent.png)
+![Screenshot of the consent dashboard](/assets/images/consent-tables.png)
 
 ## View data for schools in your area
 
