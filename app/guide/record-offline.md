@@ -15,12 +15,11 @@ The vaccination record spreadsheet contains a record for all children in the ses
 
 To download the spreadsheet for a session:
 
-1. Go to **Sessions**.
-2. Filter for **Scheduled** sessions.
-3. Click the link for the school you’re interested in.
-4. Click on the **Record offline** link at the bottom of the Scheduled session dates block to download the Excel file.
-5. Save this locally.
-6. Once downloaded, a copy of the spreadsheet should be shared with all the nurses and admins attending the session.
+1. Go to **Sessions** and filter for **Scheduled** sessions.
+2. Find the session you're interested in and select it.
+3. On the **Overview** tab, select **Download offline spreadsheet** at the bottom of the Session details area.
+4. Save the spreadsheet to your computer or device.
+6. Share the spreadsheet with all nurses and admins attending the session.
 
 ![Screenshot of the offline recording spreadsheet.](/assets/images/offline-spreadsheet.png)
 
