@@ -20,8 +20,8 @@ You need to send us the information in spreadsheet columns for every child:
 - Parent 1 email
 - Parent 1 phone number
 - Parent 2 name
-- Parent 1 email
-- Parent 1 phone number
+- Parent 2 email
+- Parent 2 phone number
 
 You can also see these columns in the template attached.
 
