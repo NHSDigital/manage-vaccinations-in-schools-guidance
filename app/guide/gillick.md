@@ -14,17 +14,19 @@ To assess Gillick competence for a child with no consent response:
 
 ![Screenshot of the check consent responses page.](/assets/images/session-no-consent-response.png)
 
-3. Click on the name of the child who’s asked to be vaccinated.
-4. Scroll down the page and click on **Assess Gillick competence**.
-5. Make your assessment using the relevant radio buttons.
-6. Confirm the answers by clicking **Update your assessment**.
+3. Select their name to open their record.
+4. Select **Assess Gillick competence**.
+5. Select Yes or No for each question to record your assessment. 
+6. When you have finished, select **Complete your assessment**.
 
 If the child is assessed as Gillick competent, you still need to add a consent response:
 
-1. In the child’s record, click **Record a new consent response**.
+1. In the child’s record, select **Record a new consent response**.
 
 ![Screenshot of selecting a Gillick competent child.](/assets/images/session-consent-gillick-competent.png)
 
-2. Select **Child (Gillick competent)** and click **Continue**.
-3. Select the appropriate radio button and click **Continue**.
-4. Answer the health questions and click **Confirm**.
+2. Select **Child (Gillick competent)** then **Continue**.
+3. Record whether the child agrees to the vaccination and select **Continue**.
+4. Record whether the child wants their parent or guardian to receive confirmation of the vaccination and select **Continue**.
+5. Answer the health questions and select **Continue**.
+6. Check the answers. If they are correct, select **Confirm**. To change an answer, select **Change**.
