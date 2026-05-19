@@ -22,7 +22,7 @@ The **Record vaccinations** tab only shows children who have consent to be vacci
 > [!NOTE]
 > If you’re offering more than one vaccination programme at this session, make sure you select the relevant programme tab, near the top of the screen.
 
-![Screenshot of programme tabs on the patient session page.](/assets/images/session-programme-tabs.png)
+![Screenshot of programme tabs on the patient session page.](/assets/images/session-patient-status.png)
 
 ## Review the child’s details and do pre-screening checks
 
