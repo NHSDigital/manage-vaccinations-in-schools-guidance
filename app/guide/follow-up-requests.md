@@ -6,7 +6,7 @@ order: 14
 
 If a parent refuses consent, they can request follow-up contact from your team (for example, if their reason for refusal was because they didn’t want the child to be vaccinated at school, or because the vaccine contains gelatine). 
 
-The child’s consent status changes to 'Needs consent - follow-up requested’.
+The child’s consent status changes to **Has a refusal - follow-up requested**.
 
 To find children who need follow-up:
 
