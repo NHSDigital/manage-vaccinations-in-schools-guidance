@@ -33,6 +33,8 @@ You can also create sessions through the Sessions area of Mavis.
 
 Mavis will automatically send consent requests and reminders from 3 weeks before the scheduled session date. You can change these dates by editing the session (see below).
 
+If a child leaves a school before the end of the academic year, they won’t appear in any further sessions at that school.
+
 ### Session dates
 
 You can add more than one date for a session. If you do that, parents will get consent requests showing all dates.

@@ -34,7 +34,7 @@ You can also use the **Programme status** filters to show only children matching
 
 If you want to see more details about consent for a child, select their name to open their record. 
 
-###Flu and MMR(V) vaccine preferences
+### Flu and MMR(V) vaccine preferences
 
 For flu and MMR(V) vaccinations, Mavis shows you which vaccines the child has consent for. 
 
