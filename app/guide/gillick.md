@@ -23,7 +23,7 @@ If the child is assessed as Gillick competent, you still need to add a consent r
 
 1. In the child’s record, select **Record a new consent response**.
 
-![Screenshot of selecting a Gillick competent child.](/assets/images/session-consent-gillick-competent.png)
+![Screenshot of selecting a Gillick competent child.](/assets/images/session-consent-gillick-competent-updated.png)
 
 2. Select **Child (Gillick competent)** then **Continue**.
 3. Record whether the child agrees to the vaccination and select **Continue**.
