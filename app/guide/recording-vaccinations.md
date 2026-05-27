@@ -22,16 +22,16 @@ The **Record vaccinations** tab only shows children who have consent to be vacci
 > [!NOTE]
 > If you’re offering more than one vaccination programme at this session, make sure you select the relevant programme tab, near the top of the screen.
 
-![Screenshot of programme tabs on the patient session page.](/assets/images/session-programme-tabs.png)
+![Screenshot of programme tabs on the patient session page.](/assets/images/session-patient-status.png)
 
 ## Review the child’s details and do pre-screening checks
 
 Once you’ve reviewed the information on the page, you’ll need to confirm the child’s identity and carry out pre-screening checks.
 
-1. Select the relevant radio button to state whether the child or someone else confirmed their identity.
+1. Select whether the child or someone else confirmed their identity.
 2. If it was someone else, enter their name and relationship to the child.
 3. Run through the pre-screening checks and confirm you’ve checked the statements are correct. You can add notes if you want to.
-4. Indicate whether you think the child is ready to vaccinate using the radio buttons at the bottom of the page.
+4. Indicate whether you think the child is ready to vaccinate and select **Continue** at the bottom of the page.
 
 ![Screenshot of pre-screening questions on a patient record.](/assets/images/session-child-pre-screen.png 'Mavis will ask a series of pre-screening questions before you record a vaccination.')
 
