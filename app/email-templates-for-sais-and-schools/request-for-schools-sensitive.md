@@ -1,7 +1,7 @@
 ---
 title: Ask schools to send consent form to parents of children flagged sensitive
 subject: School vaccinations - consent request for children with no contact details
----
+---/
 
 Dear ==name of school==
 
@@ -13,7 +13,9 @@ We have no contact details for one or more children at your school who are eligi
 
 We'd like you to contact the parent(s) or guardian(s) of ==name(s) of child(ren)== to ask them to complete our online consent form.
 
-You can copy and edit this [example email template]({{ "email-templates-for-sais-and-schools/consent-email-sensitive" | absoluteUrl }}). It includes a link to the form.
+You can copy and edit this [example email template]({{ "email-templates-for-sais-and-schools/consent-email-sensitive" | absoluteUrl }}). Under the **How to respond** heading you need to add:
+- the link to the consent form: ==link to consent form for relevant vaccination==
+- the consent deadline: ==consent deadline==
 
 ### Questions
 
