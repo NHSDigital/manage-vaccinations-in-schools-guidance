@@ -36,7 +36,11 @@ Records flagged as sensitive show reduced contact information, for example:
 - if there’s an ongoing police investigation
 - if the parents have said they do not wish the child’s details to be shared	
 
-If you see that a record has been flagged as sensitive, you need to follow this up with the child’s school and agree how to manage future contact outside Mavis.
+If you see that a record has been flagged as sensitive, you need to ask the child’s school to send a consent form to a parent or guardian. 
+
+You can use the email template [Ask schools to send consent form to parents of children flagged sensitive](/email-templates-for-sais-and-schools/request-for-schools-sensitive/). Adjust it with the relevant details highlighted in ((double brackets)) and send it to the school to forward to the parent or guardian.
+
+If they consent, the child will be included in the relevant school session in Mavis but no contact details will be shown on the child record. 
 
 ## Dismissing important notices
 
