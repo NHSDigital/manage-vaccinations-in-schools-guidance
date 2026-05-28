@@ -1,7 +1,7 @@
 ---
 title: Sending consent reminders manually
 theme: Managing consent
-order: 15
+order: 27
 ---
 
 Mavis sends email and text reminders to parents who have not responded to the initial consent request.

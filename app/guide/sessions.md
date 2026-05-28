@@ -1,7 +1,7 @@
 ---
 title: Adding and editing sessions
 theme: Organising sessions
-order: 11
+order: 20
 eleventyComputed:
   eleventyNavigation:
     key: Adding and editing sessions

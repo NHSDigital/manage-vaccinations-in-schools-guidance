@@ -1,7 +1,7 @@
 ---
 title: Using paper-based forms
 theme: Managing consent
-order: 18
+order: 30
 eleventyComputed:
   eleventyNavigation:
     key: Using paper-based forms

@@ -1,7 +1,7 @@
 ---
 title: Viewing consent and vaccination data
 theme: Statistics and reports
-order: 33
+order: 65
 ---
 
 [[toc]]

@@ -1,7 +1,7 @@
 ---
 title: Recording flu vaccinations as a healthcare assistant
 theme: Recording vaccinations
-order: 26
+order: 49
 eleventyComputed:
   eleventyNavigation:
     key: Recording as a HCA

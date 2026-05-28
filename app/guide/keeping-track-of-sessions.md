@@ -1,7 +1,7 @@
 ---
 title: Keeping track of sessions
 theme: Organising sessions
-order: 12
+order: 21
 eleventyComputed:
   eleventyNavigation:
     key: Keeping track of sessions

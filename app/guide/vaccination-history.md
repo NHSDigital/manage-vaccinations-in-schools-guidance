@@ -1,7 +1,7 @@
 ---
 title: Adding vaccination history
-theme: Managing cohorts
-order: 5
+theme: Uploading records to Mavis
+order: 7
 ---
 
 [[toc]]

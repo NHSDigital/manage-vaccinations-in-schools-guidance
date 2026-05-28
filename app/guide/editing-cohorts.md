@@ -1,7 +1,7 @@
 ---
 title: Viewing, editing and archiving child records
 theme: Managing cohorts
-order: 6
+order: 11
 ---
 Once cohort records have been imported into Mavis, you can view, edit and archive individual child records.
 

@@ -1,7 +1,7 @@
 ---
 title: Importing class lists
-theme: Organising sessions
-order: 10
+theme: Uploading records to Mavis
+order: 8
 ---
 
 [[toc]]

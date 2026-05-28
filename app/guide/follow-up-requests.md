@@ -1,7 +1,7 @@
 ---
 title: Responding to follow-up requests
 theme: Managing consent
-order: 14
+order: 26
 ---
 
 If a parent refuses consent, they can request follow-up contact from your team (for example, if their reason for refusal was because they didn’t want the child to be vaccinated at school, or because the vaccine contains gelatine). 
