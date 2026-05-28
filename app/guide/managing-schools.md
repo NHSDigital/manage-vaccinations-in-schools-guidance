@@ -1,7 +1,7 @@
 ---
 title: Managing schools in Mavis
 theme: Managing cohorts
-order: 3
+order: 10
 ---
 
 [[toc]]

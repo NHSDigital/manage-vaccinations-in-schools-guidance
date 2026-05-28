@@ -1,7 +1,7 @@
 ---
 title: Assessing Gillick competence
 theme: Recording vaccinations
-order: 24
+order: 47
 eleventyComputed:
   eleventyNavigation:
     key: Gillick assessment

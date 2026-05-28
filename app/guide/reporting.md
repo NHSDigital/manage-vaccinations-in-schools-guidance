@@ -1,7 +1,7 @@
 ---
 title: Downloading vaccination reports
 theme: Statistics and reports
-order: 34
+order: 66
 ---
 
 [[toc]]

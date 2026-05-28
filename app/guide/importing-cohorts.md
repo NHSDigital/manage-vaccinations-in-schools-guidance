@@ -1,7 +1,7 @@
 ---
 title: Importing cohorts into Mavis
-theme: Managing cohorts
-order: 4
+theme: Uploading records to Mavis
+order: 6
 eleventyComputed:
   eleventyNavigation:
     key: Importing cohorts into Mavis
