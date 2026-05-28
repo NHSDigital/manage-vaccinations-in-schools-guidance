@@ -11,7 +11,7 @@ We have no contact details for one or more children at your school who are eligi
 
 ### What we need from you
 
-We'd like you to contact the parent(s) or guardian(s) or ==name(s) of child(ren)== to ask them to complete our online consent form.
+We'd like you to contact the parent(s) or guardian(s) of ==name(s) of child(ren)== to ask them to complete our online consent form.
 
 You can copy and edit this [example email template]({{ "email-templates-for-sais-and-schools/consent-email-sensitive" | absoluteUrl }}). It includes a link to the form.
 
