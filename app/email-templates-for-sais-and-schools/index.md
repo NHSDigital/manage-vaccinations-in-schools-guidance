@@ -15,8 +15,8 @@ You do not have to use them - they’re provided as examples.
 - [Ask a school to check their details are up to date in Get Information about Schools (GIAS)](check-gias-request.md)
 - [Tell schools you’re changing the way you manage consent for vaccinations](changing-consent-process-for-schools.md)
   Let schools know you’ll be using Mavis to contact parents directly for vaccination consent and explain what information they’ll need to share with you in advance
-- [Ask a school to request consent for children flaggeed as sensitive](request-for-schools-sensitive.md)
-  Ask a school to edit and send parents of children with no contact details a request to complete the consent form
+- [Ask a school to request consent for children flagged as sensitive](request-for-schools-sensitive.md)
+  Ask a school to edit and send a request to complete the consent form to parents of children with no contact details
   
 
 ## Emails for schools to send to parents
