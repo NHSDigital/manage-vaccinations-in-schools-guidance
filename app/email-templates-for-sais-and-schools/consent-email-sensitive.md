@@ -1,5 +1,5 @@
 ---
-title: email for schools to request consent from parents of children flagged sensitive
+title: Email for schools to request consent from parents of children flagged sensitive
 subject: School vaccination consent request
 ---
 
@@ -28,17 +28,17 @@ Filling in the form will be quick and easy. It’s important to respond, even if
 
 It’s important to confirm whether you do or do not want your child to have the vaccination. It will take less than 5 minutes to respond using the link below.
 
-[Respond to the consent request now](link to consent form for relevant vaccination)
+==link to consent form for relevant vaccination==
 
 You need to respond by ==consent deadline==.
 
 If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
 
-###Keeping your information safe
+### Keeping your information safe
   
 If you consent, ==child’s name== vaccination will be recorded in line with NHS data security standards so their vaccination record is up to date, but no contact details will be shown.
 
-###Contact the team
+### Contact the team
 
 If you have questions about vaccinations or the consent form, contact the immunisation team by calling ==SAIS team phone==, or email ==SAIS team email==.
 
