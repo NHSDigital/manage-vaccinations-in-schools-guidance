@@ -67,7 +67,7 @@ For example, if you’re vaccinating children in Year 9, upload records of Td/IP
 > [!NOTE]
 > Do not upload records of any previous tetanus-, diphtheria- or polio-containing vaccines that are not Td/IPV, for example the 6-in-1 vaccine or the 4-in-1 pre-school booster. Mavis is not authorised to hold this information.
 
-## How to import historical vaccination records
+## How to upload historical vaccination records
 
 Use the following template to upload historical vaccination records for HPV, MenACWY and Td/IPV from the last 3 years.
 
@@ -89,8 +89,8 @@ For each of your vaccination record CSV files:
 1. Go to the **Imports** tab.
 2. Click on the **Upload records** button near the top of the page.
 3. Select **Vaccination records**, then click Continue.
-4. Click on **Choose File**, then select the CSV file you want to import.
-5. Click **Continue**. If there are any validation issues, Mavis will not import the file. Correct the issues listed in the file and try again.
+4. Click on **Choose File**, then select the CSV file you want to upload.
+5. Click **Continue**. If there are any validation issues, Mavis will not upload the file. Correct the issues listed in the file and try again.
 6. Wait for the file to finish uploading
 
 Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
