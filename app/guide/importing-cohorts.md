@@ -1,10 +1,10 @@
 ---
-title: Importing cohorts into Mavis
+title: Uploading cohorts
 theme: Uploading records to Mavis
 order: 6
 eleventyComputed:
   eleventyNavigation:
-    key: Importing cohorts into Mavis
+    key: Uploading cohorts
 ---
 
 [[toc]]
@@ -17,8 +17,6 @@ Before using Mavis for vaccination programmes, SAIS teams will need to:
 - upload relevant historical vaccination records for all children in the cohort
 
 We explain how to do this below.
-
-## Uploading cohort records
 
 > [!NOTE]
 > You should upload cohort records before you upload vaccination records or class lists.
@@ -39,7 +37,7 @@ When children are taught outside their chronological year group, you’ll need t
 
 You must include include the following information for each child in the cohort:
 
-- unique reference number (URN) for their school (use 888888 for school unknown, or 999999 for home-schooled)
+- unique reference number (URN) for their school (use 888888 for school unknown, or 999999 for home-educated)
 - first name
 - last name
 - date of birth
@@ -137,7 +135,7 @@ If you confirm that the child has moved to a school in your area from another te
 
 ### Children with no known school already registered at a school in a different area (no action needed)
 
-If the upload includes children with no known school who are already registered at a school (or registered as home-schooled) in another SAIS team’s area, Mavis will not import these records.
+If the upload includes children with no known school who are already registered at a school (or registered as home-educated) in another SAIS team’s area, Mavis will not import these records.
 
 The records will remain with the other team and will not appear in your area.
 
