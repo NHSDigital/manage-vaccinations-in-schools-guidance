@@ -4,8 +4,6 @@ theme: Uploading records to Mavis
 order: 5
 ---
 
-*****
-
 To use Mavis to manage your vaccination programmes, you need to upload:
 
 - records for all school age children in your cohort 
@@ -46,7 +44,7 @@ You should do this before scheduling vaccination sessions. This allows Mavis to 
 
 Use the **vaccination record upload template**. When uploading the file in Mavis, select **Vaccination records**.
 
-[[Find out how to upload vaccination history](/guide/vaccination-history/)
+[Find out how to upload vaccination history](/guide/vaccination-history/)
 
 
 ### 3. Upload class lists before a session
