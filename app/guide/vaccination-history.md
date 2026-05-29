@@ -88,7 +88,7 @@ For each of your vaccination record CSV files:
 
 1. Go to the **Imports** tab.
 2. Click on the **Upload records** button near the top of the page.
-3. Select **Vaccination records**, then click Continue.
+3. Select **Vaccination records**, then **Continue**.
 4. Click on **Choose File**, then select the CSV file you want to upload.
 5. Click **Continue**. If there are any validation issues, Mavis will not upload the file. Correct the issues listed in the file and try again.
 6. Wait for the file to finish uploading
