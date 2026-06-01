@@ -21,14 +21,14 @@ You can see:
 
 - the total number of children in the cohort
 - how many children have been vaccinated for each programme (by any provider)
-- how many vaccinations your team gave each month
+- how many vaccinations your team gave each month in schools and community clinics
 
 You can use filters to view data for specific programmes, genders and year groups.
 
 > [!NOTE]
 > We define **cohort** as all children who are eligible for the vaccine according to their academic year group, whether or not they have already been vaccinated.
 
-![Screenshot of the vaccinations dashboard.](/assets/images/reports-vaccinations.png)
+![Screenshot of the vaccinations dashboard.](/assets/images/vaccinations-dashboard.png)
 
 ## Consent dashboard
 
