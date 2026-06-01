@@ -16,8 +16,7 @@ To add a vaccine batch:
 
 Select the name of a vaccine to see further details, including the manufacturer, the relevant health questions and side effects. 
 
-
-
+![Screenshot of vaccine details card.](/assets/images/vaccine-details.png)
 
 ## Archiving batches
 
