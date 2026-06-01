@@ -10,7 +10,7 @@ To add a vaccine batch:
 
 1. From the dashboard, go to **Vaccines**.
 2. Find the relevant vaccine type and select **Add a new batch**.
-3. Enter the batch ID and expiry date, then click on **Add batch**.
+3. Enter the batch ID and expiry date, then select **Add batch**.
 
 ## Vaccine details
 
