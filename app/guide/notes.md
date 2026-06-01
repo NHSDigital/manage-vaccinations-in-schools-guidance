@@ -25,25 +25,23 @@ To add notes to a child record:
 3. Select **Add a note to this record** at the bottom of the page.
 4. Enter your note and select **Save note**.
    
-The note is added to the Activity log on the child record.
-
 ![Screenshot of add note on child record.](/assets/images/add-note-child-record.png)
 
 ## Add notes to a child’s session record
 
 You can add notes to a child’s session record to record information that is relevant to a specific vaccination session.
 
-Session notes appear on the **Session activity and notes** tab in the child’s session record, along with the activity timeline for that session.
-
-The latest session note is also shown on the child’s summary card in session search results.
-
-You can add session notes:
+You can add notes:
 
 - while completing tasks in a session, such as:
   * reviewing health questions and recording a triage decision
   * completing pre-screening checks
   * confirming the vaccination outcome on the Check and confirm page
 - directly on the **Session activity and notes** tab
+
+All notes relating to a session appear on the **Session activity and notes** tab in the child’s session record, along with the activity timeline for that session.
+
+The latest note added directly on the Session activity and notes tab is also shown on the child’s summary card in session search results.
   
 To add a session note from the **Session activity and notes** tab:
 
@@ -53,7 +51,5 @@ To add a session note from the **Session activity and notes** tab:
 4. Go to the **Session activity and notes** tab.
 5. Select **Add a session note**.
 6. Enter your note and select **Save note**.
-
-The note is added to the activity timeline on the Session activity and notes tab.
 
 ![Screenshot of add session note on session activity log.](/assets/images/add-note-session-record.png)
