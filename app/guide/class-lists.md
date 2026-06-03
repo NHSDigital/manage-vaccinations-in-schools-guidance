@@ -15,7 +15,6 @@ Uploading class lists:
 - adds parent contact details for children in the session, which Mavis uses to send consent requests
 - identifies children who have moved in our out of the school since you uploaded the cohort 
 
-
 You can use this template:
 
 {% from "attachment/macro.njk" import attachment %}
@@ -26,7 +25,6 @@ You can use this template:
 }) }}
 
 Make sure you upload class lists separately for each school. Each school can only have one class list.
-
 
 ## Uploading a class list file
 
