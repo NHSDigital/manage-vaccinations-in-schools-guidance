@@ -1,14 +1,21 @@
 ---
-title: Importing class lists
+title: Uploading class lists
 theme: Uploading records to Mavis
 order: 8
 ---
 
 [[toc]]
 
-To ensure you have an accurate cohort before a school session, Mavis allows you to import individual school class lists. Mavis will update the cohort list with any contact details provided and automatically identify any movers in and out.
+Before a session takes place, you’ll need to get an up-to-date class list from the school and upload it to Mavis. 
 
-Class lists from each school can be uploaded using the following template:
+You can use our [school class list request email template]({{ "/email-templates-for-sais-and-schools/changing-consent-process-for-parents" | absoluteUrl }}), if needed, when requesting this information from schools.
+
+Uploading class lists:
+
+- adds parent contact details for children in the session, which Mavis uses to send consent requests
+- identifies children who have moved in our out of the school since you uploaded the cohort 
+
+You can use this template:
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
@@ -17,7 +24,7 @@ Class lists from each school can be uploaded using the following template:
   href: "/files/class-list-upload-template.xlsx"
 }) }}
 
-Class lists for each school are uploaded separately, and each school can only have one class list.
+Make sure you upload class lists separately for each school. Each school can only have one class list.
 
 ## Uploading a class list file
 
@@ -45,15 +52,21 @@ Mavis may add a missing NHS number or replace an incorrect one in your upload by
 
 ## Reviewing and approving uploads
 
+After you successfully upload a class list, Mavis checks the records and shows a summary of what will happen if you confirm the upload. Review the results and select **Approve and import records** to continue, or **Cancel and delete upload**. 
+
 ![Screenshot of review screen for class import.](/assets/images/review-class-import.png)
 
-When you upload class lists, Mavis will identify children it already has records for.
+### Records already in Mavis
+
+When you upload class lists, Mavis identiies children it already has records for.
 
 If it’s an exact duplicate, Mavis will simply not import the record again - you’ll see a notification telling you how many records were not imported because they already exist in Mavis.
 
 If the file upload includes additional information for the child, such as their gender or preferred name, this will be added to the existing record if you approve the upload.
 
-If Mavis identifies any near matches with existing child records, you will need to review the missing or conflicting details after approving the upload, and confirm which record to keep and which record to archive.
+### Close matches to existing records
+
+If Mavis identifies any close matches to existing child records, you will need to review the missing or conflicting details after approving the upload, and confirm which record to keep and which record to archive.
 
 Click **Approve and import records**
 
@@ -76,9 +89,9 @@ If each record contains some correct information:
 > [!NOTE]
 > Some records may have changed since you uploaded your file. For example, another import might have been approved that includes some of the records in your file, or a child's school or NHS number may have changed in Mavis. If this happens, you’ll need to review those records again and confirm you still want to import the remaining changes from your file.
 
-## Reviewing children who have moved schools
+### School moves
 
-When importing class lists, Mavis will automatically identify if a child’s school has changed and raise this on the School moves page.
+Mavis will automatically identify if a child’s school has changed and raise this on the School moves page.
 
 To review a child changing school, follow the instructions on this page of the user guide:
 
