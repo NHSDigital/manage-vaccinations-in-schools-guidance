@@ -8,7 +8,7 @@ order: 8
 
 Before a session takes place, you’ll need to get an up-to-date class list from the school and upload it to Mavis. 
 
-You can use our [school class list request email template](https://guide.manage-vaccinations-in-schools.nhs.uk/email-templates-for-sais-and-schools/), if needed, when requesting this information from schools.
+You can use our [school class list request email template]({{ "/email-templates-for-sais-and-schools/changing-consent-process-for-parents" | absoluteUrl }}), if needed, when requesting this information from schools.
 
 Uploading class lists:
 
