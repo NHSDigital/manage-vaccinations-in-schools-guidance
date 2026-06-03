@@ -1,5 +1,5 @@
 ---
-title: Adding notes to a child's record
+title: Adding notes
 theme: Managing cohorts
 order: 12
 eleventyComputed:
