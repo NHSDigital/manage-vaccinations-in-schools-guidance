@@ -10,6 +10,9 @@ Before a session takes place, you’ll need to get an up-to-date class list from
 
 You can use our [school class list request email template]({{ "/email-templates-for-sais-and-schools/class-list-request" | absoluteUrl }}), if needed, when requesting this information from schools.
 
+> [!NOTE]
+> You must upload class lists at least 3 weeks before the session date, as this is when Mavis sends consent requests to parents. 
+
 Uploading class lists:
 
 - adds parent contact details for children in the session, which Mavis uses to send consent requests
