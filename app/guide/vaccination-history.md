@@ -95,6 +95,10 @@ For each of your vaccination record CSV files:
 
 Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
 
+##Upload errors
+
+If your upload fails, see [Upload errors](/guide/importing-cohorts/#upload-errors).
+
 ## Resolving issues when uploading files
 
 Mavis will highlight any potential duplicates found in the uploaded file and compared with what was already in Mavis as an upload issue.
