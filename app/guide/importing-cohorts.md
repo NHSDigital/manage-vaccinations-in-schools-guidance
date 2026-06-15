@@ -27,7 +27,7 @@ The cohort should include all children in your SAIS team’s area, as follows:
   - HPV - Year 8
   - MenACWY and Td/IPV - Year 9
   - MMR(V) - all years from Reception (Year 0) to Year 13
-  - flu - all years from Reception (Year 0) to Year 11 (or up to Year 13 or 14 for Special Educational Needs schools, where applicable)
+  - flu - all years from Reception (Year 0) to Year 11 (or up to Year 13 or 14 for SEN (special educational needs) schools, where applicable)
 - all children in older year groups, up to Year 13, whether they have already been vaccinated or not
 
 You’ll only need to upload the older year groups the first time you use Mavis. Once the cohort has been set up and used to record vaccinations for a particular year group, those records will stay in Mavis.
