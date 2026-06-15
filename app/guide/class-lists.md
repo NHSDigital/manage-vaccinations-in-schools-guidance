@@ -53,6 +53,10 @@ Mavis may add a missing NHS number or replace an incorrect one in your upload by
 > [!NOTE]
 > If a school does not provide postcodes for every child, you can still upload the class lists. You will have to add any missing NHS numbers manually.
 
+##Upload errors
+
+If your upload fails, see [Upload errors](/guide/importing-cohorts/#upload-errors).
+
 ## Reviewing and approving uploads
 
 After you successfully upload a class list, Mavis checks the records and shows a summary of what will happen if you confirm the upload. Review the results and select **Approve and import records** to continue, or **Cancel and delete upload**. 
