@@ -16,7 +16,7 @@ To assess Gillick competence for a child with no consent response:
 
 ![Screenshot of the Assess Gillick competence page.](/assets/images/assess-gillick-competence.png)
 
-6. Select Yes or No for each question to record your assessment. 
+6. Select Yes or No for each question to record your assessment.
 7. When you have finished, select **Complete your assessment**.
 
 If the child is assessed as Gillick competent, you still need to add a consent response:

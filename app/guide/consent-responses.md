@@ -8,7 +8,7 @@ order: 25
 
 ## Reviewing consent details for children in a session
 
-You can review consent details for all children in a session. 
+You can review consent details for all children in a session.
 
 First, find the session you’re interested in:
 
@@ -20,23 +20,22 @@ On the **Overview** tab you can see how many children in the session have the st
 
 The **Action required** section includes links to any children with:
 
-- unmatched consent responses 
+- unmatched consent responses
 - no consent response
 - follow-up requests
 - conflicting consent
 
-On the **Children in session** tab, you can see the consent status of all children in the session. 
-
+On the **Children in session** tab, you can see the consent status of all children in the session.
 
 ![Screenshot of consent responses for a session.](/assets/images/session-consent-refused.png 'Mavis shows consent responses for a session grouped by status.')
 
-You can also use the **Programme status** filters to show only children matching your selection - for example, select **Needs consent** and **No contact details** to see only those children. 
+You can also use the **Programme status** filters to show only children matching your selection - for example, select **Needs consent** and **No contact details** to see only those children.
 
-If you want to see more details about consent for a child, select their name to open their record. 
+If you want to see more details about consent for a child, select their name to open their record.
 
 ### Flu and MMR(V) vaccine preferences
 
-For flu and MMR(V) vaccinations, Mavis shows you which vaccines the child has consent for. 
+For flu and MMR(V) vaccinations, Mavis shows you which vaccines the child has consent for.
 
 For flu, this will be one of the following:
 
@@ -48,7 +47,6 @@ For MMR or MMV, it will be one of the following:
 
 - No preference
 - Gelatine-free vaccine only
-
 
 ## Reviewing unmatched consent responses
 

@@ -39,7 +39,7 @@ If a child leaves a school before the end of the academic year, they won’t app
 
 You can add more than one date for a session. If you do that, parents will get consent requests showing all dates.
 
-If you leave the date fields blank, this will create an unscheduled session which you can add dates to later. 
+If you leave the date fields blank, this will create an unscheduled session which you can add dates to later.
 
 ## Editing sessions
 

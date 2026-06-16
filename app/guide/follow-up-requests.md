@@ -4,7 +4,7 @@ theme: Managing consent
 order: 26
 ---
 
-If a parent refuses consent, they can request follow-up contact from your team (for example, if their reason for refusal was because they didn’t want the child to be vaccinated at school, or because the vaccine contains gelatine). 
+If a parent refuses consent, they can request follow-up contact from your team (for example, if their reason for refusal was because they didn’t want the child to be vaccinated at school, or because the vaccine contains gelatine).
 
 The child’s consent status changes to **Has a refusal - follow-up requested**.
 
@@ -18,10 +18,11 @@ To find children who need follow-up:
 ![Screenshot of session overview with follow-up request link.](/assets/images/session-overview-follow-up.png)
 
 5. Select the link (for example, **4 children with follow-up requests**) to see a list of those children.
-   
+
 ## Contacting parents and recording the outcome
 
 When contacting a parent who requested follow-up:
+
 1. Click on the child’s name to open their record.
 2. Click on the name of the parent who requested follow-up.
 3. Select **Follow up** at the top of the consent response.

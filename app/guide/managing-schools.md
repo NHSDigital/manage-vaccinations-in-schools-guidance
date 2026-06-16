@@ -29,10 +29,9 @@ To add a school manually:
 3. Select **Add a new school**.
 4. Enter the school URN and select **Continue**.
 5. If this is the school you want to add, select **Yes, add this school**. If not, select **No** and enter the correct URN.
-6. After you select **Yes, add this school** you’ll see the pre-selected phase for that school (nursery, primary, secondary or other/unknown). You can select a different phase if necessary. Select **Continue**. 
+6. After you select **Yes, add this school** you’ll see the pre-selected phase for that school (nursery, primary, secondary or other/unknown). You can select a different phase if necessary. Select **Continue**.
 7. You’ll then see the pre-selected year groups for the school. You can select different year groups if necessary. Select **Continue**.
-9. Review the school details and select **Add school**.
-
+8. Review the school details and select **Add school**.
 
 > [!NOTE]
 > You cannot add a school if it is already assigned to another team in Mavis.
@@ -91,7 +90,7 @@ You can edit a school’s details in Mavis to:
 1. Go to the **Team** tab.
 2. Select **Schools**.
 3. Find the school you need to update and select **Edit**.
-4. Select **Change** on the **Phase** row or **Year groups** row, as needed. 
+4. Select **Change** on the **Phase** row or **Year groups** row, as needed.
 5. Make any changes you need to make then select **Continue**.
 6. Review your changes and select **Save changes**.
 

@@ -31,12 +31,12 @@ Note that there are no automatic reminders for clinic invitations.
 
 You can invite individual children to a clinic directly from their record in Mavis. If an invitation has already been sent, you can send a reminder instead.
 
-1. From the dashboard, go to **Children**. 
+1. From the dashboard, go to **Children**.
 2. Find the child you want to invite and open their record.
-3. Select the vaccination programme, either from the tabs at the top or the list in the **Vaccination programmes** area. 
-4. Select **Invite to community clinic** at the bottom of the Sessions area. The invitation is sent immediately. 
+3. Select the vaccination programme, either from the tabs at the top or the list in the **Vaccination programmes** area.
+4. Select **Invite to community clinic** at the bottom of the Sessions area. The invitation is sent immediately.
 
-The **Invite to community clinic** button only shows if the child is due the vaccination. 
+The **Invite to community clinic** button only shows if the child is due the vaccination.
 
 If the child has already been invited, the button will show as **Send clinic invitation reminder**.
 
@@ -54,34 +54,34 @@ You can manually send clinic invitations in bulk to the parents of children who:
 - have not yet been invited to a clinic
 
 1. From the dashboard, go to **Schools**.
-2. Search for then select **Home-educated** or **Unknown school**, as needed. 
+2. Search for then select **Home-educated** or **Unknown school**, as needed.
 3. Select **Send clinic invitations** in the top left of the screen.
 4. Select the programmes you want to send invitations for.
-5. Select **Send clinic invitations**. Invitations are sent immediately. 
+5. Select **Send clinic invitations**. Invitations are sent immediately.
 
 You can see which children have been invited to a clinic by using the **Invited to clinic** filter in the Schools view.
 
 ## Getting consent to vaccinate
 
-You do not need to get consent in advance for vaccinations in clinics. If no consent is in place, Mavis will prompt you to record a new consent response before you record the vaccination. 
+You do not need to get consent in advance for vaccinations in clinics. If no consent is in place, Mavis will prompt you to record a new consent response before you record the vaccination.
 
-If you choose to seek consent in advance, you can send a consent request through Mavis to any child who has already been sent a clinic invitation. 
+If you choose to seek consent in advance, you can send a consent request through Mavis to any child who has already been sent a clinic invitation.
 
 1. From the dashboard, go to **Children**.
-2. Find the child you want to request consent for and open their record. 
+2. Find the child you want to request consent for and open their record.
 3. Select **Send consent request** at the bottom of the Sessions area.
 
 This sends a consent request email to the parent or guardian.
 
-Note that you cannot record a new consent response given over the phone in advance of the clinic session - only on the day of the vaccination. 
+Note that you cannot record a new consent response given over the phone in advance of the clinic session - only on the day of the vaccination.
 
 ## Recording vaccinations in clinics
 
-You can record vaccinations given in clinics directly from a child’s record in Mavis. 
+You can record vaccinations given in clinics directly from a child’s record in Mavis.
 
 1. Go to the **Children** tab.
 2. Find the child you are about to vaccinate and open their record.
-3. Select the vaccination programme. 
+3. Select the vaccination programme.
 4. Select **Record a vaccination in clinic** near the top of the screen (this button only appears if the child is due the vaccination).
 5. Record a new consent response for the child, if needed.
 6. Review the health questions and triage outcome if necessary.

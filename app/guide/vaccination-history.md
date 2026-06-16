@@ -17,7 +17,7 @@ If you later find out that a child has already been vaccinated, you can update t
 
 You should include vaccination records for anyone in the cohort who was vaccinated elsewhere, if you have them. These records will be stored in Mavis and will not be sent anywhere else.
 
-Once a child’s record has been added to Mavis, any school age vaccinations they get at a GP practice are automatically added to their record in Mavis. 
+Once a child’s record has been added to Mavis, any school age vaccinations they get at a GP practice are automatically added to their record in Mavis.
 
 ## What vaccination history you need to upload
 
@@ -118,11 +118,12 @@ If a child’s historical vaccination record is missing from CHIS data, or you h
 2. Search for the child then click on their name to open the child record.
 3. Select the relevant tab for the vaccination programme you want to record.
 4. Click on the **Record as already vaccinated** button at top of the page.
-   
+
 ![Screenshot of Record as already vaccinated button.](/assets/images/record-as-already-vaccinated-button.png)
 
 5. Enter the date when the vaccination was given (and the time if you know it).
-> [!NOTE]
-> You must know the date of vaccination in order to record it here. You do not need to know the time.
+
+   > [!NOTE]
+   > You must know the date of vaccination in order to record it here. You do not need to know the time.
 
 6. Check the details on the page and add a note to explain this was a historical vaccination, then click the **Confirm** button.

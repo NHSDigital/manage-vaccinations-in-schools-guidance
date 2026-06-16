@@ -7,8 +7,7 @@ eleventyComputed:
     key: Adding notes
 ---
 
-
-You can add notes to child records and session records in Mavis. 
+You can add notes to child records and session records in Mavis.
 
 Notes are visible to all users and cannot be edited or deleted.
 
@@ -16,7 +15,7 @@ Notes are visible to all users and cannot be edited or deleted.
 
 You can add notes to a child’s record in Mavis to record information that is relevant across all vaccination programmes and sessions.
 
-Notes appear in the **Activity log** section of the child record. 
+Notes appear in the **Activity log** section of the child record.
 
 To add notes to a child record:
 
@@ -24,7 +23,7 @@ To add notes to a child record:
 2. Search for the child and select their name to open the child record.
 3. Select **Add a note to this record** at the bottom of the page.
 4. Enter your note and select **Save note**.
-   
+
 ![Screenshot of add note on child record.](/assets/images/add-note-child-record.png)
 
 ## Add notes to a child’s session record
@@ -34,15 +33,15 @@ You can add notes to a child’s session record to record information that is re
 You can add notes:
 
 - while completing tasks in a session, such as:
-  * reviewing health questions and recording a triage decision
-  * completing pre-screening checks
-  * confirming the vaccination outcome on the Check and confirm page
+  - reviewing health questions and recording a triage decision
+  - completing pre-screening checks
+  - confirming the vaccination outcome on the Check and confirm page
 - directly on the **Session activity and notes** tab
 
 All notes relating to a session appear on the **Session activity and notes** tab in the child’s session record, along with the activity timeline for that session.
 
 The latest note added directly on the Session activity and notes tab is also shown on the child’s summary card in session search results.
-  
+
 To add a session note from the **Session activity and notes** tab:
 
 1. Go to **Sessions** and select the relevant session.

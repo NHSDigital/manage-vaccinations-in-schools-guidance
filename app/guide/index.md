@@ -13,7 +13,6 @@ It has been built by an NHS England team working closely with SAIS staff and par
 
 Mavis aims to remove the problems of system fragmentation and manual data entry, as well as improving data quality and vaccine uptake.
 
-> [!NOTE]
-> **Mavis changes frequently**
+> [!NOTE] Mavis changes frequently
 > We make updates around twice a week.
 > Do not print this guide, as printed copies will quickly become out of date. Always refer to the online version.
