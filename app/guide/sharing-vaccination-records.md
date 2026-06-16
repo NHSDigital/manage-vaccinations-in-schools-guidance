@@ -34,7 +34,6 @@ If the NHS number is invalid, the record:
 - is not sent to NHS England or the child’s GP practice
 - is flagged to superusers in important notices (see [Checking important notices](/guide/notices/))
 
-
 If the NHS number is missing, the record:
 
 - is sent to NHS England

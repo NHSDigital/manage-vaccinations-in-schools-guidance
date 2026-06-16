@@ -6,17 +6,17 @@ order: 8
 
 [[toc]]
 
-Before a session takes place, you’ll need to get an up-to-date class list from the school and upload it to Mavis. 
+Before a session takes place, you’ll need to get an up-to-date class list from the school and upload it to Mavis.
 
 You can use our [school class list request email template]({{ "/email-templates-for-sais-and-schools/class-list-request" | absoluteUrl }}), if needed, when requesting this information from schools.
 
 > [!NOTE]
-> You must upload class lists at least 3 weeks before the session date, as this is when Mavis sends consent requests to parents. 
+> You must upload class lists at least 3 weeks before the session date, as this is when Mavis sends consent requests to parents.
 
 Uploading class lists:
 
 - adds parent contact details for children in the session, which Mavis uses to send consent requests
-- identifies children who have moved in our out of the school since you uploaded the cohort 
+- identifies children who have moved in our out of the school since you uploaded the cohort
 
 You can use this template:
 
@@ -59,7 +59,7 @@ If your upload fails, see [Upload errors](/guide/importing-cohorts/#upload-error
 
 ## Reviewing and approving uploads
 
-After you successfully upload a class list, Mavis checks the records and shows a summary of what will happen if you confirm the upload. Review the results and select **Approve and import records** to continue, or **Cancel and delete upload**. 
+After you successfully upload a class list, Mavis checks the records and shows a summary of what will happen if you confirm the upload. Review the results and select **Approve and import records** to continue, or **Cancel and delete upload**.
 
 ![Screenshot of review screen for class import.](/assets/images/review-class-import.png)
 
@@ -113,6 +113,7 @@ To review a child changing school, follow the instructions on this page of the u
 If you import a class list and later find that the parent-child relationships are incorrect, you can remove those relationships from Mavis.
 
 For example, you might need to do this if the parent details in your CSV file are not lined up with the right children. You can then:
+
 - remove the parent-child relationships from Mavis
 - correct the CSV file
 - re-upload the file
@@ -136,9 +137,9 @@ If any parents in the import have submitted a consent response for any children 
 2. Mavis will tell you that one or more parents in the import have submitted consent responses for children in the import. It will also show the full consent details.
 3. Choose one of the following options:
    - **Only remove parent–child relationships where no consent response has been submitted**
-   The relationships and consent responses shown above will stay in Mavis
+     The relationships and consent responses shown above will stay in Mavis
    - **Remove all parent–child relationships included in this import**
-   This will invalidate the consent responses listed above
+     This will invalidate the consent responses listed above
 
 Select **Continue** to confirm, or **Cancel** to stop.
 

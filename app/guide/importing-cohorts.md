@@ -76,9 +76,10 @@ To upload files successfully:
 3. Select **Child records**, then click Continue.
 4. Click on **Choose File**, then select the CSV file you want to import.
 5. Click **Continue** and wait for the file to finish uploading.
-  
+
 ### Checking the upload status
-You can see whether your file was successfully uploaded by checking its status in the list of uploads. 
+
+You can see whether your file was successfully uploaded by checking its status in the list of uploads.
 
 > [!NOTE]
 > Upload times can vary - refresh the screen to see the latest status.
@@ -86,6 +87,7 @@ You can see whether your file was successfully uploaded by checking its status i
 ![Screenshot of uploads table.](/assets/images/import_statuses.png)
 
 ### Upload errors
+
 If there are validation issues, Mavis will not import the file. It will stay in the **Incomplete imports** list with its status marked as **Invalid**.
 
 To view the validation issues, click the file upload’s date and time.
@@ -93,6 +95,7 @@ To view the validation issues, click the file upload’s date and time.
 ![Screenshot of invalid upload.](/assets/images/invalid_import.png)
 
 You should then:
+
 - return to your CSV file and correct the issues listed
 - save the changes and upload the file again
 
@@ -110,14 +113,15 @@ Select the upload date and time to open the review page.
 When you upload child records, Mavis will identify children it already has records for.
 
 ### Records already in Mavis (no action needed)
+
 When you upload child records, Mavis checks whether it already has a record for that child.
 
 If a record is an exact duplicate, Mavis will simply not import it again. You’ll see a notification telling you how many records were not imported because they already exist in Mavis.
 
 > [!NOTE]
->If the upload includes additional information about the child, such as their gender or preferred name, this information will be added to the existing record if you approve the upload.
+> If the upload includes additional information about the child, such as their gender or preferred name, this information will be added to the existing record if you approve the upload.
 
-### Close matches to existing  records (resolve after import)
+### Close matches to existing records (resolve after import)
 
 If the upload includes close matches with existing child records, you’ll need to review them after you approve the upload.
 
@@ -146,8 +150,7 @@ If you upload the records again with updated school information, Mavis will impo
 To approve the upload and import the records into Mavis, select **Approve and import records**.
 
 > [!NOTE]
-> Once a file upload has been approved and imported into Mavis, it will no longer be visible in the **Incomplete uploads** list. It will now be in the **Completed imports** list. You can find it by selecting the Completed imports tab. 
-
+> Once a file upload has been approved and imported into Mavis, it will no longer be visible in the **Incomplete uploads** list. It will now be in the **Completed imports** list. You can find it by selecting the Completed imports tab.
 
 In some cases, you will need to do a **further review**. This happens if one or more records have changed since you uploaded the file.
 
@@ -156,12 +159,14 @@ For example, another import may have been approved that includes some of the sam
 Review the changed records and confirm whether you still want to import them.
 
 ### Resolving close matches
+
 You will need to review close matches and school moves after importing records.
 
 If you confirm that the child has moved to a school in your area from another team’s area, the original team will be notified. [Find out how to review and resolve school moves](/guide/school-moves/).
 
 Resolve close matches in the Imports area:
-1. On the Imports screen, select the **Completed imports** tab. 
+
+1. On the Imports screen, select the **Completed imports** tab.
 2. Select the upload by clicking on on its **date and time**.
 3. Under ‘Close matches to existing records - needs review’, click the **upload issues** link to see a list of close matches.
 4. Select **Review** for each record listed.
@@ -177,7 +182,7 @@ If each record contains some correct information:
 Mavis also highlights if the NHS number you provided for a child is different from the NHS number held by PDS. If this happens, Mavis automatically replaces the incorrect NHS number with the correct one from PDS (see below).
 
 > [!NOTE]
-> You can view all unresolved close matches in the **Issues tab** on the Imports screen. This lists outstanding close matches from all uploads. 
+> You can view all unresolved close matches in the **Issues tab** on the Imports screen. This lists outstanding close matches from all uploads.
 
 ## Handling out-of-year-group children
 

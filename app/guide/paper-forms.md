@@ -11,7 +11,7 @@ eleventyComputed:
 
 If a parent requests a paper consent form, you can download and print the form from Mavis.
 
-Once the parent returns the form, you can enter their response into Mavis using ‘Record a new consent response’. 
+Once the parent returns the form, you can enter their response into Mavis using ‘Record a new consent response’.
 
 ## Downloading a paper-based consent form
 

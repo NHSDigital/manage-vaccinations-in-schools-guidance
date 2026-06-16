@@ -4,7 +4,7 @@ subject: School vaccination consent request
 ---
 
 ### School vaccinations
-  
+
 Dear parent or guardian
 
 An NHS team is coming to ==school name== on ==next session dates== to give the ==vaccine==.
@@ -20,7 +20,7 @@ You can use the online form to:
 - say you do not want your child to be vaccinated
 
 Filling in the form will be quick and easy. It’s important to respond, even if you do not want your child to be vaccinated.
-  
+
 > [!NOTE]
 > Do not reply to this email to tell us your decision. The link to the online consent form is below.
 
@@ -35,7 +35,7 @@ You need to respond by ==consent deadline==.
 If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
 
 ### Keeping your information safe
-  
+
 If you consent, ==child’s name== vaccination will be recorded in line with NHS data security standards so their vaccination record is up to date, but no contact details will be shown.
 
 ### Contact the team

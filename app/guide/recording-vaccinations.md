@@ -44,9 +44,8 @@ If the child was vaccinated:
 3. On the **Check and confirm** page, check the vaccination details and make any changes you need to.
 4. Add notes if needed, then click **Confirm**.
 
-> [!NOTE]
-> **Td/IPV dose number**
-Mavis automatically records Td/IPV vaccinations as the 5th dose. If this is not correct, select **Change**, update the dose number (from 1st to 6th dose), then select **Confirm** to save your changes.
+> [!NOTE] Td/IPV dose number
+> Mavis automatically records Td/IPV vaccinations as the 5th dose. If this is not correct, select **Change**, update the dose number (from 1st to 6th dose), then select **Confirm** to save your changes.
 
 If the child was not vaccinated:
 

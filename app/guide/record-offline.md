@@ -19,7 +19,7 @@ To download the spreadsheet for a session:
 2. Find the session you're interested in and select it.
 3. On the **Overview** tab, select **Download offline spreadsheet** at the bottom of the Session details area.
 4. Save the spreadsheet to your computer or device.
-6. Share the spreadsheet with all nurses and admins attending the session.
+5. Share the spreadsheet with all nurses and admins attending the session.
 
 ![Screenshot of the offline recording spreadsheet.](/assets/images/offline-spreadsheet.png)
 
