@@ -144,7 +144,7 @@ For example, another import may have been approved that includes some of the sam
 
 Review the changed records and confirm whether you still want to import them.
 
-### Resolving possible duplicates
+### Resolving close matches
 
 Mavis highlights any potential duplicates as **close matches to existng records**, which you must resolve after import.
 
