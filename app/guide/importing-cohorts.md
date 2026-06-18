@@ -11,15 +11,6 @@ eleventyComputed:
 
 > [!NOTE]
 > You should upload cohort records before you upload vaccination records or class lists.
->
-> ## Before you start
-
-Read:
-
-- [what to upload and when](/what-to-upload-and-when/)
-- preparing files for upload
-
-## Setting up your cohort
 
 When your team first starts using Mavis, you need to upload records for all children in your area.
 
@@ -36,9 +27,12 @@ At the start of each school year, upload records for children entering Reception
 
 You can also add new children to the cohort at any time by uploading records for individual or multiple children.
 
-When children are taught outside their chronological year group, you’ll need to record this in either the cohort upload or class list upload - for more details, see ‘Handling out-of-year-group children’ below.
+Before you start, read:
 
-### What details to include
+- [what to upload and when](/what-to-upload-and-when/)
+- [preparing files for upload](/preparing-files-for-upload/)
+  
+## What details to include
 
 You must include the following information for each child in the cohort:
 
@@ -60,7 +54,7 @@ For a full list of details you can upload, see the cohort upload template.
 If you do not include a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](importing-cohorts.md#see-how-mavis-uses-pds-to-find-nhs-numbers) to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
 
 
-### How to upload a cohort file
+## How to upload a cohort file
 
 1. From the dashboard, go to **Import records** (or click on Imports in the top navigation).
 2. Select **Upload records** near the top of the page.
@@ -71,7 +65,7 @@ If you do not include a child’s NHS number, we’ll retrieve it from the Perso
 > [!NOTE]
 > Large cohort files can fail to upload, due to their size. If your CSV file has over 10,000 rows, we recommend you split it into smaller files - for example 2 files with 5,000 rows.
 
-### Checking the upload status
+## Checking the upload status
 
 You can see whether your file was successfully uploaded by checking its status in the list of uploads.
 
@@ -80,7 +74,7 @@ You can see whether your file was successfully uploaded by checking its status i
 
 ![Screenshot of uploads table.](/assets/images/import_statuses.png)
 
-### Upload errors
+## Upload errors
 
 If there are validation issues, Mavis will not import the file. It will stay in the **Incomplete imports** list with its status marked as **Invalid**.
 
