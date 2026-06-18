@@ -144,13 +144,9 @@ For example, another import may have been approved that includes some of the sam
 
 Review the changed records and confirm whether you still want to import them.
 
-### Resolving close matches
+### Resolving possible duplicates
 
-You will need to review close matches and school moves after importing records.
-
-If you confirm that the child has moved to a school in your area from another team’s area, the original team will be notified. [Find out how to review and resolve school moves](/guide/school-moves/).
-
-Resolve close matches in the Imports area:
+Mavis highlights any potential duplicates as **close matches to existng records**, which you must resolve after import.
 
 1. On the Imports screen, select the **Completed imports** tab.
 2. Select the date and time of the upload to view its details.
