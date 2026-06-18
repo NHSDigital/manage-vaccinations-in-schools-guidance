@@ -131,7 +131,7 @@ The records will remain with the other team and will not appear in your area.
 
 If you upload the records again with updated school information, Mavis will import them as a school move if the school is in your area.
 
-### Approving the upload (and further reviews)
+## Approving the upload (and further reviews)
 
 To approve the upload and import the records into Mavis, select **Approve and import records**.
 
@@ -144,7 +144,7 @@ For example, another import may have been approved that includes some of the sam
 
 Review the changed records and confirm whether you still want to import them.
 
-### Resolving close matches
+## Resolving close matches
 
 Mavis highlights any potential duplicates as **close matches to existing records**, which you must resolve after import.
 
