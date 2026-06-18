@@ -4,9 +4,7 @@ theme: Uploading records to Mavis
 order: 5
 ---
 
-## Before you start
-
-Read an overview of [what records you need to upload to Mavis and when](/what-to-upload-and-when/). 
+Before you start, read an overview of [what records you need to upload to Mavis and when](/what-to-upload-and-when/). 
 
 ## File requirements
 
@@ -21,7 +19,6 @@ If you have an Excel file with multiple tabs, before uploading it check you have
 
 - combined the tabs into a single worksheet before saving it as a CSV file, or 
 - created a separate CSV file for each tab
-
 
 ## Next steps
 
