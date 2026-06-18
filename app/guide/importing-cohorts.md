@@ -65,7 +65,7 @@ If you do not include a child’s NHS number, we’ll retrieve it from the Perso
 > [!NOTE]
 > Large cohort files can fail to upload, due to their size. If your CSV file has over 10,000 rows, we recommend you split it into smaller files - for example 2 files with 5,000 rows.
 
-## Checking the upload status
+### Checking the upload status
 
 You can see whether your file was successfully uploaded by checking its status in the list of uploads.
 
@@ -74,7 +74,7 @@ You can see whether your file was successfully uploaded by checking its status i
 
 ![Screenshot of uploads table.](/assets/images/import_statuses.png)
 
-## Upload errors
+### Upload errors
 
 If there are validation issues, Mavis will not import the file. It will stay in the **Incomplete imports** list with its status marked as **Invalid**.
 
@@ -90,7 +90,7 @@ You should then:
 > [!NOTE]
 > If less than 70% of records match an NHS number in PDS, the upload will be rejected, and you’ll see an error message. You should review the file, correcting any formatting issues (for example, make sure the first name and last name columns and the date of birth rows are in the correct position) and try uploading it again.
 
-## Reviewing and approving uploads
+### Reviewing and approving uploads
 
 After the file has uploaded, you must review and approve it before the records are imported into Mavis.
 
@@ -98,7 +98,7 @@ Select the upload date and time to open the review page.
 
 ![Screenshot of review screen for cohort import.](/assets/images/review-cohort-import.png)
 
-### Records already in Mavis (no action needed)
+#### Records already in Mavis (no action needed)
 
 When you upload child records, Mavis checks whether it already has a record for that child.
 
@@ -107,13 +107,13 @@ If a record is an exact duplicate, Mavis will simply not import it again. You’
 > [!NOTE]
 > If the upload includes additional information about the child, such as their gender or preferred name, this information will be added to the existing record if you approve the upload.
 
-### Close matches to existing records (resolve after import)
+#### Close matches to existing records (resolve after import)
 
 If the upload includes close matches with existing child records, you’ll need to review them after you approve the upload.
 
 Check the missing or conflicting details and decide which record to keep and which to archive. We explain how to do this below.
 
-### School moves (resolve after import)
+#### School moves (resolve after import)
 
 If the upload includes children who already have a record in Mavis for a different school, Mavis flags this as a school move.
 Mavis also flags when a child moves to a school in your area from a school outside your area.
@@ -123,7 +123,7 @@ If you approve the upload, you must confirm the child’s school in the School m
 If you confirm that the child has moved to a school in your area from another team’s area, the original team will be notified.
 [Find out how to review and resolve school moves](/guide/school-moves/).
 
-### Children with no known school already registered at a school in a different area (no action needed)
+#### Children with no known school already registered at a school in a different area (no action needed)
 
 If the upload includes children with no known school who are already registered at a school (or registered as home-educated) in another SAIS team’s area, Mavis will not import these records.
 
@@ -131,7 +131,7 @@ The records will remain with the other team and will not appear in your area.
 
 If you upload the records again with updated school information, Mavis will import them as a school move if the school is in your area.
 
-## Approving the upload (and further reviews)
+### Approving the upload (and further reviews)
 
 To approve the upload and import the records into Mavis, select **Approve and import records**.
 
