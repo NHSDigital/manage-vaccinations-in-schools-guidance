@@ -146,7 +146,7 @@ Review the changed records and confirm whether you still want to import them.
 
 ### Resolving close matches
 
-Mavis highlights any potential duplicates as **close matches to existng records**, which you must resolve after import.
+Mavis highlights any potential duplicates as **close matches to existing records**, which you must resolve after import.
 
 1. On the Imports screen, select the **Completed imports** tab.
 2. Select the date and time of the upload to view its details.
