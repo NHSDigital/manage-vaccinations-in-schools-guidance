@@ -1,7 +1,7 @@
 ---
 title: What to upload and when
 theme: Uploading records to Mavis
-order: 5
+order: 4
 ---
 
 To use Mavis to manage your vaccination programmes, you need to upload:
