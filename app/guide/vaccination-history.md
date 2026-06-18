@@ -6,9 +6,7 @@ order: 7
 
 [[toc]]
 
-You should upload relevant historical vaccination records before scheduling school sessions.
-
-This allows Mavis to:
+You should upload relevant historical vaccination records before scheduling school sessions. This allows Mavis to:
 
 - identify which vaccinations a child has already had
 - only send consent requests for children who have not had the vaccine already
@@ -19,6 +17,11 @@ You should include vaccination records for anyone in the cohort who was vaccinat
 
 Once a child’s record has been added to Mavis, any school age vaccinations they get at a GP practice are automatically added to their record in Mavis.
 
+Before uploading vaccination records, read:
+
+- [what to upload and when](/what-to-upload-and-when/)
+- [preparing files for upload](/preparing-files-for-upload/)
+  
 ## What vaccination history you need to upload
 
 How much vaccination history you need to upload depends on the programme.
@@ -67,13 +70,9 @@ For example, if you’re vaccinating children in Year 9, upload records of Td/IP
 > [!NOTE]
 > Do not upload records of any previous tetanus-, diphtheria- or polio-containing vaccines that are not Td/IPV, for example the 6-in-1 vaccine or the 4-in-1 pre-school booster. Mavis is not authorised to hold this information.
 
-## How to upload historical vaccination records
+## How to upload vaccination records
 
-Use the following template to upload historical vaccination records for HPV, MenACWY and Td/IPV from the last 3 years.
-
-For MMR(V), you should go as far back as the oldest member of the cohort minus one year. For example, if you’re vaccinating Year 6 children (where the oldest child is 11), you’d upload records for the last 10 years. For Year 11 children (where the oldest child is 16), this would mean uploading records for the last 15 years.
-
-This does not apply to flu.
+Use the following template:
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
@@ -82,42 +81,50 @@ This does not apply to flu.
   href: "/files/historical-vaccination-records-upload-template.xlsx"
 }) }}
 
-Vaccination record files need to be in .csv format. Records can be all in one file, or split across multiple files; Mavis is not picky about this. If you have an Excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
+Vaccination record files need to be in .csv format. Records can be all in one file, or split across multiple files. If you have an Excel file with multiple tabs, you will need to consolidate this into a single tab or create a separate CSV file for each tab.
 
 For each of your vaccination record CSV files:
 
 1. Go to the **Imports** tab.
-2. Click on the **Upload records** button near the top of the page.
+2. Select **Upload records** near the top of the page.
 3. Select **Vaccination records**, then **Continue**.
-4. Click on **Choose File**, then select the CSV file you want to upload.
-5. Click **Continue**. If there are any validation issues, Mavis will not upload the file. Correct the issues listed in the file and try again.
+4. Select **Choose File**, then select the CSV file you want to upload.
+5. Select **Continue**. If there are any validation issues, Mavis will not upload the file. Correct the issues listed in the file and try again.
 6. Wait for the file to finish uploading
 
-Once the file has finished uploading, there may be some import issues which you need to review before doing anything else.
+### Checking the upload status
 
-## Upload errors
+You can see whether your file successfully uploaded by checking its status in the list of uploads.
+
+Once the file has finished uploading, it will no longer be visible in the **Incomplete uploads** tab. It will now be in the **Completed imports** tab. 
+
+### Upload errors
 
 If your upload fails, see [Upload errors](/guide/importing-cohorts/#upload-errors).
 
-## Resolving issues when uploading files
+## Resolving possible duplicates
 
-Mavis will highlight any potential duplicates found in the uploaded file and compared with what was already in Mavis as an upload issue.
+After a file has successfully uploaded, Mavis highlights any potential duplicates as **close matches to existng records**, which you must resolve.
 
-Go to the **Imports** tab. For each record under **Upload issues**:
-
-1. Select **Review**.
-2. Select which version of the record you want to keep and select resolve duplicate.
+1. Go to **Imports** and select the **Completed imports** tab.
+2. Select the date and time of the upload to view its details.
+3. Under ‘Close matches to existing records - needs review’, select the upload issues link to see a list of possible duplicates.
+4. Select **Review** for each record listed.
+5. Select which version of the record you want to keep then select **Resolve duplicate**.
 
 If there are some parts of each that are correct, you can note down any correct information from the version you choose to discard, discard it, then go to the child’s record and manually edit the information there (this feature will be more developed in a future release of Mavis).
+
+> [!NOTE]
+> You can view all unresolved close matches in the **Issues tab** on the Imports screen. This lists outstanding close matches from all uploads.
 
 ## Manually recording a child as 'already vaccinated'
 
 If a child’s historical vaccination record is missing from CHIS data, or you have not been able to upload their historical vaccination record into Mavis, you can manually record the child as ‘already vaccinated’ for a specific programme.
 
 1. From the dashboard, go to **Children**.
-2. Search for the child then click on their name to open the child record.
+2. Search for the child then select their name to open the child record.
 3. Select the relevant tab for the vaccination programme you want to record.
-4. Click on the **Record as already vaccinated** button at top of the page.
+4. Select **Record as already vaccinated** at top of the page.
 
 ![Screenshot of Record as already vaccinated button.](/assets/images/record-as-already-vaccinated-button.png)
 
@@ -126,4 +133,4 @@ If a child’s historical vaccination record is missing from CHIS data, or you h
    > [!NOTE]
    > You must know the date of vaccination in order to record it here. You do not need to know the time.
 
-6. Check the details on the page and add a note to explain this was a historical vaccination, then click the **Confirm** button.
+6. Check the details on the page and add a note to explain this was a historical vaccination, then select **Confirm**.
