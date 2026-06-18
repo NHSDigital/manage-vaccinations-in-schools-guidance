@@ -123,8 +123,6 @@ If each record contains some correct information:
 1. Note any correct information from the record you are not keeping.
 2. Go to the record you are keeping and edit the information there.
 
-Mavis also highlights if the NHS number you provided for a child is different from the NHS number held by PDS. If this happens, Mavis automatically replaces the incorrect NHS number with the correct one from PDS (see below).
-
 > [!NOTE]
 > You can view all unresolved close matches in the **Issues tab** on the Imports screen. This lists outstanding close matches from all uploads.
 
