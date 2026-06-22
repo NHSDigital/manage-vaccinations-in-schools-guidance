@@ -72,7 +72,7 @@ For example, if you’re vaccinating children in Year 9, upload records of Td/IP
 
 ## How to upload vaccination records
 
-Use the following template:
+Use this template:
 
 {% from "attachment/macro.njk" import attachment %}
 {{ attachment({
