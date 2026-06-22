@@ -11,15 +11,6 @@ eleventyComputed:
 
 > [!NOTE]
 > You should upload cohort records before you upload vaccination records or class lists.
->
-> ## Before you start
-
-Read:
-
-- [what to upload and when](/what-to-upload-and-when/)
-- preparing files for upload
-
-## Setting up your cohort
 
 When your team first starts using Mavis, you need to upload records for all children in your area.
 
@@ -36,9 +27,12 @@ At the start of each school year, upload records for children entering Reception
 
 You can also add new children to the cohort at any time by uploading records for individual or multiple children.
 
-When children are taught outside their chronological year group, you’ll need to record this in either the cohort upload or class list upload - for more details, see ‘Handling out-of-year-group children’ below.
+Before you start, read:
 
-### What details to include
+- [what to upload and when](/what-to-upload-and-when/)
+- [preparing files for upload](/preparing-files-for-upload/)
+  
+## What details to include
 
 You must include the following information for each child in the cohort:
 
@@ -60,7 +54,7 @@ For a full list of details you can upload, see the cohort upload template.
 If you do not include a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](importing-cohorts.md#see-how-mavis-uses-pds-to-find-nhs-numbers) to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
 
 
-### How to upload a cohort file
+## How to upload a cohort file
 
 1. From the dashboard, go to **Import records** (or click on Imports in the top navigation).
 2. Select **Upload records** near the top of the page.
@@ -96,7 +90,7 @@ You should then:
 > [!NOTE]
 > If less than 70% of records match an NHS number in PDS, the upload will be rejected, and you’ll see an error message. You should review the file, correcting any formatting issues (for example, make sure the first name and last name columns and the date of birth rows are in the correct position) and try uploading it again.
 
-## Reviewing and approving uploads
+### Reviewing and approving uploads
 
 After the file has uploaded, you must review and approve it before the records are imported into Mavis.
 
@@ -104,7 +98,7 @@ Select the upload date and time to open the review page.
 
 ![Screenshot of review screen for cohort import.](/assets/images/review-cohort-import.png)
 
-### Records already in Mavis (no action needed)
+#### Records already in Mavis (no action needed)
 
 When you upload child records, Mavis checks whether it already has a record for that child.
 
@@ -113,13 +107,13 @@ If a record is an exact duplicate, Mavis will simply not import it again. You’
 > [!NOTE]
 > If the upload includes additional information about the child, such as their gender or preferred name, this information will be added to the existing record if you approve the upload.
 
-### Close matches to existing records (resolve after import)
+#### Close matches to existing records (resolve after import)
 
 If the upload includes close matches with existing child records, you’ll need to review them after you approve the upload.
 
 Check the missing or conflicting details and decide which record to keep and which to archive. We explain how to do this below.
 
-### School moves (resolve after import)
+#### School moves (resolve after import)
 
 If the upload includes children who already have a record in Mavis for a different school, Mavis flags this as a school move.
 Mavis also flags when a child moves to a school in your area from a school outside your area.
@@ -129,7 +123,7 @@ If you approve the upload, you must confirm the child’s school in the School m
 If you confirm that the child has moved to a school in your area from another team’s area, the original team will be notified.
 [Find out how to review and resolve school moves](/guide/school-moves/).
 
-### Children with no known school already registered at a school in a different area (no action needed)
+#### Children with no known school already registered at a school in a different area (no action needed)
 
 If the upload includes children with no known school who are already registered at a school (or registered as home-educated) in another SAIS team’s area, Mavis will not import these records.
 
@@ -150,13 +144,9 @@ For example, another import may have been approved that includes some of the sam
 
 Review the changed records and confirm whether you still want to import them.
 
-### Resolving close matches
+## Resolving close matches
 
-You will need to review close matches and school moves after importing records.
-
-If you confirm that the child has moved to a school in your area from another team’s area, the original team will be notified. [Find out how to review and resolve school moves](/guide/school-moves/).
-
-Resolve close matches in the Imports area:
+Mavis highlights any potential duplicates as **close matches to existing records**, which you must resolve after import.
 
 1. On the Imports screen, select the **Completed imports** tab.
 2. Select the date and time of the upload to view its details.
@@ -171,8 +161,6 @@ If each record contains some correct information:
 1. Note any correct information from the record you are not keeping.
 2. Go to the record you are keeping and edit the information there.
 
-Mavis also highlights if the NHS number you provided for a child is different from the NHS number held by PDS. If this happens, Mavis automatically replaces the incorrect NHS number with the correct one from PDS (see below).
-
 > [!NOTE]
 > You can view all unresolved close matches in the **Issues tab** on the Imports screen. This lists outstanding close matches from all uploads.
 
@@ -182,7 +170,7 @@ Mavis also highlights if the NHS number you provided for a child is different fr
 
 ## See how Mavis uses PDS to find NHS numbers
 
-Mavis may add a missing NHS number or replace an incorrect one in your upload by searching the NHS Patient Demographics Service (PDS) (sometimes referred to as ‘the Spine’).
+If the NHS number you provided for a child is different from the NHS number held by the NHS Patient Demographics Service (PDS) (sometimes referred to as ‘the Spine’), Mavis automatically replaces the incorrect NHS number on the child's record with the correct one from PDS.
 
 If this happens, a PDS history link appears beside the NHS number in the child’s record.
 
