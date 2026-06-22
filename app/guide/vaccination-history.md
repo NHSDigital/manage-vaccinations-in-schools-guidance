@@ -90,7 +90,6 @@ For each of your vaccination record CSV files:
 3. Select **Vaccination records**, then **Continue**.
 4. Select **Choose File**, then select the CSV file you want to upload.
 5. Select **Continue**. If there are any validation issues, Mavis will not upload the file. Correct the issues listed in the file and try again.
-6. Wait for the file to finish uploading
 
 ### Checking the upload status
 
