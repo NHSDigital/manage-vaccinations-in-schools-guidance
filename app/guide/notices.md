@@ -10,7 +10,7 @@ eleventyComputed:
 > [!NOTE]
 > Only [superusers](users.md#superusers) can view important notices.
 
-Whenever you log in to Mavis, you should go to **Review** and then **Important Notices** to see if there’s anything you need to be aware of. These notices are also flagged on the Mavis dashboard.
+Whenever you log in to Mavis, you should go to **Review** and then **Important notices** to see if there’s anything you need to be aware of. These notices are also flagged on the Mavis dashboard.
 
 ![Screenshot of important notices page.](/assets/images/notices-updated.png)
 
