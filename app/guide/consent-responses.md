@@ -52,7 +52,10 @@ For MMR or MMV, it will be one of the following:
 
 You can review unmatched consent responses across your whole cohort or for a specific session.
 
-To see unmatched responses for the whole cohort, select **Unmatched responses** on the top navigation.
+To see unmatched responses for the whole cohort:
+
+1. Select **Review** in the main navigation.
+2. Select the **Unmatched consent responses** tab.
 
 To see unmatched responses for an individual session:
 
@@ -60,7 +63,7 @@ To see unmatched responses for an individual session:
 2. Find the session you’re interested in and select it.
 3. If there are any unmatched responses, this will be flagged in the **Action required** section of the **Overview** tab. Select the link to display them.
 
-![Screenshot of a list of unmatched consent responses.](/assets/images/consent-unmatched.png 'Mavis helps you review unmatched consent responses.')
+![Screenshot of a list of unmatched consent responses.](/assets/images/consent-unmatched-updated.png 'Mavis helps you review unmatched consent responses.')
 
 ### Matching responses
 
