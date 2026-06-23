@@ -10,9 +10,9 @@ eleventyComputed:
 > [!NOTE]
 > Only [superusers](users.md#superusers) can view important notices.
 
-Whenever you log in to Mavis, you should go to **Import** and then **Important Notices** to see if there’s anything you need to be aware of. These notices will also be flagged on the Mavis dashboard.
+Whenever you log in to Mavis, you should go to **Review** and then **Important Notices** to see if there’s anything you need to be aware of. These notices are also flagged on the Mavis dashboard.
 
-![Screenshot of important notices page.](/assets/images/notices.png)
+![Screenshot of important notices page.](/assets/images/important-notices.png)
 
 There are 4 main types of important notice.
 
@@ -48,8 +48,6 @@ Once you have seen and, if necessary, acted on an important notice, you can dism
 
 You can also dismiss an important notice after a user has archived the child record.
 
-![Screenshot of dismissing an important notice.](/assets/images/dismiss-notices.png)
+Dismissing an important notice removes it from the important notices list for all superusers in your team. It will still be visible on the child record.
 
-If you dismiss an important notice it will disappear from the **Import** page for all superusers in your team. It will still be visible on the individual child record.
-
-![Screenshot of child record with important notice.](/assets/images/sensitive-child-record.png)
+![Screenshot of child record with important notice.](/assets/images/important-notice-on-child-record.png)
