@@ -62,9 +62,6 @@ Mavis may add a missing NHS number or replace an incorrect one in your upload by
 
 If your upload fails, see [Upload errors](/guide/importing-cohorts/#upload-errors).
 
-> [!NOTE]
-> If less than 70% of records, uploaded with a postcode, match an NHS number in PDS, the upload will be rejected, and you’ll see an error message. You should review the file, correcting any formatting issues (for example, make sure the first name and last name columns and the date of birth rows are in the correct position) and try uploading it again.
-
 ### Reviewing and approving uploads
 
 After the file has uploaded, you must review and approve it before the records are imported into Mavis.
