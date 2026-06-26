@@ -14,6 +14,36 @@ The canonical source of content for the user guide is a Google Doc. This documen
 
 The canonical source of content for the XLSX file download templates is Microsoft SharePoint. These documents should be edited first before downloading and updating the files in this repository.
 
+## Syncing the live guide back to Google Docs
+
+If the live Markdown guide has changed and the Google Doc needs to be updated to match it, use the `export_to_docx.py` script to generate a Word document from the Markdown files. You can then import the generated `.docx` file into Google Docs and copy the content into the canonical user guide document.
+
+### Setup
+
+From the `scripts` directory, install the required Python version and activate the virtual environment:
+
+```bash
+cd scripts
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Generate DOCX files
+
+From the repository root, run:
+
+```bash
+python scripts/export_to_docx/export_to_docx.py app/guide/ latest-guide.docx
+python scripts/export_to_docx/export_to_docx.py app/national-reporting/ latest-nr-guide.docx
+```
+
+This creates:
+- `latest-guide.docx` for the main user guide
+- `latest-nr-guide.docx` for the national reporting guide
+
+Import these files into Google Docs, then copy the content into the canonical Google Docs.
+
 ## Running locally
 
 First install [Node.js](https://nodejs.org/en).
