@@ -110,3 +110,13 @@ If the original parent informs you that the consent response came from somebody 
 
 - mark the consent response as invalid (see [Marking a consent response as invalid](add-or-remove-consent.md))
 - remove the parent who sent the invalid response from the child record ([see Manually editing individual child records](editing-cohorts.md))
+
+## Resolving incorrect contact details in consent response
+
+If you find out that a parent entered incorrect phone or email details in a consent response by mistake, you need to:
+
+- mark the consent response as invalid - see [Marking a consent response as invalid](/guide/add-or-remove-consent/#marking-a-consent-response-as-invalid)
+- contact the parent and record a new consent response with the parent's consent decision and the correct contact details - see [Recording a new consent response](/guide/add-or-remove-consent/#recording-a-new-consent-response)
+
+ > [!NOTE]
+     > You must invalidate the original consent response before recording a new one. Otherwise, future messages about the child's vaccination could be sent to the wrong person.
