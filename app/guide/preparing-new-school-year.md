@@ -13,7 +13,7 @@ In this period you can see 2 academic years in the Mavis filters so you can deci
 
 ![Screenshot of session filters showing two academic years.](/assets/images/academic-year-filters.png)
 
-Before 1 September you must:
+Between 1 August and 1 September you must:
 
 - upload new cohorts that were not already in Mavis - you only need to upload the new cohort, all the others are already in Mavis (when you upload a cohort or class list, make sure the YEAR_GROUP column in the CSV file shows the school year the child will be in from 1 September)
 - check cohorts and any important notices
