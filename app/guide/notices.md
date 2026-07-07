@@ -22,9 +22,7 @@ There are 4 main types of important notice.
 
 If a child's record has an invalid NHS number, an important notice will appear in Mavis.
 
-Mavis automatically searches the Personal Demographics Service (PDS) for the correct NHS number.
-
-If Mavis finds the correct NHS number, it updates the record automatically and removes the important notice.
+Mavis automatically searches the Personal Demographics Service (PDS) for the correct NHS number. If it finds one, it updates the record automatically and removes the important notice.
 
 If Mavis cannot find the correct NHS number, the important notice will remain. This is usually because the child was previously given more than one NHS number by mistake, or because the child has been adopted.
 
