@@ -28,13 +28,13 @@ If Mavis finds the correct NHS number, it updates the record automatically and r
 
 If Mavis cannot find the correct NHS number, the important notice will remain. This is usually because the child was previously given more than one NHS number by mistake, or because the child has been adopted.
 
-### Administrative error
+#### Administrative error
 
 If a child is mistakenly given more than one NHS number, one of the numbers is made invalid.
 
 If the important notice remains, you should try to find the correct NHS number. For example, you can contact the child's GP practice or the child's parent or guardian.
 
-### Adopted children
+#### Adopted children
 
 When a child is adopted, they are given a new NHS number and their previous NHS number becomes invalid.
 
