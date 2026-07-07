@@ -22,8 +22,8 @@ Make sure you upload class lists separately for each school. Each school can onl
 
 Before uploading a class list, read:
 
-- [what to upload and when](/what-to-upload-and-when/)
-- [preparing files for upload](/preparing-files-for-upload/)
+- [what to upload and when](what-to-upload-and-when.md)
+- [preparing files for upload](preparing-files-for-upload.md)
 
 ## How to upload a class list
 
