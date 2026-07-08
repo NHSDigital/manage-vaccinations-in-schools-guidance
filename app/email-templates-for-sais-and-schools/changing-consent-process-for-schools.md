@@ -20,9 +20,9 @@ In ==month== we’ll ask you to provide:
 
 We’ll use these contact details to send consent requests and reminders.
 
-You can legally share this information with us under data protection laws - see school immunisation programmes on GOV.UK.
+You can legally share this information with us under data protection laws - see [school immunisation programmes on GOV.UK](https://www.gov.uk/guidance/data-protection-in-schools/sharing-personal-data#school-immunisation-programmes).
 
-You can find more information on GOV.UK about how schools can support vaccination programmes.
+You can find more information on GOV.UK about [how schools can support vaccination programmes](https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/supporting-immunisation-programmes#the-role-of-education-and-childcare-settings).
 
 ### How we keep information secure
 

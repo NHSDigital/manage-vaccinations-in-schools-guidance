@@ -30,7 +30,7 @@ To allow the NHS immunisation team to contact you, we will give them:
 
 These details will only be used to send messages about your child’s vaccinations.
 
-You can find more information about the school age vaccination schedule on the NHS website.
+[Find out more about the school age vaccination schedule on the NHS website](https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/)
 
 ### Keeping your information safe
 
