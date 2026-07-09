@@ -14,7 +14,7 @@ Once cohort records have been imported into Mavis, you can view, edit and archiv
 
 The child record gives details about the child and their current vaccination status across all programmes.
 
-![Screenshot of a child record.](/assets/images/child-record.png)
+![Screenshot of a child record.](/assets/images/child-record-update.png)
 
 ### Viewing programme details
 
@@ -22,23 +22,47 @@ Use the programme tabs at the top of the child record page to view more detailed
 
 This includes the child’s vaccination record, any sessions they’ve been added to, and an activity timeline for that programme.
 
-![Screenshot of a programme tab of a child record.](/assets/images/child-record-programme.png)
+![Screenshot of a programme tab of a child record.](/assets/images/child-record-programme-update.png)
 
 ## Editing child records
 
 1. Go to **Children**.
 2. Search for the child by name and select their record.
 3. Select **Edit child record**.
-4. If you need to:
-   - change their NHS number or school, select **Change**
-   - change a parent or guardian’s details, select **Edit**
-   - remove the relationship between this child and a parent or guardian, select **Remove**
-   - add a new parent or guardian for this child, select **Add parent or guardian**
+4. If you need to change their NHS number, preferred name, ethnicity or school, select **Change**
+  
      > [!NOTE]
      > To change a child’s school, after selecting **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-educated for home-educated children. If the new school is outside your SAIS area, archive the child record.
 5. Edit the information and select **Continue**.
 
-![Screenshot of page to edit a child record.](/assets/images/edit-child-record.png)
+![Screenshot of page to edit a child record.](/assets/images/edit-child-record-update.png)
+
+## Contacts
+
+### Adding contacts
+
+![Screenshot of page to add a contact.](/assets/images/add-new-contact-update.png)
+
+1. Go to **Children**.
+2. Search for the child by name and select **Contacts**.
+3. Select **Add a new contact**.
+4. Enter the new contact details and select **Add contact**.
+
+### Editing and removing contacts
+
+To make changes to a contact:
+
+1. Go to **Children**.
+2. Search for the child by name and select **Contacts**
+3. Select **edit** on the contact card you need to update.
+4. Add or update the contact details and select **Save changes**.
+
+To remove a contact:
+
+1. Go to **Children**.
+2. Search for the child by name and select **Contacts**
+3. Select **delete** on the contact card you need to update.
+4. Select **Yes, delete this contact**.
 
 ## Archiving child records
 
