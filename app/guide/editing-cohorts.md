@@ -29,7 +29,7 @@ This includes the child’s vaccination record, any sessions they’ve been adde
 1. Go to **Children**.
 2. Search for the child by name and select their record.
 3. Select **Edit child record**.
-4. If you need to change their NHS number, preferred name, ethnicity or school, select **Change**
+4. If you need to change their NHS number or school, select **Change**
   
      > [!NOTE]
      > To change a child’s school, after selecting **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-educated for home-educated children. If the new school is outside your SAIS area, archive the child record.
