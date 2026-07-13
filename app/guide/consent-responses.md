@@ -103,13 +103,13 @@ In both cases, you will need to investigate the conflicting consent and resolve 
 If a consent response has different contact details from those on record, Mavis will automatically:
 
 - record the consent decision
-- add an additional parent to the child record with the new contact details
+- add an additional contact to the child record with the new contact details
 - contact the original parent to make sure the response came from somebody with parental authority
 
 If the original parent informs you that the consent response came from somebody without parental responsibility, you need to:
 
 - mark the consent response as invalid (see [Marking a consent response as invalid](add-or-remove-consent.md))
-- remove the parent who sent the invalid response from the child record ([see Manually editing individual child records](editing-cohorts.md))
+- remove the contact who sent the invalid response (see [Editing and removing contacts](/guide/editing-cohorts.md#editing-and-removing-contacts)
 
 ## Resolving incorrect contact details in consent response
 
