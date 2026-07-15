@@ -22,7 +22,7 @@ Use the programme tabs at the top of the child record page to view more detailed
 
 This includes the child’s vaccination record, any sessions they’ve been added to, and an activity timeline for that programme.
 
-![Screenshot of a programme tab of a child record.](/assets/images/child-record-programme-update.png)
+![Screenshot of a programme tab of a child record.](/assets/images/child-record-programme-update-ii.png)
 
 ## Editing child records
 
@@ -53,15 +53,15 @@ This includes the child’s vaccination record, any sessions they’ve been adde
 To make changes to a contact:
 
 1. Go to **Children**.
-2. Search for the child by name and select **Contacts**
-3. Select **edit** on the contact card you need to update.
+2. Search for the child by name and select **Contacts**.
+3. Select **Edit** on the contact card you need to update.
 4. Add or update the contact details and select **Save changes**.
 
 To remove a contact:
 
 1. Go to **Children**.
-2. Search for the child by name and select **Contacts**
-3. Select **delete** on the contact card you need to update.
+2. Search for the child by name and select **Contacts**.
+3. Select **Delete** on the contact card you need to update.
 4. Select **Yes, delete this contact**.
 
 ## Archiving child records
@@ -72,8 +72,8 @@ To remove a child’s record from the cohort, for example if:
 - it was imported in error
 - the child has moved out of the area or died
 
-1. Select **Archive child record**
-2. Select a reason for archiving this record, adding details if required
-3. Select **Archive record**
+1. Select **Archive child record**.
+2. Select a reason for archiving this record, adding details if required.
+3. Select **Archive record**.
 
 If you need to bring an archived record back into the cohort (for example, if a record was archived in error, or if the child moves back into the area), upload a cohort list again with a single row containing this child.
