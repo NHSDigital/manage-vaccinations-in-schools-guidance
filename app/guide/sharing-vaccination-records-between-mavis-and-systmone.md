@@ -1,7 +1,7 @@
 ---
 title: Sharing vaccination records between Mavis and SystmOne
 theme: Statistics and reports
-order: 67
+order: 82
 eleventyComputed:
   eleventyNavigation:
     key: Sharing vaccination records with SystmOne
