@@ -6,6 +6,12 @@ order: 60
 
 [[toc]]
 
+> [!NOTE] We're redesigning how clinics work in Mavis. 
+
+> From early September 2026, all teams will be able to manage the whole clinic booking process in Mavis. Parents will be able to book clinic appointments through Mavis, and teams will be able to view and manage those appointments without using a separate booking system.
+
+> We're currently piloting these features with a small number of teams. If your team is taking part, use the [clinics pilot guidance](/guide/how-clinics-work-in-mavis.md) instead of this page.
+
 Most teams currently handle clinic bookings outside Mavis. However, you can use Mavis to:
 
 - invite parents to book a clinic appointment through your local booking service
