@@ -30,7 +30,7 @@ Create more than 1 vaccination period if you want to:
 - vary the number of vaccinators over the session
 - To create more than 1 vaccination period, select **Add another period**.
 
-![Screenshot of creating session vaccination periods.](/assets/images/creating-clinic-session-vaccination-periods)
+![Screenshot of creating session vaccination periods.](/assets/images/creating-clinic-session-vaccination-periods.png)
 
 Then **Continue**.
 
@@ -57,7 +57,7 @@ Next, enter how long an appointment lasts, then **Continue**.
 
 Check and confirm your answers. On this page, you can also change your team’s default setting for registering children’s attendance.
 
-![Screenshot of registering attendance answer.](assets/images/creating-clinic-session-register-attendance.png)
+![Screenshot of registering attendance answer.](/assets/images/creating-clinic-session-register-attendance.png)
 
 **Continue** takes you to the session overview, where you can manage a clinic session.
 
