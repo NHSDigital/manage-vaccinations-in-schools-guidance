@@ -21,14 +21,14 @@ To view appointments for a session:
 1. Go to **Sessions**.
 2. Filter for **Community clinic** sessions.
 3. Find and select the clinic session you’re interested in.
-4. Select the **Appointments** tab.
+4. Select the **Appointments** session navigation link.
 
 
 You’ll see:
 
 - all appointment slots for the session 
 - the names of children with booked appointments
-- the vaccination programmes they are booked for
+- the vaccination programmes they're booked for
   
 ![Screenshot of appointments list.](/assets/images/clinics-appointments-list.png)
 
@@ -43,7 +43,7 @@ You can view unmatched clinic appointments across your whole cohort or for a spe
 To see all unmatched clinic appointments for your cohort:
 
 1. Select **Review** in the main navigation.
-2. Select the **Clinic appointments** tab.
+2. Select the **Clinic appointments** link in the review navigation.
    
 ![Screenshot of appointments list.](/assets/images/clinics-unmatched-appointments-review.png)
 
@@ -52,7 +52,7 @@ To see unmatched appointments for a particular clinic session:
 1. Go to **Sessions**.
 2. Filter for **Community clinic** sessions.
 3. Find and select the clinic session.
-4. On the overview tab, select the **Unmatched clinic appointments** link in the **Action required** section.
+4. On the overview, select the **Unmatched clinic appointments** link in the **Action required** section.
 
 ![Screenshot of appointments list.](/assets/images/clinics-unmatched-appointments-session.png)
 
@@ -103,7 +103,7 @@ You can archive an unmatched appointment if it should not be actioned, for examp
 You can cancel a child's clinic appointment if they no longer need the vaccination or need to book another appointment.
 
 1. Go to **Sessions** and select the clinic session.
-2. Select the **Children in session** tab.
+2. Select the **Children in session** navigation link.
 3. Find the child whose appointment you want to cancel and select their name.
 4. In the **Clinic appointment** section, select **Cancel appointment**.
    
@@ -119,22 +119,22 @@ You can create a clinic appointment for a child on behalf of their parent or gua
 
 1. Select **Children** in the main navigation. The list of children shows each child's clinic status for each vaccination programme (Can be invited, Invited or Booked).
 2. Find the child and select their name to open their record.
-3. In the  **Vaccination programmes** section of their record, select **Book into a clinic**.
+3. In the **Vaccination programmes** section of their record, select **Book into a clinic**.
 
 ![Screenshot of appointments list.](/assets/images/clinics-book-into-clinic.png)
 
-4. Select the vaccinations to include in the appointment, then select **Continue**. Mavis only shows vaccinations the child is eligible for and is not already scheduled to have at an upcoming school session.
+4. Select the vaccinations to include in the appointment, then **Continue**. Mavis only shows vaccinations the child is eligible for and is not already scheduled to have at an upcoming school session.
 5. Say whether the child needs extra support during vaccination sessions, then select **Continue**.
 6. Enter the parent or guardian’s preferred town, city or postcode for the clinic location, then select **Continue**.
-7. Select the correct location from the search results, then select **Continue**.
-8. Select an available clinic, then select **Continue**. Clinics are shown in order of distance from the preferred location. Mavis also shows the next available appointment date for each clinic.
-9. Select an appointment date, then select **Continue**.
-10. Select a time range, then select **Continue**.
-11. Select an appointment time, then select **Continue**. Mavis shows how many appointments are available at each time.
+7. Select the correct location from the search results, then **Continue**.
+8. Select an available clinic, then **Continue**. Clinics are shown in order of distance from the preferred location. Mavis also shows the next available appointment date for each clinic.
+9. Select an appointment date, then **Continue**.
+10. Select a time range, then **Continue**.
+11. Select an appointment time, then **Continue**. Mavis shows how many appointments are available at each time.
 
 ![Screenshot of appointments list.](/assets/images/clinics-choose-appointment-time.png)
 
-12. Select the contact for the appointment, then select **Continue**.This person will receive the booking confirmation and appointment reminders. You can select an existing contact or enter a new one.
+12. Select the contact for the appointment, then **Continue**. This person will receive the booking confirmation and appointment reminders. You can select an existing contact or enter a new one.
 13. Check the contact details. You can update them if needed. Select **Continue**.
 14. Check the child, appointment and contact details. Use the **Change** links if you need to update anything.
 15. If the details are correct, select **Add this appointment**.
