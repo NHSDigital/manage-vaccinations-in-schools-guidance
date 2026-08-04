@@ -6,10 +6,10 @@ order: 81
 
 [[toc]]
 
-You can download vaccination reports as CSV files which you can share with your CHIS provider, GP practices or others.
+You can download vaccination reports as CSV files.
 
 > [!NOTE]
-> You do not need to share vaccination records with GPs (except in some cases of self-consent), as Mavis does this automatically, but you still need to download and share reports with the local CHIS team.
+> You do not need to share vaccination records with CHIS teams using CarePlus or GPs (except in some cases of self-consent), as Mavis can do this automatically - see [Sharing vaccination records between](sharing-vaccination-records.md), but you still need to download and share reports with the local CHIS team if it does not use CarePlus.
 
 To download a report:
 
