@@ -7,6 +7,7 @@ order: 67
 
 > [!NOTE]
 > This guidance is for teams taking part in the clinics pilot. If your team is not taking part, use the [existing guidance for clinics](/guide/community-clinics/). We're continuing to improve these features during the pilot, so some screenshots and instructions may not match what you see in Mavis.
+
 You can manage a clinic session using the session overview.
 
 ![Screenshot of session overview.](/assets/images/session-overview.png)
@@ -33,7 +34,7 @@ If there are multiple vaccination periods, this page will show appointments for 
 
 To edit a clinic session:
 
-1. Select the**Sessions** top-level navigation link, find the relevant session and select it.
+1. Select the **Sessions** top-level navigation link, find the relevant session and select it.
 2. On the session overview, select **Edit session** on the session details card.
 3. Select **Change** to change session details.
 
@@ -56,7 +57,7 @@ If appointments are booked or being booked, you can only change:
 
 ### If changes cause appointments to be cancelled
 
-The parent will get a message confirming the appointment is cancelled, if the appointment:
+The parent will get a message confirming the appointment is cancelled if the appointment:
 
 - was scheduled to take place at a time that is no longer available
 - is cancelled because there are not enough vaccinators left to cover all appointments
