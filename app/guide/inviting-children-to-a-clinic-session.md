@@ -19,7 +19,7 @@ To invite children to a clinic session, you can:
 To use the filter:
 
 1. Select **Children** in the main navigation.
-2. Select *Can be invited**, the relevant vaccination programmes, and any other filters you need.
+2. Select **Can be invited**, the relevant vaccination programmes, and any other filters you need.
 3. Select **Update results**. 
 4. Select **Invite x children to clinic** (x is the number of children).
 
