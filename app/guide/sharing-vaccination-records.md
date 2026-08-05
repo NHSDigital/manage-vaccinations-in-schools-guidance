@@ -13,7 +13,7 @@ You do not need to inform NHS England and GP practices of any vaccinations, exce
 Once a child’s record has been added to Mavis, any school age vaccinations they get at a GP practice are automatically added to their record in Mavis.
 
 > [!NOTE]
-> You still need to send all vaccination records to CHIS teams that do not use CarePlus. You should let your CHIS provider know that they do not need to send vaccination records to GP practices because Mavis does this automatically.
+> You still need to send all vaccination records to CHIS teams that do not use CarePlus. You should tell your CHIS provider that they do not need to send vaccination records to GP practices because Mavis does this automatically.
 
 ### Check whether a record has been shared
 
@@ -58,14 +58,16 @@ To enable this automated flow, we will gather information from you during onboar
 To view the records sent to CarePlus:
 
 1. Go to **Reports**.
-2. Select the CarePlus records tab.
+2. Select the CarePlus reports link in the Reports navigation.
    
-[screenshot]
+![Screenshot of the CarePlus reports link.](/assets/images/careplus-reports-link.png)
 
 > [!NOTE]
->Only users with access will see the CarePlus records tab
+>Only users with access will see the CarePlus reports link.
 
 3. From the list of CarePlus reports you can view any report by clicking on the date.
+
+![Screenshot of a CarePlus reports list.](/assets/images/careplus-reports.png)
 
 If your CHIS team does not use CarePlus, you must share vaccination records for all programmes with CHIS manually.
 
