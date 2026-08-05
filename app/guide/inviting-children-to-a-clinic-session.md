@@ -10,20 +10,20 @@ order: 69
 
 To invite children to a clinic session, you can: 
 
-- use the **Can be invited** filter in the **Children** tab
+- use the **Eligible for clinic** filter in **Children** in the main navigation
 - share a booking link for your clinic sessions (for example, in an advert so that any parent can make an appointment for their child)
 - invite them in the usual way from a [school session overview or from a child, home-educated or unknown school record](/guide/community-clinics/)
 
-## Can be invited filter
+## Eligible for clinic filter
 
 To use the filter:
 
 1. Select **Children** in the main navigation.
-2. Select **Can be invited**, the relevant vaccination programmes, and any other filters you need.
+2. Select **Eligible for clinic**, the relevant vaccination programmes, and any other filters you need.
 3. Select **Update results**. 
 4. Select **Invite x children to clinic** (x is the number of children).
 
-![Screenshot of Can be invited filter.](/assets/images/can-be-invited-filter.png)
+![Screenshot of Eligible for clinic filter.](/assets/images/eligible-for-clinic-filter.png)
 
 To confirm, select **Send clinic invitations**. If you previously selected multiple programmes, you will need to confirm the programmes for the invitations. No invitations will be sent to children who do not have contact details in Mavis.
 
