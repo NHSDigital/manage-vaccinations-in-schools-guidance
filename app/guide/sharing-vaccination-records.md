@@ -51,7 +51,7 @@ If a child self-consents under Gillick competence and asks for their parents not
 > [!NOTE]
 > Automatic CarePlus reporting is being rolled out across all teams that use CarePlus in summer and autumn 2026. If this is not yet enabled for your team, you should continue to share vaccination records for all programmes with CHIS manually.
 
-If your CHIS team uses CarePlus, Mavis can automatically send your vaccination records to their CarePlus system every day that new vaccination records are available.
+If your CHIS team uses CarePlus, Mavis automatically sends your vaccination records to their CarePlus system every day that new vaccination records are available.
 
 To enable this automated flow, we will gather information from you during onboarding, and from System C directly.
 
