@@ -65,7 +65,7 @@ To view the records sent to CarePlus:
 > [!NOTE]
 >Only users with access will see the CarePlus reports link.
 
-3. From the list of CarePlus reports you can view any report by clicking on the date.
+3. From the list of CarePlus reports you can view any report by selecting the date.
 
 ![Screenshot of a CarePlus reports list.](/assets/images/careplus-reports.png)
 
