@@ -7,6 +7,9 @@ eleventyComputed:
     key: Keeping track of sessions
 ---
 
+> [!NOTE] We're redesigning how clinics work in Mavis
+> From early September 2026, all teams will be able to manage the whole clinic booking process in Mavis. Parents will be able to book clinic appointments through Mavis, and teams will be able to view and manage those appointments without using a separate booking system. We're currently piloting these features with a small number of teams. If your team is taking part, read the guidance for [managing a clinic session](/guide/managing-a-clinic-session.md). 
+
 All sessions in Mavis have an overview page that shows a summary of the vaccination session.
 
 1. Go to **Sessions**.

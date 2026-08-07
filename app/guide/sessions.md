@@ -7,6 +7,9 @@ eleventyComputed:
     key: Adding and editing sessions
 ---
 
+> [!NOTE] We're redesigning how clinics work in Mavis
+> From early September 2026, all teams will be able to manage the whole clinic booking process in Mavis. Parents will be able to book clinic appointments through Mavis, and teams will be able to view and manage those appointments without using a separate booking system. We're currently piloting these features with a small number of teams. If your team is taking part, read the guidance for [creating a clinic session](/guide/creating-a-clinic-session.md) and [managing a clinic session](/guide/managing-a-clinic-session.md). 
+
 You can create sessions in Mavis for any of the programmes you’re running. You can edit the session details later, if you need to.
 
 You should only schedule sessions after you’ve uploaded vaccination records and class lists.
