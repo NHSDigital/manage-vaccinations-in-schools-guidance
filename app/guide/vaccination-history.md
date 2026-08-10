@@ -103,7 +103,7 @@ If your upload fails, see [Upload errors](/guide/importing-cohorts/#upload-error
 
 ## Resolving possible duplicates
 
-After a file has successfully uploaded, Mavis highlights any potential duplicates as **close matches to existng records**, which you must resolve.
+After a file has successfully uploaded, Mavis highlights any potential duplicates as **close matches to existing records**, which you must resolve.
 
 1. Go to **Imports** and select the **Completed imports** tab.
 2. Select the date and time of the upload to view its details.
