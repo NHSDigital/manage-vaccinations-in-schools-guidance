@@ -4,6 +4,8 @@ theme: Statistics and reports
 order: 82
 ---
 
+[[toc]]
+
 ## GPs and NHS England
 
 All vaccinations recorded in Mavis are automatically shared with NHS England, GP practices and CHIS teams that use CarePlus.
