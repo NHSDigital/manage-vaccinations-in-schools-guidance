@@ -72,7 +72,7 @@ Select the upload date and time to open the review page.
 
 #### Records already in Mavis (no action needed)
 
-When you upload class lists, Mavis identiies children it already has records for.
+When you upload class lists, Mavis identifies children it already has records for.
 
 If it’s an exact duplicate, Mavis will simply not import the record again - you’ll see a notification telling you how many records were not imported because they already exist in Mavis.
 
