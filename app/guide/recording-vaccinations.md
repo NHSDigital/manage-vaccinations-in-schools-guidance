@@ -31,7 +31,8 @@ Once you’ve reviewed the information on the page, you’ll need to confirm the
 1. Select whether the child or someone else confirmed their identity.
 2. If it was someone else, enter their name and relationship to the child.
 3. Run through the pre-screening checks and confirm you’ve checked the statements are correct. You can add notes if you want to.
-4. Indicate whether you think the child is ready to vaccinate and select **Continue** at the bottom of the page.
+4. If you think the child is ready to vaccinate, select **Yes**.
+5. Select the vaccination method and **Continue**.
 
 ![Screenshot of pre-screening questions on a patient record.](/assets/images/session-child-pre-screen.png 'Mavis will ask a series of pre-screening questions before you record a vaccination.')
 
@@ -39,19 +40,18 @@ Once you’ve reviewed the information on the page, you’ll need to confirm the
 
 If the child was vaccinated:
 
-1. Use the relevant radio buttons to record how the vaccination was given.
-2. Record the batch you used, then click **Continue**.
-3. On the **Check and confirm** page, check the vaccination details and make any changes you need to.
-4. Add notes if needed, then click **Confirm**.
+1. Record the batch you used, then **Continue**.
+2. Check your answers and make any changes you need to.
+3. Add vaccination notes if needed, then **Confirm**.
 
 > [!NOTE] Td/IPV dose number
 > Mavis automatically records Td/IPV vaccinations as the 5th dose. If this is not correct, select **Change**, update the dose number (from 1st to 6th dose), then select **Confirm** to save your changes.
 
 If the child was not vaccinated:
 
-1. Use the relevant radio button to record why the vaccine was not given, then **Continue**.
+1. Select the reason why the vaccine was not given, then **Continue**.
 2. Check and confirm your answer, and add notes if you want to.
-3. Make any changes (if necessary) and click **Confirm**.
+3. Make any changes (if necessary) and **Confirm**.
 
 ## Keeping track of your vaccinations
 
