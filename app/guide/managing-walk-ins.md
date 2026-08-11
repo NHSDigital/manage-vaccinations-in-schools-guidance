@@ -51,4 +51,4 @@ If the child needs a vaccine that you have in stock but is not scheduled for thi
 3. Select the programme you need to add and **Continue**.
 4. Select **Save changes**.
 
-When you’re ready to vaccinate the child, see [Recording vaccinations](link tbc).
+When you’re ready to vaccinate the child, see [Recording vaccinations](/guide/recording-vaccinations).
