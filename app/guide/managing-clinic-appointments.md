@@ -10,7 +10,7 @@ order: 71
 You can use Mavis to:
 
 - view appointments for a clinic session
-- resolve unmatched appointments
+- resolve unmatched appointments (appointments not matched to a child record)
 - cancel appointments
 - book a child into a clinic
 
@@ -43,7 +43,7 @@ You can view unmatched clinic appointments across your whole cohort or for a spe
 To see all unmatched clinic appointments for your cohort:
 
 1. Select **Review** in the main navigation.
-2. Select the **Clinic appointments** link in the review navigation.
+2. Select **Clinic appointments**.
    
 ![Screenshot of appointments list.](/assets/images/clinics-unmatched-appointments-review.png)
 
@@ -91,7 +91,7 @@ Mavis creates the child record and links it to the clinic appointment.
 
 ### Archive an unmatched appointment  
 
-You can archive an unmatched appointment if it should not be actioned, for example, if it’s a duplicate or was created in error.
+You can archive an unmatched appointment if it's not needed, for example, if it’s a duplicate or was created in error.
 
 1. Find the unmatched appointment and select **Archive**.
 2. Review the information about archiving the appointment.
@@ -107,7 +107,7 @@ You can cancel a child's clinic appointment if they no longer need the vaccinati
 3. Find the child whose appointment you want to cancel and select their name.
 4. In the **Clinic appointment** section, select **Cancel appointment**.
    
-![Screenshot of appointments list.](/assets/images/clincis-cancel-appointment.png)
+![Screenshot of appointments list.](/assets/images/clinics-cancel-appointment.png)
 
 5. Choose whether you want the cancellation message sent to the parent to include a booking link so they can book another appointment.
 6. Select **Continue**.
