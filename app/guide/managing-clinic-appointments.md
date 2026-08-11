@@ -89,14 +89,18 @@ Mavis creates the child record and links it to the clinic appointment.
 
 ![Screenshot of appointments list.](/assets/images/clinics-create-new-child-record-confirm.png)
 
-### Archive an unmatched appointment  
+### Archive an unmatched appointment
 
 You can archive an unmatched appointment if it's not needed, for example, if it’s a duplicate or was created in error.
 
+> [!NOTE]
+> Once you archive an appointment, you will no longer be able to view it in Mavis or undo the archive.
+
+To archive an appointment:
+
 1. Find the unmatched appointment and select **Archive**.
-2. Review the information about archiving the appointment.
-3. Enter the reason for archiving the appointment in **Notes**.
-4. To confirm, select **Archive clinic appointment**.
+2. Enter the reason for archiving the appointment in **Notes**.
+3. To confirm, select **Archive clinic appointment**.
 
 ## Cancelling a clinic appointment 
 
