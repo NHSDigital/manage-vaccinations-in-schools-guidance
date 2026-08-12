@@ -44,7 +44,7 @@ Mavis adds the child to your session.
 
 ## Programme not scheduled to run in this session
 
-If the child needs a vaccine that you have in stock but is not scheduled for this session, you can create a new clinic session and add children to it.
+If the child needs a vaccine that you have in stock but is not scheduled for this session, you can create a new clinic session and add children to it - see [Creating a clinic session](/guide/creating-a-clinic-session/).
 
 1. On the Session details card, select **Edit session**
 
