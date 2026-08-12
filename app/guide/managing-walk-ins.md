@@ -6,6 +6,9 @@ order: 73
 
 [[toc]]
 
+> [!NOTE]
+> This guidance is for teams taking part in the clinics pilot. If your team is not taking part, use the [existing guidance for clinics](/guide/community-clinics/). We're continuing to improve these features during the pilot, so some screenshots and instructions may not match what you see in Mavis.
+
 If a child comes to your clinic session without an appointment, you can vaccinate them. You just need to  have:
 
 - a spare timeslot
