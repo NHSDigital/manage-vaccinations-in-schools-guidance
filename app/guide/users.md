@@ -41,8 +41,7 @@ In addition to the roles listed above, the following activities can be assigned 
 
 This enables healthcare assistants to record vaccinations when giving:
 
-- nasal flu vaccine under a patient group direction (PGD) (they need to record which nurse identified and pre-screened the child, and supplied the vaccine)
-- IM flu vaccine under national protocol (they need to record which nurse identified and pre-screened the child, and supplied the vaccine)
+- nasal and injected flu vaccine under a vaccine group direction (VGD) (they need to record which nurse identified and pre-screened the child)
 - nasal flu vaccine under a patient specific direction (PSD) (when a PSD has been added by a user with the independent prescribing activity code)
 
 ### Independent prescribing (B0420)
