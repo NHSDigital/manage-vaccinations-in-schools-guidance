@@ -16,14 +16,17 @@ When your team first starts using Mavis, you need to upload records for all chil
 
 This includes:
 
-- all children from Reception (Year 0) to Year 11
-- children in years 12, 13 and 14 at special education needs (SEN) schools, where relevant 
+- all children from Reception to Year 11
+- children in the first year of Nursery (Year -2) and second year of Nursery (Year -1), if your team gives flu vaccinations to Nursery children
+- children in years 12, 13 and 14 at special educational needs (SEN) schools, where relevant 
 
 You should include all children, whether they have already been vaccinated or not.
 
 Once these records are in Mavis, they stay there. 
 
 At the start of each school year, upload records for children entering Reception (Year 0), to keep your cohort up to date. 
+
+If your team gives flu vaccinations to Nursery children, also upload records for children in the first or second year of Nursery who are not already in Mavis.
 
 You can also add new children to the cohort at any time by uploading records for individual or multiple children.
 
@@ -50,6 +53,9 @@ For a full list of details you can upload, see the cohort upload template.
   summary: "Microsoft Excel spreadsheet, 18 KB",
   href: "/files/cohort-upload-template.xlsx"
 }) }}
+
+> [!NOTE]
+> If your team gives flu vaccinations to Nursery children, use -2 for the first year of Nursery and -1 for the second year of Nursery in the CHILD_YEAR_GROUP field.
 
 If you do not include a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](importing-cohorts.md#see-how-mavis-uses-pds-to-find-nhs-numbers) to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
 
