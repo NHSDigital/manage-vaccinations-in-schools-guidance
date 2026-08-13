@@ -24,7 +24,11 @@ You must specify what type of records they are when you upload them, and upload 
 
 ### 1. Upload your cohort as child records
 
-Upload records for all children in your cohort from Reception (Year 0) to Year 11. Include children up to Year 13 or 14 for special educational needs schools, where applicable.
+Upload records for all children in your cohort from Reception (Year 0) to Year 11. 
+
+If your team gives flu vaccinations to Nursery children, include children in the first and second years of Nursery in your upload.
+
+You should also include children up to Year 13 or 14 for special educational needs schools, where applicable.
 
 This adds all children in your area to Mavis, including the schools they attend.
 
