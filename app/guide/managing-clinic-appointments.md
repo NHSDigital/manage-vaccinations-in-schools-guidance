@@ -123,7 +123,7 @@ You can cancel a child's clinic appointment if they no longer need the vaccinati
 
 You can create a clinic appointment for a child on behalf of their parent or guardian.
 
-1. Select **Children** in the main navigation. The list of children shows each child's clinic status for each vaccination programme (Can be invited, Invited or Booked).
+1. Select **Children** in the main navigation. The list of children shows each child's clinic status for each vaccination programme (Eligible for clinic, Invited or Booked).
 2. Find the child and select their name to open their record.
 3. In the **Vaccination programmes** section of their record, select **Book into a clinic**.
 
