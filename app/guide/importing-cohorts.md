@@ -29,8 +29,8 @@ You can also add new children to the cohort at any time by uploading records for
 
 Before you start, read:
 
-- [what to upload and when](/what-to-upload-and-when/)
-- [preparing files for upload](/preparing-files-for-upload/)
+- [what to upload and when](/guide/what-to-upload-and-when/)
+- [preparing files for upload](/guide/preparing-files-for-upload/)
   
 ## What details to include
 
@@ -121,6 +121,7 @@ Mavis also flags when a child moves to a school in your area from a school outsi
 If you approve the upload, you must confirm the child’s school in the School moves area of Mavis.
 
 If you confirm that the child has moved to a school in your area from another team’s area, the original team will be notified.
+
 [Find out how to review and resolve school moves](/guide/school-moves/).
 
 #### Children with no known school already registered at a school in a different area (no action needed)

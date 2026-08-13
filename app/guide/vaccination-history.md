@@ -19,8 +19,8 @@ Once a child’s record has been added to Mavis, any school age vaccinations the
 
 Before uploading vaccination records, read:
 
-- [what to upload and when](/what-to-upload-and-when/)
-- [preparing files for upload](/preparing-files-for-upload/)
+- [what to upload and when](/guide/what-to-upload-and-when/)
+- [preparing files for upload](/guide/preparing-files-for-upload/)
   
 ## What vaccination history you need to upload
 
