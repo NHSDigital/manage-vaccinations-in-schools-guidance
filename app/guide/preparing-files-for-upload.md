@@ -4,7 +4,7 @@ theme: Uploading records to Mavis
 order: 5
 ---
 
-Before you start, read an overview of [what records you need to upload to Mavis and when](/what-to-upload-and-when/). 
+Before you start, read an overview of [what records you need to upload to Mavis and when](/guide/what-to-upload-and-when/). 
 
 ## File requirements
 
@@ -24,6 +24,6 @@ If you have an Excel file with multiple tabs, before uploading it check you have
 
 Read about:
 
-- [uploading cohorts](/importing-cohorts/)
-- [adding vaccination history](/vaccination-history/)
-- [uploading class lists](/class-lists/)
+- [uploading cohorts](/guide/importing-cohorts/)
+- [adding vaccination history](/guide/vaccination-history/)
+- [uploading class lists](/guide/class-lists/)
