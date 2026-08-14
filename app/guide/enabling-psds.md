@@ -4,7 +4,7 @@ theme: Managing protocols and healthcare assistants
 order: 35
 ---
 
-If your team uses patient specific directions (PSDs) for flu vaccinations, you can turn on this feature in Mavis to allow healthcare assistants to administer the nasal spray vaccine in a session.
+If your team uses patient specific directions (PSDs) for flu vaccinations, you can turn on this feature in Mavis to allow healthcare assistants to give the nasal spray vaccine in a session.
 
 1. Go to the relevant session in Mavis and select **Edit session**.
 2. Select **Change** on the **Protocol** row.
