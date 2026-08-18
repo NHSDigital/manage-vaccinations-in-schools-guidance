@@ -104,6 +104,22 @@ To archive an appointment:
 2. Enter the reason for archiving the appointment in **Notes**.
 3. To confirm, select **Archive clinic appointment**.
 
+## Change an appointment location, date or time
+
+To edit an appointment:
+
+1. Go to the clinic session and select **Appointments**.
+
+![Screenshot of appointments booked for the session.](/assets/images/appointments-tab.png)
+
+2. Select the appointment (it must be matched to a child record before you can edit it).
+3. Select the programme, for example **Flu**.
+4. Select **Edit appointment**.
+
+![Screenshot of Edit child’s appointment details.](/assets/images/change-appointment-details.png)
+
+Then **Change** the relevant details.
+
 ## Cancelling a clinic appointment
 
 You can cancel a child's clinic appointment if they no longer need the vaccination or need to book another appointment.
