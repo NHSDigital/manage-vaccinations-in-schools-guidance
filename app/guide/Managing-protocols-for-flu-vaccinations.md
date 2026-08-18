@@ -18,8 +18,6 @@ Under a PGD, only registered nurses and health professionals such as pharmacists
 
 Under a VGD, nurses, health professionals and healthcare assistants (HCAs) can give either the injected flu vaccine or nasal spray.
 
-[screenshot of 3 values when recording a vaccination: practitioner, vaccinator, recorder]
-
 If you’re a nurse giving the vaccination, you should record the practitioner (who assessed the child), the vaccinator (who prepared and administered the vaccine), and the recorder as yourself.
 
 If you’re an HCA giving the vaccination, a nurse must assess the child first. 
