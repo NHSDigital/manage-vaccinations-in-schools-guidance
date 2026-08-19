@@ -18,7 +18,7 @@ As with school sessions, the **Record vaccinations** tab only shows children for
 - they have consent to be vaccinated
 - they have been triaged as safe to vaccinate (if triage was necessary)
 - they are registered as attending the session (if you’re using registration)
-- 
+
 If the parent has not yet answered health questions about the child, ask the questions at the appointment.
 
 Follow the same steps as for a school session to [review the child’s details, do pre-screening checks, record the outcome, and keep track of vaccinations](/guide/recording-vaccinations/#review-the-childs-details-and-do-pre-screening-checks).
