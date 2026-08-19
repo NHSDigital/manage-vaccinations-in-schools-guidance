@@ -18,7 +18,7 @@ To add the child to your session:
 
 1. Select **Children** in the main navigation. 
 2. Search for the child and select their name to open their record.
-3. If the child cannot be found you’ll need to upload the child’s details in a cohort upload - see [Uploading cohorts](/guide/importing-cohorts/)
+3. If the child cannot be found you’ll need to upload the child’s details in a cohort upload - see [Uploading cohorts](/guide/importing-cohorts/).
 4. Select the tab for the appropriate vaccination programme.
 5. Select **Add to current clinic session**
 
@@ -46,7 +46,7 @@ Mavis adds the child to your session.
 
 If the child needs a vaccine that you have in stock but is not scheduled for this session, you can create a new clinic session and add children to it - see [Creating a clinic session](/guide/creating-a-clinic-session/).
 
-1. On the Session details card, select **Edit session**
+1. On the session details card, select **Edit session**
 
 ![Screenshot of a clinic session details card](/assets/images/clinic-session-details-card.png)
 
