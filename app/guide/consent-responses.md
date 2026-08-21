@@ -30,7 +30,7 @@ On the **Children in session** tab, each child’s summary card shows **Needs co
 ![Screenshot of consent responses for a session.](/assets/images/session-consent-all-children.png 'Mavis shows consent responses for a session grouped by status.')
 
      > [!NOTE]
-     > A child only has a status of **Due vaccination** if they have consent to be vaccinated.
+     > A child only has a status of Due vaccination if they have consent to be vaccinated.
 
 You can use the **Programme status** filters to show only children matching your selection - for example, select **Needs consent** and **No contact details** to see only those children.
 
