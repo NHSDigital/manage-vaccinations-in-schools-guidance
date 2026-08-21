@@ -29,7 +29,7 @@ Then you select:
 
 ## Patient specific direction (PSD)
 
-HCAs can vaccinate children with a PSD added but only with the nasal spray (see [Enabling PSDs in Mavis](/guide/enabling-psds/).
+HCAs can vaccinate children with a PSD added but only with the nasal spray (see [Enabling PSDs in Mavis](/guide/enabling-psds/)).
 
 ## Selecting a protocol in Mavis
 
