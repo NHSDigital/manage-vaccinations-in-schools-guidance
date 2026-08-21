@@ -32,8 +32,6 @@ If yours is the only clinic session in progress, check that this is the child yo
 
 Mavis adds the child to your session.
 
-![Screenshot of success banner added to clinic](/assets/images/success-added-to-clinic.png)
-
 ## Multiple sessions in progress
 
 If there are 2 or more clinic sessions in progress, select the clinic you want to add this child to and **Continue**.
