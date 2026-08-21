@@ -85,12 +85,13 @@ You can edit a site’s name and/or address, or the year groups it serves.
 You can edit a school’s details in Mavis to:
 
 - change the phase
-- add year groups
+- add or remove year groups
+- change whether it's a special educational needs (SEN) school
 
 1. Go to the **Team** tab.
 2. Select **Schools**.
 3. Find the school you need to update and select **Edit**.
-4. Select **Change** on the **Phase** row or **Year groups** row, as needed.
+4. Select **Change** on the **Phase**, **Year groups** or **SEN school** row, as needed.
 5. Make any changes you need to make then select **Continue**.
 6. Review your changes and select **Save changes**.
 
