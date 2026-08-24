@@ -14,7 +14,7 @@ Once cohort records have been imported into Mavis, you can view, edit and archiv
 
 The child record gives details about the child and their current vaccination status across all programmes.
 
-![Screenshot of a child record.](/assets/images/child-record-update.png)
+![Screenshot of a child record.](/assets/images/child-record-new.png)
 
 ### Viewing programme details
 
