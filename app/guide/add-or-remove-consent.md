@@ -39,9 +39,12 @@ You should only withdraw a consent response if a parent previously gave consent 
 3. Go to the **Children in session** tab for this session and search for the child. Select their name to open their record.
 4. Go to the parent’s consent response by clicking on the parent’s name.
 5. Select **Withdraw consent** near the top of the page.
-6. Select the parent’s reason for withdrawing consent, add notes and select the **Withdraw consent** button.
 
 ![Screenshot of withdrawing a consent.](/assets/images/consent-form-view.png)
+   
+6. Select the parent’s reason for withdrawing consent, add notes and select the **Withdraw consent** button.
+
+The parent will automatically receive a consent refusal notification.
 
 ## Marking a consent response as invalid
 
