@@ -37,12 +37,11 @@ You should only withdraw a consent response if a parent previously gave consent 
 1. Verify that the person contacting you is the original responder.
 2. Go to **Sessions**. Find the session you’re interested in and select it.
 3. Go to the **Children in session** tab for this session and search for the child. Select their name to open their record.
-4. Go to the parent’s consent response by clicking on the parent’s name.
-5. Select **Withdraw consent** near the top of the page.
+4. Select **Withdraw consent** on the consent card.
 
-![Screenshot of withdrawing a consent.](/assets/images/consent-form-view.png)
+![Screenshot of withdrawing a consent.](/assets/images/session-consent-card.png)
    
-6. Select the parent’s reason for withdrawing consent, add notes and select the **Withdraw consent** button.
+5. Select the parent’s reason for withdrawing consent, add notes and select the **Withdraw consent** button.
 
 The parent will automatically receive a consent refusal notification.
 
@@ -53,6 +52,5 @@ You should only mark a consent response as invalid if you have established that 
 1. Verify that the consent response was recorded from someone who did not have authority to consent.
 2. Go to **Sessions**. Find the session you’re interested in and select it.
 3. Go to the **Children in session** tab for this session and search for the child. Select their name to open their record.
-4. Go to the consent response by selecting the name of the person who responded without authority to consent.
-5. Select **Mark as invalid**.
-6. Add a note explaining why you are doing this and select the **Mark as invalid** button.
+4. Select **Mark as invalid** on the consent card.
+5. Add a note explaining why you're doing this and select the **Mark as invalid** button.
