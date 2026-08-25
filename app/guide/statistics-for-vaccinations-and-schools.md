@@ -22,7 +22,7 @@ You can see:
 - the total number of children in the cohort
 - how many children have been vaccinated for each programme (by any provider)
 - how many children have been vaccinated by your team this academic year
-- how many children have been vaccinated elsewhere (for example at a GP practice, by another SAIS team) this academic year
+- how many children have been vaccinated elsewhere (for example, at a GP practice or by another SAIS team) this academic year
 - how many were vaccinated before this academic year
 - how many vaccinations your team gave each month this academic year in schools and community clinics
 
