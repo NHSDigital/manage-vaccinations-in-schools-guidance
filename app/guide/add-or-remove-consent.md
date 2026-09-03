@@ -11,7 +11,7 @@ If you get a new consent response, for example, through a paper form, or verball
 1. Go to **Sessions** and find the session you’re interested in. Select it.
 2. Go to the **Children in session** tab and search for the child you want to record a new consent response for. Select their name to open their record.
 3. Select **Record a new consent response**.
-4. Use the radio button to indicate who the consent is from (you can add a new contact if necessary).
+4. Select the parent the new response is from (you can add a new contact if necessary).
 5. The parent’s details are displayed. Click **Continue** to enter a new consent response from that parent, then indicate whether it was given by phone, paper or in person.
 6. Record their consent response and their answers to the health questions.
 7. Select if it’s safe to vaccinate the child or choose one of the triage options.
@@ -37,7 +37,8 @@ You should only withdraw a consent response if a parent previously gave consent 
 1. Verify that the person contacting you is the original responder.
 2. Go to **Sessions**. Find the session you’re interested in and select it.
 3. Go to the **Children in session** tab for this session and search for the child. Select their name to open their record.
-4. Select **Withdraw consent** on the consent card.
+4. Select the programme from the session navigation tabs.
+5. Select **Withdraw consent** on the consent response of the parent who wants to withdraw consent.
 
 ![Screenshot of withdrawing a consent.](/assets/images/session-consent-card.png)
    
@@ -52,5 +53,6 @@ You should only mark a consent response as invalid if you have established that 
 1. Verify that the consent response was recorded from someone who did not have authority to consent.
 2. Go to **Sessions**. Find the session you’re interested in and select it.
 3. Go to the **Children in session** tab for this session and search for the child. Select their name to open their record.
-4. Select **Mark as invalid** on the consent card.
-5. Add a note explaining why you're doing this and select the **Mark as invalid** button.
+4. Select the programme from the session navigation tabs.
+5. Select **Mark as invalid** on the consent response of the person who responded without authority to consent.
+6. Add a note explaining why you're doing this and select the **Mark as invalid** button.
