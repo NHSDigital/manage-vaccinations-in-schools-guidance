@@ -14,15 +14,7 @@ eleventyComputed:
 
 When your team first starts using Mavis, you need to upload records for all children in your area.
 
-This includes:
-
-- all children from Reception to Year 11
-- children in the 1st year of nursery (Year -2) and 2nd year of nursery (Year -1), if your team gives flu vaccinations to nursery children
-- children in years 12, 13 and 14 at special educational needs (SEN) schools, where relevant 
-
-You should include all children, whether they have already been vaccinated or not.
-
-Once these records are in Mavis, they stay there. 
+Once the records are in Mavis, they stay there. 
 
 At the start of each school year, upload records for children entering Reception (Year 0), to keep your cohort up to date. 
 
@@ -34,6 +26,37 @@ Before you start, read:
 
 - [what to upload and when](/guide/what-to-upload-and-when/)
 - [preparing files for upload](/guide/preparing-files-for-upload/)
+
+## Who to include in cohort uploads
+
+Upload records for:
+
+- all children from Reception (Year 0) to Year 11
+- nursery children, if your team vaccinates them
+- pupils in years 12 and 13 at special educational needs (SEN) schools who are in a clinical risk group
+
+Include all children and young people, whether they have already been vaccinated or not.
+
+### Nursery children
+
+If your team vaccinates nursery children for flu, upload records for children in:
+
+- the first year of nursery – enter -2 in the YEAR_GROUP field
+- the second year of nursery – enter -1 in the YEAR_GROUP field
+
+### Young people in years 12 and 13 at SEN schools
+
+At SEN schools, young people in years 12 and 13 who are also in a clinical risk group are eligible for flu vaccination alongside their peers.
+
+When you upload a cohort list, use the CHILD_CLINICALLY_AT_RISK_FOR_FLU field to mark young people who are in a clinical risk group.
+
+This field defaults to no if you leave it blank.
+
+> [!NOTE]
+> If you previously uploaded records for young people now in years 12 or 13 at a SEN school, reupload the records of those who are in a clinical risk group and mark them as such.
+
+You do not need to reupload records for young people who are not in a clinical risk group.
+
   
 ## What details to include
 
@@ -53,9 +76,6 @@ For a full list of details you can upload, see the cohort upload template.
   summary: "Microsoft Excel spreadsheet, 18 KB",
   href: "/files/cohort-upload-template.xlsx"
 }) }}
-
-> [!NOTE]
-> If your team gives flu vaccinations to nursery children, use -2 for the 1st year of nursery and -1 for the 2nd year of nursery in the CHILD_YEAR_GROUP field.
 
 If you do not include a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](importing-cohorts.md#see-how-mavis-uses-pds-to-find-nhs-numbers) to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
 
