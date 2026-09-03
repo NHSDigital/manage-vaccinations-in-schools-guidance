@@ -28,7 +28,7 @@ Upload records for all children in your cohort from Reception (Year 0) to Year 1
 
 If your team gives flu vaccinations to nursery children, include children in the 1st and 2nd years of nursery in your upload.
 
-You should also include children up to Year 13 or 14 for special educational needs schools, where applicable.
+You should also include young people in years 12 and 13 at special educational needs (SEN) schools who are in a clinical risk group.
 
 This adds all children in your area to Mavis, including the schools they attend.
 
