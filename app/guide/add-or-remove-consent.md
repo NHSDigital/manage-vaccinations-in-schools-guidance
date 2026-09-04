@@ -42,7 +42,7 @@ You should only withdraw a consent response if a parent previously gave consent 
 
 ![Screenshot of withdrawing a consent.](/assets/images/consent-card.png)
    
-5. Select the parent’s reason for withdrawing consent, add notes and select the **Withdraw consent** button.
+6. Select the parent’s reason for withdrawing consent, add notes and select the **Withdraw consent** button.
 
 The parent will automatically receive a consent refusal notification.
 
