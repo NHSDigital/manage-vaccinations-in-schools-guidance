@@ -40,7 +40,7 @@ You should only withdraw a consent response if a parent previously gave consent 
 4. Select the programme from the session navigation tabs.
 5. Select **Withdraw consent** on the consent response of the parent who wants to withdraw consent.
 
-![Screenshot of withdrawing a consent.](/assets/images/session-consent-card.png)
+![Screenshot of withdrawing a consent.](/assets/images/consent-card.png)
    
 5. Select the parent’s reason for withdrawing consent, add notes and select the **Withdraw consent** button.
 
