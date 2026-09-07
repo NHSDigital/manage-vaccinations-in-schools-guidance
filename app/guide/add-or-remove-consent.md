@@ -37,7 +37,7 @@ You should only withdraw a consent response if a parent previously gave consent 
 1. Verify that the person contacting you is the original responder.
 2. Go to **Sessions**. Find the session you’re interested in and select it.
 3. Go to the **Children in session** tab for this session and search for the child. Select their name to open their record.
-4. Select the programme from the session navigation tabs.
+4. If the session is running more than one programme, select the programme from the session navigation tabs.
 5. Select **Withdraw consent** on the consent response of the parent who wants to withdraw consent.
 
 ![Screenshot of withdrawing a consent.](/assets/images/consent-card.png)
@@ -53,6 +53,6 @@ You should only mark a consent response as invalid if you have established that 
 1. Verify that the consent response was recorded from someone who did not have authority to consent.
 2. Go to **Sessions**. Find the session you’re interested in and select it.
 3. Go to the **Children in session** tab for this session and search for the child. Select their name to open their record.
-4. Select the programme from the session navigation tabs.
+4. If the session is running more than one programme, select the programme from the session navigation tabs.
 5. Select **Mark as invalid** on the consent response of the person who responded without authority to consent.
 6. Add a note explaining why you're doing this and select the **Mark as invalid** button.
