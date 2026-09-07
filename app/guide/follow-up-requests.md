@@ -33,6 +33,6 @@ Mavis asks whether the parent’s refusal still stands after your follow-up conv
 
 ![Screenshot of follow-up decision options.](/assets/images/follow-up-decision.png)
 
-If the parent still refuses the vaccination, select **Yes**. The child’s consent status changes from ‘Needs consent - follow-up requested’ to ‘Has a refusal - parent refused’.
+If the parent still refuses the vaccination, select **Yes**. The child’s consent status changes from ‘Has a refusal - follow-up requested’ to ‘Has a refusal - parent refused’.
 
 If the parent consents to the vaccination after your follow-up discussion, select **No** and go through the steps to record a new consent response. This will automatically invalidate the original response.
