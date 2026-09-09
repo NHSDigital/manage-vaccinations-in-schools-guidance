@@ -27,13 +27,15 @@ To download a report:
 
 Child-level vaccination reports include detailed consent and vaccination data for the selected programme. The data only includes vaccinations administered by your team. Each row shows data for one child.
 
+You can download data for the current academic year or a previous academic year.
+
 You’ll need to select a file format before downloading the report.
 
 If your team, or the team you’re sharing the data with, uses SystmOne alongside Mavis, select **CSV for SystmOne (TPP)**. For more information, read [Sharing vaccination records between Mavis and SystmOne](sharing-vaccination-records-between-mavis-and-systmone.md).
 
 ## Aggregate vaccination reports
 
-Aggregate vaccination reports show consent and vaccination data for the total number of children in your cohort for the selected programme in the current school year. This includes vaccinations given by other providers.
+Aggregate vaccination reports show consent and vaccination data for the total number of children in your cohort for the selected programme in the current academic year. This includes vaccinations given by other providers.
 
 You can choose to break down the data by:
 
