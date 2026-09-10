@@ -34,5 +34,3 @@ To enter the parent’s consent response into Mavis:
 4. Select **Record a new consent response**.
 5. Select the person who responded (or **Add a new parental contact** to add new details).
 6. Go through the consent flow, making sure to select **Paper** as the way the response was given.
-
-![Screenshot of selecting paper as the response method.](/assets/images/consent-response-paper.png 'Make sure to select paper as the response method when entering a consent response from a paper form.')
