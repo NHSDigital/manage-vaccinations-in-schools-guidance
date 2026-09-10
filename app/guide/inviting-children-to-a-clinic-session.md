@@ -72,8 +72,6 @@ To send clinic invitations to these children:
 2. In each school session, select the **Send clinic invitations** link (in the **Action required** section). This will show you a summary of how many invitations will be sent out.
 3. Select **Send clinic invitations**. Invitations are sent immediately.
 
-![Screenshot of clinic invitations summary page.](/assets/images/send-clinic-invitations-summary.png)
-
 ## Inviting individual children from a child record
 
 You can invite individual children to a clinic directly from their record in Mavis. If an invitation has already been sent, you can send a reminder instead.
