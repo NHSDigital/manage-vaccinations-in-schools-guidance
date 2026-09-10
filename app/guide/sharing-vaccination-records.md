@@ -60,9 +60,7 @@ To enable this automated flow, we will gather information from you during onboar
 To view the records sent to CarePlus:
 
 1. Go to **Reports**.
-2. Select the CarePlus reports link in the Reports navigation.
-
-![Screenshot of the CarePlus reports link.](/assets/images/careplus-reports-link.png)
+2. Select the **CarePlus reports** link in the Reports navigation.
 
 > [!NOTE]
 > Only users with access will see the CarePlus reports link.
