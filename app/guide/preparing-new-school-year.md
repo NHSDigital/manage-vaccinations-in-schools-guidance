@@ -18,7 +18,7 @@ Between 1 August and 1 September you must:
 - upload full class lists
 - schedule sessions - at least the sessions due to take place in the next month need to be scheduled in Mavis so that consent invitations can go out to parents in time - see [Scheduling and editing sessions](sessions.md)
 
-You can also invite some children to clinics, for example if they are immunosuppressed and need to be prioritised for flu vaccination - see [Vaccinating in community clinics](community-clinics.md).
+You can also invite some children to clinics, for example if they are immunosuppressed and need to be prioritised for flu vaccination - see [Inviting children to a clinic session](inviting-children-to-a-clinic-session.md).
 
 In this period, the **Academic year** filter in **Sessions** allows you to view and manage sessions for the previous year or the next academic year.
 
