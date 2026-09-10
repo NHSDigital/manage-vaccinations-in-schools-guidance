@@ -22,8 +22,6 @@ You can also invite some children to clinics, for example if they are immunosupp
 
 In this period, the **Academic year** filter in **Sessions** allows you to view and manage sessions for the previous year or the next academic year.
 
-![Screenshot of session filters showing two academic years.](/assets/images/academic-year-filter.png)
-
 Any children in your existing cohort who are moving to a year group not supported by the school they were in last term (for example Year 6 children moving to Year 7 or children leaving middle schools) will be automatically assigned to '**Unknown school**' (until you upload the new cohort or class lists).
 
 Children who have aged out of programmes (such as Year 12 or Year 15 in SEN schools) will no longer be shown in the list of child records in Mavis, but you can choose to include those children through **Advanced filters**.
