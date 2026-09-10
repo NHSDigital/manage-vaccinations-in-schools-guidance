@@ -67,5 +67,3 @@ Once you have seen and, if necessary, acted on an important notice, you can dism
 You can also dismiss an important notice after a user has archived the child record.
 
 Dismissing an important notice removes it from the important notices list for all superusers in your team. It will still be visible on the child record.
-
-![Screenshot of child record with important notice.](/assets/images/important-notice-on-child-record.png)
