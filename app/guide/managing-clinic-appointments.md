@@ -104,9 +104,6 @@ To archive an appointment:
 To edit an appointment:
 
 1. Go to the clinic session and select **Appointments**.
-
-![Screenshot of appointments booked for the session.](/assets/images/appointments-tab.png)
-
 2. Select the appointment (it must be matched to a child record before you can edit it).
 3. Select the programme, for example **Flu**.
 4. Select **Edit appointment**.
