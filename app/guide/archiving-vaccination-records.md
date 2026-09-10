@@ -21,5 +21,3 @@ To archive a record:
 6. Confirm by clicking **Yes, archive this vaccination record**
 
 If you do not have activity code **B0062** you can ask a superuser in your group to archive the record.
-
-![Screenshot of archive vaccination record confirmation.](/assets/images/archive-vaccination-record-confirmation.png)
