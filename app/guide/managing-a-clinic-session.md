@@ -40,8 +40,6 @@ If there are no booked appointments yet, you can change any session detail excep
 
 Once you’re done, select **Save changes**.
 
-![Screenshot of edit session.](/assets/images/edit-session.png)
-
 ### If there are booked appointments
 
 If appointments are booked or being booked, you can only change:
