@@ -124,9 +124,6 @@ If a child’s historical vaccination record is missing from CHIS data, or you h
 2. Search for the child then select their name to open the child record.
 3. Select the relevant tab for the vaccination programme you want to record.
 4. Select **Record as already vaccinated** at top of the page.
-
-![Screenshot of Record as already vaccinated button.](/assets/images/record-as-already-vaccinated-button.png)
-
 5. Enter the date when the vaccination was given (and the time if you know it).
 
    > [!NOTE]
