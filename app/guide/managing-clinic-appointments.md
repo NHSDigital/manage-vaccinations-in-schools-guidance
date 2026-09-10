@@ -106,8 +106,6 @@ To edit an appointment:
 3. Select the programme, for example **Flu**.
 4. Select **Edit appointment**.
 
-![Screenshot of Edit child’s appointment details.](/assets/images/change-appointment-details.png)
-
 Then **Change** the relevant details.
 
 ## Cancelling a clinic appointment
