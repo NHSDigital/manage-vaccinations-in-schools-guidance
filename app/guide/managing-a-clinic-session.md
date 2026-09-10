@@ -58,8 +58,6 @@ The parent will get a message confirming the appointment is cancelled if the app
 
 Before saving changes, you will see a warning about cancellations. Appointments are cancelled in reverse order of booking.
 
-![Screenshot of cancellation warning.](/assets/images/cancellation-warning.png)
-
 ## Cancelling a clinic session
 
 You can cancel a session if it has not started yet. To do this:
