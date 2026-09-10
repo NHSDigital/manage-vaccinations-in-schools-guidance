@@ -16,8 +16,6 @@ To add a vaccine batch:
 
 Select the name of a vaccine to see further details, including the manufacturer, the relevant health questions and side effects.
 
-![Screenshot of vaccine details card.](/assets/images/vaccine-details.png)
-
 ## Archiving batches
 
 When all vaccines in a batch have been used, or the batch has expired, you should archive it. Archiving a batch removes it from the list of vaccines nurses can select when recording vaccinations.
