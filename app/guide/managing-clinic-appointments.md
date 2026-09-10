@@ -131,7 +131,7 @@ You can create a clinic appointment for a child on behalf of their parent or gua
 2. Find the child and select their name to open their record.
 3. In the **Vaccination programmes** section of their record, select **Book into a clinic**.
 
-![Screenshot of appointments list.](/assets/images/clinics-book-into-clinic.png)
+   ![Screenshot of appointments list.](/assets/images/clinics-book-into-clinic.png)
 
 4. Select the vaccinations to include in the appointment, then **Continue**. Mavis only shows vaccinations the child is eligible for and is not already scheduled to have at an upcoming school session.
 5. Say whether the child needs extra support during vaccination sessions, then select **Continue**.
@@ -141,9 +141,6 @@ You can create a clinic appointment for a child on behalf of their parent or gua
 9. Select an appointment date, then **Continue**.
 10. Select a time range, then **Continue**.
 11. Select an appointment time, then **Continue**. Mavis shows how many appointments are available at each time.
-
-![Screenshot of appointments list.](/assets/images/clinics-choose-appointment-time.png)
-
 12. Select the contact for the appointment, then **Continue**. This person will receive the booking confirmation and appointment reminders. You can select an existing contact or enter a new one.
 13. Check the contact details. You can update them if needed. Select **Continue**.
 14. Check the child, appointment and contact details. Use the **Change** links if you need to update anything.
