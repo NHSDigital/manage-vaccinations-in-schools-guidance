@@ -11,8 +11,7 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.6",
     "@x-govuk/nhsuk-eleventy-plugin": "^1.3.0",
-    "dotenv": "^17.4.2",
-    "notifications-node-client": "^8.4.0"
+    "dotenv": "^17.4.2"
   },
   "devDependencies": {
     "prettier": "^3.8.4"
