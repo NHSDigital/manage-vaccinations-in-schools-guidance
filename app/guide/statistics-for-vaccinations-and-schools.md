@@ -23,6 +23,7 @@ You can see:
 - how many children have been vaccinated by your team
 - how many children have been vaccinated elsewhere (for example, at a GP practice or by another SAIS team)
 - how many vaccinations your team gave each month in schools and community clinics
+- how many children were vaccinated before the selected academic year (this does not apply to flu)
 
 You can use filters to view data for specific programmes, genders and year groups.
 
