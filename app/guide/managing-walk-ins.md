@@ -38,9 +38,6 @@ Mavis adds the child to your session.
 If the child needs a vaccine that you have in stock but is not scheduled for this session, you can create a new clinic session and add children to it - see [Creating a clinic session](/guide/creating-a-clinic-session/).
 
 1. On the session details card, select **Edit session**
-
-![Screenshot of a clinic session details card](/assets/images/clinic-session-details-card.png)
-
 2. On the Programmes row, select **Change**.
 3. Select the programme you need to add and **Continue**.
 4. Select **Save changes**.
