@@ -52,9 +52,6 @@ To add a school site:
 2. Select **Schools** under the **Your team** heading.
 3. Select **Add a new school site**.
 4. Search for the existing school by typing its name in the search field.
-
-![Screenshot of form to enter details of a new site](/assets/images/add-site.png)
-
 5. Add the name of the site, adjust the address if necessary, and select **Continue**.
 6. You’ll see the pre-selected year groups for that site. You can deselect any year groups and/or select additional ones as necessary.
 7. Check the details. Select **Back** if you need to change the name or address of the new site, or **Change parent school** if you need to add this site to a different school.
