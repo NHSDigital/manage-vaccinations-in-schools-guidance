@@ -18,8 +18,6 @@ To view children booked into a session, select the programme you’re interested
 
 The **Appointments** session navigation link shows the current appointments booked for the session.
 
-![Screenshot of appointments booked for the session.](/assets/images/appointments-tab.png)
-
 Each appointment shows the child’s name as a link.
 
 If the appointment does not need matching to a child record, the link takes you to the child’s session record. This is where you can check and record information such as triage and consent, and add notes about the appointment. During the session, you can register attendance if that’s enabled for your team.
