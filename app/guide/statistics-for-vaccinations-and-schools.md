@@ -30,7 +30,7 @@ You can use filters to view data for specific programmes, genders and year group
 > [!NOTE]
 > We define **cohort** as all children who are eligible for the vaccine according to their academic year group, whether or not they have already been vaccinated.
 
-![Screenshot of the vaccinations dashboard.](/assets/images/reports-dashboards-vaccinations.png)
+![Screenshot of the vaccinations dashboard.](/assets/images/vaccinations-dashboard.png)
 
 ## Consent dashboard
 
