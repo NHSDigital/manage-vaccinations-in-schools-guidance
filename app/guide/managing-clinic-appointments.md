@@ -84,8 +84,6 @@ To do this:
 
 Mavis creates the child record and links it to the clinic appointment.
 
-![Screenshot of appointments list.](/assets/images/clinics-create-new-child-record-confirm.png)
-
 ### Archive an unmatched appointment
 
 You can archive an unmatched appointment if it's not needed, for example, if it’s a duplicate or was created in error.
