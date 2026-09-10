@@ -25,8 +25,6 @@ To add the child to your session:
 
 If yours is the only clinic session in progress, check that this is the child you want to add to this session and select **Add to clinic**.
 
-![Screenshot of page showing add to clinic button](/assets/images/add-to-clinic.png)
-
 Mavis adds the child to your session.
 
 ## Multiple sessions in progress
