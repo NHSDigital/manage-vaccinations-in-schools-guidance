@@ -72,9 +72,7 @@ To send clinic invitations to these children:
 2. In each school session, select the **Send clinic invitations** link (in the **Action required** section). This will show you a summary of how many invitations will be sent out.
 3. Select **Send clinic invitations**. Invitations are sent immediately.
 
-[! Screenshot of Send clinic invitations link.](/assets/images/send-clinic-invitations-link.png)
-
-[! Screenshot of clinic invitations summary page.](/assets/images/send-clinic-invitations-summary.png)
+![Screenshot of clinic invitations summary page.](/assets/images/send-clinic-invitations-summary.png)
 
 ## Inviting individual children from a child record
 
@@ -88,8 +86,6 @@ You can invite individual children to a clinic directly from their record in Mav
 The **Invite to upcoming clinic session** button only shows if the child is due the vaccination.
 
 If the child has already been invited, the button will show as **Send clinic invitation reminder**.
-
-[! Screenshot of Invite to upcoming clinic session.](/assets/images/invite-to-upcoming-clinic-session.png)
 
 ## If the child is home educated or their school is unknown
 
