@@ -169,7 +169,7 @@ From the clinic session overview you can book an appointment using:
 - an available appointment slot
 - the **Children in session** navigation link
 
-###Using an available appointment slot
+### Using an available appointment slot
 
 ![Screenshot of appointments available.](/assets/images/bookable-appointments-in-session.png)
 
@@ -177,7 +177,7 @@ From the clinic session overview you can book an appointment using:
 2. Select **Book** for the relevant slot.
 3. Complete the appointment booking form.
 
-###Using the Children in session link
+### Using the Children in session link
 
 ![Screenshot of add child to clinic link.](/assets/images/add-child-to-clinic.png)
 
