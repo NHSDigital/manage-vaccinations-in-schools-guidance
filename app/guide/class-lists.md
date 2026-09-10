@@ -143,9 +143,6 @@ For example, you might need to do this if the parent details in your CSV file ar
 1. Go to **Imports** and select the **Completed imports** tab.
 2. Select the relevant import to view its details.
 3. At the bottom of the details, select **Remove all parent-child relationships from import**.
-
-![Screenshot of remove parent-child relationships button](/assets/images/remove-parent-child-relationships-button.png)
-
 4. When asked “Are you sure you want to remove all parent-child relationships included in this import”, select **Continue** to confirm, or **Cancel** to stop.
 
 ### If parents have given consent responses
