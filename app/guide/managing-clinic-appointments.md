@@ -165,8 +165,6 @@ From the clinic session overview you can book an appointment using:
 
 ### Using the Children in session link
 
-![Screenshot of add child to clinic link.](/assets/images/add-child-to-clinic.png)
-
 1. Select **Children in session**.
 2. Select **Add a child to this clinic**.
 3. Complete the appointment booking form.
