@@ -57,8 +57,6 @@ To add a school site:
 7. Check the details. Select **Back** if you need to change the name or address of the new site, or **Change parent school** if you need to add this site to a different school.
 8. Select **Add site**.
 
-![Screenshot of overview of team's schools, with one school split into two sites](/assets/images/team-schools-page-with-site.png)
-
 ### Naming a school site
 
 When you name a school site, consider the following points:
