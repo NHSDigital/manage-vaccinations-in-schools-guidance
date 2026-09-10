@@ -197,11 +197,9 @@ If each record contains some correct information:
 
 If the NHS number you provided for a child is different from the NHS number held by the NHS Patient Demographics Service (PDS) (sometimes referred to as ‘the Spine’), Mavis automatically replaces the incorrect NHS number on the child's record with the correct one from PDS.
 
-If this happens, a PDS history link appears beside the NHS number in the child’s record.
+If this happens, a **PDS history** link appears beside the NHS number in the child’s record.
 
-![Screenshot of PDS history link on child record.](/assets/images/pds-history-link.png)
-
-If there are any doubts or queries about the NHS number, you can see how Mavis found it by selecting the PDS history link.
+If there are any doubts or queries about the NHS number, you can see how Mavis found it by selecting the **PDS history** link.
 
 The NHS number lookup history shows the different steps Mavis takes to search for the NHS number, and explains the search methods.
 
