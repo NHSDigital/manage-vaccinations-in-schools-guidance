@@ -34,8 +34,6 @@ Prescribers can quickly add PSDs in bulk to children who meet the right criteria
 
 A message at the top of the screen tells you how many children there are with consent for the nasal flu vaccine who do not require triage and do not yet have a PSD in place.
 
-![Screenshot of the add PSDs confirmation message.](/assets/images/add-psd-confirmation.png)
-
 To add PSDs in bulk to these children:
 
 1. Select **Add new PSDs**.
