@@ -22,7 +22,6 @@ To view appointments for a session:
 3. Find and select the clinic session you’re interested in.
 4. Select the **Appointments** session navigation link.
 
-
 You’ll see:
 
 - all appointment slots for the session
@@ -54,7 +53,6 @@ To see unmatched appointments for a particular clinic session:
 4. On the overview, select the **Unmatched clinic appointments** link in the **Action required** section.
 
 ![Screenshot of appointments list.](/assets/images/clinics-unmatched-appointments-session.png)
-
 
 Both routes display a list of unmatched clinic appointments where you can match or archive appointments, or create a new child record and link it to the appointment.
 
@@ -162,7 +160,7 @@ The selected contact will receive confirmation of the appointment immediately.
 
 ## Booking an appointment directly from a clinic session
 
-You can book an appointment directly from a clinic session that is scheduled or in progress. This can help save time, such as when transferring bookings from another system. 
+You can book an appointment directly from a clinic session that is scheduled or in progress. This can help save time, such as when transferring bookings from another system.
 
 From the clinic session overview you can book an appointment using:
 

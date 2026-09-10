@@ -3,6 +3,7 @@ title: Managing a clinic session
 theme: Community clinics
 order: 67
 ---
+
 [[toc]]
 
 You can manage a clinic session using the session overview.
@@ -15,11 +16,11 @@ To view children booked into a session, select the programme you’re interested
 
 ## Appointments
 
-The **Appointments** session navigation link shows the current appointments booked for the session. 
+The **Appointments** session navigation link shows the current appointments booked for the session.
 
 ![Screenshot of appointments booked for the session.](/assets/images/appointments-tab.png)
 
-Each appointment shows the child’s name as a link. 
+Each appointment shows the child’s name as a link.
 
 If the appointment does not need matching to a child record, the link takes you to the child’s session record. This is where you can check and record information such as triage and consent, and add notes about the appointment. During the session, you can register attendance if that’s enabled for your team.
 
@@ -69,7 +70,7 @@ You can cancel a session if it has not started yet. To do this:
 
 1. Select the Go to **Sessions** top-level navigation link.
 2. Find the session you want to cancel and select it.
-3. On the session overview, in the Session details section, select **Cancel session**. 
+3. On the session overview, in the Session details section, select **Cancel session**.
 
 ### If there are no booked appointments
 
@@ -85,5 +86,4 @@ If you select **Continue** you must select whether the parent gets a rebooking l
 
 ![Screenshot of rebooking question.](/assets/images/offer-rebooking.png)
 
-Select **Continue** to confirm the cancellation. 
-
+Select **Continue** to confirm the cancellation.

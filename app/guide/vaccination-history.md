@@ -21,7 +21,7 @@ Before uploading vaccination records, read:
 
 - [what to upload and when](/guide/what-to-upload-and-when/)
 - [preparing files for upload](/guide/preparing-files-for-upload/)
-  
+
 ## What vaccination history you need to upload
 
 How much vaccination history you need to upload depends on the programme.
@@ -95,7 +95,7 @@ For each of your vaccination record CSV files:
 
 You can see whether your file successfully uploaded by checking its status in the list of uploads.
 
-Once the file has finished uploading, it will no longer be visible in the **Incomplete uploads** tab. It will now be in the **Completed imports** tab. 
+Once the file has finished uploading, it will no longer be visible in the **Incomplete uploads** tab. It will now be in the **Completed imports** tab.
 
 ### Upload errors
 

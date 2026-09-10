@@ -19,7 +19,7 @@ Once your locations are set up:
 
 ## Vaccination periods
 
-Next, you need to create a vaccination period for the session. Enter the start and end time for the vaccination period.  
+Next, you need to create a vaccination period for the session. Enter the start and end time for the vaccination period.
 
 Create more than 1 vaccination period if you want to:
 
@@ -50,11 +50,10 @@ When the number will not vary by vaccination period:
 
 ## Remaining steps
 
-Next, enter how long an appointment lasts, then **Continue**. 
+Next, enter how long an appointment lasts, then **Continue**.
 
 Check and confirm your answers. On this page, you can also change your team’s default setting for registering children’s attendance.
 
 ![Screenshot of registering attendance answer.](/assets/images/creating-clinic-session-register-attendance.png)
 
 **Continue** takes you to the session overview, where you can manage a clinic session.
-

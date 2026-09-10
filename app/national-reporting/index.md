@@ -26,7 +26,7 @@ You are responsible for ensuring that you follow your team’s policies and proc
 
 Where a safeguarding concern is identified, it should be managed through your usual safeguarding process and recorded in line with your SAIS team’s policy and processes.
 
-You should use professional judgement when reviewing or editing vaccination records. 
+You should use professional judgement when reviewing or editing vaccination records.
 
 You are also responsible for ensuring that personal data is handled appropriately. This includes:
 

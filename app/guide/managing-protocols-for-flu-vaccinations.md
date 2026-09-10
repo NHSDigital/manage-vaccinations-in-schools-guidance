@@ -9,7 +9,7 @@ Protocols (also called ‘directions’) are official rules that let healthcare 
 - patient group direction (PGD)
 - vaccine group direction (VGD)
 - patient specific direction (PSD)
-  
+
 ## Patient group direction (PGD)
 
 Under a PGD, only registered nurses and health professionals such as pharmacists and paramedics can vaccinate. They can give either the injected vaccine or nasal spray.
@@ -20,7 +20,7 @@ Under a VGD, nurses, health professionals and healthcare assistants (HCAs) can g
 
 If you’re a nurse giving the vaccination, you should record the practitioner (who assessed the child), the vaccinator (who prepared and administered the vaccine), and the recorder as yourself.
 
-If you’re an HCA giving the vaccination, a nurse must assess the child first. 
+If you’re an HCA giving the vaccination, a nurse must assess the child first.
 
 Then you select:
 

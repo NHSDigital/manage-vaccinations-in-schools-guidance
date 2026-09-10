@@ -18,7 +18,7 @@ You can also download a list of school moves that have been reviewed and confirm
 To review a school move:
 
 1. Go to **Review** in the main navigation.
-2. Select the **School moves** tab. 
+2. Select the **School moves** tab.
 3. Select **Review** against a school move.
 4. Check the information provided: the new school is shown on the left with the updated information highlighted.
 5. Confirm or ignore the change of school for each child as appropriate.
@@ -27,14 +27,14 @@ To review a school move:
 
 ## Downloading confirmed school moves
 
-You can download a CSV file of school moves that have been reviewed and confirmed. 
+You can download a CSV file of school moves that have been reviewed and confirmed.
 
 To download confirmed school moves:
 
 1. Go to **Review** in the main navigation.
-2. Select the **School moves** tab. 
-3. Select **Download school moves**. 
-4. Enter the date range you want the download to cover, or leave the dates blank to download all confirmed school moves.  
+2. Select the **School moves** tab.
+3. Select **Download school moves**.
+4. Enter the date range you want the download to cover, or leave the dates blank to download all confirmed school moves.
 5. Select **Continue**.
 6. Check the details of your download. To change the dates, select **Change**.
 7. Select **Download CSV**

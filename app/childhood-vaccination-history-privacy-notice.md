@@ -6,7 +6,7 @@ title: "Childhood vaccination history alpha: Privacy notice"
 
 ## Background
 
-Availability of up-to-date information will inform and empower parents and guardians to manage their children’s health.  Having access to an accurate, understandable and complete vaccination history is vital for the delivery of both routine vaccination programmes and targeted catch-up campaigns. It informs clinical providers which children are eligible to be offered a vaccination and enables commissioners to plan programmes, monitor uptake and, in partnership with the UKHSA, understand coverage and efficacy.
+Availability of up-to-date information will inform and empower parents and guardians to manage their children’s health. Having access to an accurate, understandable and complete vaccination history is vital for the delivery of both routine vaccination programmes and targeted catch-up campaigns. It informs clinical providers which children are eligible to be offered a vaccination and enables commissioners to plan programmes, monitor uptake and, in partnership with the UKHSA, understand coverage and efficacy.
 
 ## What is NHS England doing?
 
@@ -53,7 +53,7 @@ If parents/guardians are not selected for an interview, they will not hear from 
 
 Parents/guardians can withdraw consent for us to access the child’s record for this purpose at any time by emailing [england.mavisresearch@nhs.net](mailto:england.mavisresearch@nhs.net).
 
-If parents/guardians withdraw, we will delete the consent flag from the child’s record and will no longer be able to look at the child’s record in Mavis in this project.  The vaccination records will remain in the Mavis system as they are legally held for that child’s care – but we will no longer use them in this work.
+If parents/guardians withdraw, we will delete the consent flag from the child’s record and will no longer be able to look at the child’s record in Mavis in this project. The vaccination records will remain in the Mavis system as they are legally held for that child’s care – but we will no longer use them in this work.
 
 ## Parent/Guardian data and privacy
 

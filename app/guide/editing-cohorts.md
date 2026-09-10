@@ -32,16 +32,15 @@ This includes the child’s vaccination record, any sessions they’ve been adde
 4. If you need to change their NHS number, preferred name or school, select **Change**
 
 ![Screenshot of page to edit a child record.](/assets/images/edit-child-record.png)
-  
+
 > [!NOTE]
 > To change a child’s school, after selecting **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-educated for home-educated children. If the new school is outside your SAIS area, archive the child record.
-     
+
 5. Edit the information and select **Continue**.
 
 If you add a preferred name it will appear as (known as ...) beside their name in summary cards.
 
 ![Screenshot of a summary card.](/assets/images/summary-card.png)
-
 
 ## Contacts
 

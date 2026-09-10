@@ -13,7 +13,7 @@ If a child comes to your clinic session without an appointment, you can vaccinat
 
 To add the child to your session:
 
-1. Select **Children** in the main navigation. 
+1. Select **Children** in the main navigation.
 2. Search for the child and select their name to open their record.
 3. If the child cannot be found you’ll need to upload the child’s details in a cohort upload - see [Uploading cohorts](/guide/importing-cohorts/).
 4. Select the tab for the appropriate vaccination programme.
@@ -48,4 +48,3 @@ If the child needs a vaccine that you have in stock but is not scheduled for thi
 2. On the Programmes row, select **Change**.
 3. Select the programme you need to add and **Continue**.
 4. Select **Save changes**.
-

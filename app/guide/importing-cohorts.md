@@ -14,9 +14,9 @@ eleventyComputed:
 
 When your team first starts using Mavis, you need to upload records for all children in your area.
 
-Once the records are in Mavis, they stay there. 
+Once the records are in Mavis, they stay there.
 
-At the start of each school year, upload records for children entering Reception (Year 0), to keep your cohort up to date. 
+At the start of each school year, upload records for children entering Reception (Year 0), to keep your cohort up to date.
 
 If your team gives flu vaccinations to nursery children, also upload records for children in the 1st or 2nd year of nursery who are not already in Mavis.
 
@@ -57,7 +57,6 @@ This field defaults to no if you leave it blank.
 
 You do not need to reupload records for young people who are not in a clinical risk group.
 
-  
 ## What details to include
 
 You must include the following information for each child in the cohort:
@@ -78,7 +77,6 @@ For a full list of details you can upload, see the cohort upload template.
 }) }}
 
 If you do not include a child’s NHS number, we’ll retrieve it from the Personal Demographics Service (PDS) - Mavis [automatically searches PDS](importing-cohorts.md#see-how-mavis-uses-pds-to-find-nhs-numbers) to find a match for the child, using the information you’ve provided (their date of birth must be correct for this to work).
-
 
 ## How to upload a cohort file
 

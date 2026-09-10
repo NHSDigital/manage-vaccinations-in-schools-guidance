@@ -61,11 +61,11 @@ To view the records sent to CarePlus:
 
 1. Go to **Reports**.
 2. Select the CarePlus reports link in the Reports navigation.
-   
+
 ![Screenshot of the CarePlus reports link.](/assets/images/careplus-reports-link.png)
 
 > [!NOTE]
->Only users with access will see the CarePlus reports link.
+> Only users with access will see the CarePlus reports link.
 
 3. From the list of CarePlus reports you can view any report by selecting the date.
 

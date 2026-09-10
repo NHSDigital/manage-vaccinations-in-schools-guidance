@@ -3,14 +3,16 @@ title: Inviting children to a clinic session
 theme: Community clinics
 order: 69
 ---
+
 [[toc]]
 
-To invite children to a clinic session, you can: 
+To invite children to a clinic session, you can:
 
 - use the **Eligible for clinic** filter in **Children** in the main navigation
 - share a booking link for your clinic sessions (for example, in an advert so that any parent can make an appointment for their child)
 
 You can also:
+
 - invite them from a school session overview (if they’ve missed school vaccination sessions)
 - invite them individually from a child record
 - invite children whose school is unknown or who are home educated
@@ -23,7 +25,7 @@ To use the filter:
 
 1. Select **Children** in the main navigation.
 2. Select **Eligible for clinic**, the relevant vaccination programmes, and any other filters you need.
-3. Select **Update results**. 
+3. Select **Update results**.
 4. Select **Invite x children to clinic** (x is the number of children).
 
 ![Screenshot of Eligible for clinic filter.](/assets/images/eligible-for-clinic-filter.png)
@@ -41,7 +43,7 @@ Mavis uses all of the following rules to work out, for each programme, which chi
 - they are not contraindicated
 - their vaccination is not being delayed
 - consent has been given or is missing
-- a parent told us they did not consent, but requested a follow-up call from a SAIS team 
+- a parent told us they did not consent, but requested a follow-up call from a SAIS team
 - their contact details are in Mavis
 
 One of the following rules must also apply:
@@ -54,7 +56,7 @@ One of the following rules must also apply:
 
 1. Go to **Sessions**.
 2. Select **Share a booking link for clinics**.
-3. Select which programmes to include in the invitation, then **Continue**. You will then see the invitation link. 
+3. Select which programmes to include in the invitation, then **Continue**. You will then see the invitation link.
 
 **Copy link** and paste it where you need to.
 
@@ -89,14 +91,14 @@ If the child has already been invited, the button will show as **Send clinic inv
 
 [! Screenshot of Invite to upcoming clinic session.](/assets/images/invite-to-upcoming-clinic-session.png)
 
-## If the child is home educated or their school is unknown 
+## If the child is home educated or their school is unknown
 
 Mavis no longer sends automatic clinic invitations to children who are home educated or have no known school.
 You can manually send clinic invitations in bulk to the parents of children who:
 
 - are home educated or have no known school
 - are due a vaccination for the programme you select
-- have not yet been invited to a clinic  
+- have not yet been invited to a clinic
 
 1. From the dashboard, go to **Schools**.
 2. Search for then select **Home-educated** or **Unknown school**, as needed.
