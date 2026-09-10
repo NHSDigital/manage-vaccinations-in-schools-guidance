@@ -31,8 +31,6 @@ Mavis adds the child to your session.
 
 If there are 2 or more clinic sessions in progress, select the clinic you want to add this child to and **Continue**.
 
-![Screenshot of multiple clinic sessions](/assets/images/if-multiple-clinic-sessions.png)
-
 Mavis adds the child to your session.
 
 ## Programme not scheduled to run in this session
