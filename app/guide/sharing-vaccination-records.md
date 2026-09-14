@@ -21,7 +21,7 @@ Once a child’s record has been added to Mavis, any school age vaccinations the
 
 The child’s vaccination record in Mavis will show a **Synced** label when it was successfully synced with NHS England systems.
 
-![Screenshot of synced vaccination record.](/assets/images/fhir-imms-synced.png)
+![Screenshot of synced vaccination record.](/assets/images/vaccination-synced.png)
 
 The record will show a **Sync pending** label if it’s in progress but not yet synced.
 
@@ -46,7 +46,7 @@ If the NHS number is missing, the record:
 
 If a child self-consents under Gillick competence and asks for their parents not to be informed, the record will not be synced and you must let the child’s GP know they were vaccinated. These records will be flagged to Superusers as an important notice - see [Checking important notices](notices.md).
 
-![Screenshot of a vaccination record that is not synced.](/assets/images/fhir-imms-not-synced.png)
+![Screenshot of a vaccination record that is not synced.](/assets/images/vaccination-not-synced.png)
 
 ## Sharing records with CHIS
 
@@ -67,7 +67,7 @@ To view the records sent to CarePlus:
 
 3. From the list of CarePlus reports you can view any report by selecting the date.
 
-![Screenshot of a CarePlus reports list.](/assets/images/careplus-reports.png)
+![Screenshot of a CarePlus reports list.](/assets/images/reports-care-plus.png)
 
 If your CHIS team does not use CarePlus, you must share vaccination records for all programmes with CHIS manually.
 
