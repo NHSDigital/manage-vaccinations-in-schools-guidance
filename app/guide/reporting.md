@@ -21,7 +21,7 @@ To download a report:
 4. Select the vaccination programme you want to download data for, and any other relevant options.
 5. Select the **Download vaccination data** button to confirm your choices and download the report.
 
-![Screenshot of the Download data tab.](/assets/images/reports-download.png)
+![Screenshot of the Download data tab.](/assets/images/reports-download-data.png)
 
 ## Child-level vaccination reports
 
