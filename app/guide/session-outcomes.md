@@ -8,4 +8,4 @@ From a session page, click on the **Children in session** tab to see the vaccina
 
 Once all dates of a session have been completed, you can invite all unvaccinated children from this school to a community clinic. This is covered in the ‘Community clinics’ section of this guide.
 
-![Screenshot of children page for a completed session.](/assets/images/vaccination-outcomes.png)
+![Screenshot of children page for a completed session.](/assets/images/session-patients-outcomes.png)
