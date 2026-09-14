@@ -8,7 +8,7 @@ order: 67
 
 You can manage a clinic session using the session overview.
 
-![Screenshot of session overview.](/assets/images/session-overview.png)
+![Screenshot of session overview.](/assets/images/session-clinic-overview.png)
 
 ## Viewing children who are booked into a session
 
@@ -74,10 +74,10 @@ If there are no booked appointments, you will be asked to confirm the cancellati
 
 If there are booked appointments, you will see an alert showing how many appointments are booked and that parents will receive a message about the cancellation.
 
-![Screenshot of appointment warning.](/assets/images/appointments-warning.png)
+![Screenshot of appointment warning.](/assets/images/session-clinic-appointments-warning.png)
 
 If you select **Continue** you must select whether the parent gets a rebooking link in the cancellation message or an invitation later.
 
-![Screenshot of rebooking question.](/assets/images/offer-rebooking.png)
+![Screenshot of rebooking question.](/assets/images/session-clinic-offer-rebooking.png)
 
 Select **Continue** to confirm the cancellation.
