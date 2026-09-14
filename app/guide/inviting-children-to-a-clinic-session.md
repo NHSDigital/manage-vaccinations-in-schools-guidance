@@ -28,11 +28,11 @@ To use the filter:
 3. Select **Update results**.
 4. Select **Invite x children to clinic** (x is the number of children).
 
-![Screenshot of Eligible for clinic filter.](/assets/images/eligible-for-clinic-filter.png)
+![Screenshot of Eligible for clinic filter.](/assets/images/patients-eligible-for-clinic.png)
 
 To confirm, select **Send clinic invitations**. If you previously selected multiple programmes, you will need to confirm the programmes for the invitations. No invitations will be sent to children who do not have contact details in Mavis.
 
-![Screenshot of programme confirmation page.](/assets/images/select-programmes-for-invitations.png)
+![Screenshot of programme confirmation page.](/assets/images/patients-invite-to-clinic.png)
 
 ### How the filter works
 
@@ -60,7 +60,7 @@ One of the following rules must also apply:
 
 **Copy link** and paste it where you need to.
 
-![Screenshot of invitation link.](/assets/images/share-booking-link.png)
+![Screenshot of invitation link.](/assets/images/sessions-clinic-link.png)
 
 ## Inviting children from a school session overview
 
