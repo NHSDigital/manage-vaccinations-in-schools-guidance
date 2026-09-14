@@ -15,7 +15,7 @@ To find children who need follow-up:
 3. Find the session you’re interested in and select it.
 4. If any children need follow-up, you’ll see this in the **Action required** section on the session overview
 
-![Screenshot of session overview with follow-up request link.](/assets/images/session-overview-follow-up.png)
+   ![Screenshot of session overview with follow-up request link.](/assets/images/session-overview-action-required.png)
 
 5. Select the link (for example, **4 children with follow-up requests**) to see a list of those children.
 
@@ -24,14 +24,13 @@ To find children who need follow-up:
 When contacting a parent who requested follow-up:
 
 1. Click on the child’s name to open their record.
-2. Click on the name of the parent who requested follow-up.
-3. Select **Follow up** at the top of the consent response.
+2. Select **Follow up** at the top of the consent response.
 
-![Screenshot of follow up link on consent response.](/assets/images/follow-up-sais-journey.png)
+![Screenshot of follow up link on consent response.](/assets/images/patient-session-consent-follow-up-link.png)
 
 Mavis asks whether the parent’s refusal still stands after your follow-up conversation.
 
-![Screenshot of follow-up decision options.](/assets/images/follow-up-decision.png)
+![Screenshot of follow-up decision options.](/assets/images/patient-session-consent-follow-up.png)
 
 If the parent still refuses the vaccination, select **Yes**. The child’s consent status changes from ‘Has a refusal - follow-up requested’ to ‘Has a refusal - parent refused’.
 
