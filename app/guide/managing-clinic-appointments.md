@@ -28,7 +28,7 @@ You’ll see:
 - the names of children with booked appointments
 - the vaccination programmes they're booked for
 
-![Screenshot of appointments list.](/assets/images/clinics-appointments-list.png)
+![Screenshot of appointments list.](/assets/images/session-clinic-appointments.png)
 
 ## Resolving unmatched clinic appointments
 
@@ -43,7 +43,7 @@ To see all unmatched clinic appointments for your cohort:
 1. Select **Review** in the main navigation.
 2. Select **Clinic appointments**.
 
-![Screenshot of appointments list.](/assets/images/clinics-unmatched-appointments-review.png)
+![Screenshot of unmatched clinic appointments.](/assets/images/review-clinic-appointments.png)
 
 To see unmatched appointments for a particular clinic session:
 
@@ -52,7 +52,7 @@ To see unmatched appointments for a particular clinic session:
 3. Find and select the clinic session.
 4. On the overview, select the **Unmatched clinic appointments** link in the **Action required** section.
 
-![Screenshot of appointments list.](/assets/images/clinics-unmatched-appointments-session.png)
+![Screenshot of appointments list.](/assets/images/session-clinic-unmatched-appointments.png)
 
 Both routes display a list of unmatched clinic appointments where you can match or archive appointments, or create a new child record and link it to the appointment.
 
@@ -66,7 +66,7 @@ From the list of unmatched clinic appointments:
 4. Mavis displays the child record you’ve selected next to the clinic appointment details. Compare both sets of details.
 5. If you believe it’s a match, select **Link clinic appointment with record**.
 
-![Screenshot of appointments list.](/assets/images/clinics-matching-appointment.png)
+![Screenshot of appointments list.](/assets/images/session-clinic-unmatched-appointment-link.png)
 
 ### Create a new child record
 
@@ -77,9 +77,6 @@ To do this:
 1. Find the unmatched appointment and select **Match**.
 2. On the search page, select **View full clinic appointment**.
 3. Select **Create new record**.
-
-![Screenshot of appointments list.](/assets/images/clinics-create-new-child-record.png)
-
 4. Check the details that will be used to create the child record. If you’re happy to go ahead, select **Create a new record from clinic appointment**.
 
 Mavis creates the child record and links it to the clinic appointment.
@@ -117,7 +114,7 @@ You can cancel a child's clinic appointment if they no longer need the vaccinati
 3. Find the child whose appointment you want to cancel and select their name.
 4. In the **Clinic appointment** section, select **Cancel appointment**.
 
-![Screenshot of appointments list.](/assets/images/clinics-cancel-appointment.png)
+   ![Screenshot of Clinic appointment card.](/assets/images/patient-session-clinic-appointment.png)
 
 5. Choose whether you want the cancellation message sent to the parent to include a booking link so they can book another appointment.
 6. Select **Continue**.
@@ -131,7 +128,7 @@ You can create a clinic appointment for a child on behalf of their parent or gua
 2. Find the child and select their name to open their record.
 3. In the **Vaccination programmes** section of their record, select **Book into a clinic**.
 
-   ![Screenshot of appointments list.](/assets/images/clinics-book-into-clinic.png)
+   ![Screenshot of appointments list.](/assets/images/patient-vaccination-programmes.png)
 
 4. Select the vaccinations to include in the appointment, then **Continue**. Mavis only shows vaccinations the child is eligible for and is not already scheduled to have at an upcoming school session.
 5. Say whether the child needs extra support during vaccination sessions, then select **Continue**.
