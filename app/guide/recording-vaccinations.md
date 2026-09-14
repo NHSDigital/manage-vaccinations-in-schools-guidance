@@ -22,7 +22,7 @@ The **Record vaccinations** tab only shows children who have consent to be vacci
 > [!NOTE]
 > If you’re offering more than one vaccination programme at this session, make sure you select the relevant programme tab, near the top of the screen.
 
-![Screenshot of programme tabs on the patient session page.](/assets/images/session-patient-status.png)
+![Screenshot of programme tabs on the patient session page.](/assets/images/patient-session-status.png)
 
 ## Review the child’s details and do pre-screening checks
 
@@ -34,7 +34,7 @@ Once you’ve reviewed the information on the page, you’ll need to confirm the
 4. If you think the child is ready to vaccinate, select **Yes**.
 5. Select the vaccination method and **Continue**.
 
-![Screenshot of pre-screening questions on a patient record.](/assets/images/session-child-pre-screen.png 'Mavis will ask a series of pre-screening questions before you record a vaccination.')
+![Screenshot of pre-screening questions on a patient record.](/assets/images/patient-session-record-vaccination.png 'Mavis will ask a series of pre-screening questions before you record a vaccination.')
 
 ## Record the outcome
 
@@ -57,6 +57,6 @@ If the child was not vaccinated:
 
 You can see how many vaccinations you’ve given today by selecting **Your vaccinations today** near the top of the Record vaccinations tab.
 
-![Screenshot of tally of vaccinations given by the user today.](/assets/images/record-vaccinations-tab-with-tally.png)
+![Screenshot of tally of vaccinations given by the user today.](/assets/images/session-record-vaccinations.png)
 
 You can see how many vaccinations have been given by the team as a whole in the **Session overview** tab. (See [Keeping track of sessions](keeping-track-of-sessions.md))
