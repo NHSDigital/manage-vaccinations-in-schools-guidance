@@ -96,7 +96,7 @@ You can see whether your file was successfully uploaded by checking its status i
 > [!NOTE]
 > Upload times can vary - refresh the screen to see the latest status.
 
-![Screenshot of uploads table.](/assets/images/import_statuses.png)
+![Screenshot of Imports section.](/assets/images/imports.png)
 
 ### Upload errors
 
@@ -104,7 +104,7 @@ If there are validation issues, Mavis will not import the file. It will stay in 
 
 To view the validation issues, select the file upload’s date and time.
 
-![Screenshot of invalid upload.](/assets/images/invalid_import.png)
+![Screenshot of invalid upload.](/assets/images/import-invalid.png)
 
 You should then:
 
@@ -120,7 +120,7 @@ After the file has uploaded, you must review and approve it before the records a
 
 Select the upload date and time to open the review page.
 
-![Screenshot of review screen for cohort import.](/assets/images/review-cohort-import.png)
+![Screenshot of review screen for cohort import.](/assets/images/import-review-cohort.png)
 
 #### Records already in Mavis (no action needed)
 
@@ -203,4 +203,4 @@ If there are any doubts or queries about the NHS number, you can see how Mavis f
 
 The NHS number lookup history shows the different steps Mavis takes to search for the NHS number, and explains the search methods.
 
-![Screenshot of PDS search history.](/assets/images/pds-search-history.png)
+![Screenshot of PDS search history.](/assets/images/patient-pds-search-history.png)
