@@ -11,6 +11,6 @@ If your team uses patient specific directions (PSDs) for flu vaccinations, you c
 3. Select **Yes** for the PSD question and **Continue**.
 4. Select **Save changes**.
 
-![Screenshot of the session edit page.](/assets/images/edit-session-page-with-protocol-question.png)
+![Screenshot of the session edit page.](/assets/images/session-edit-flu.png)
 
 Any user can turn this feature on for a session. Once it’s enabled, users with a prescriber role can add PSDs to named children (see [Reviewing and adding PSDs](reviewing-and-adding-psds.md)).

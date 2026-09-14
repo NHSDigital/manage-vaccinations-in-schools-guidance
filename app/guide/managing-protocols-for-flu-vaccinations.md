@@ -38,4 +38,4 @@ To select or change a protocol:
 1. Go to the relevant flu session in Mavis and select **Edit session**.
 2. Select **Change** on the Protocol row.
 
-![Screenshot of edit session page with protocol question.](/assets/images/edit-session-page-with-protocol-question.png)
+![Screenshot of edit session page with protocol question.](/assets/images/session-edit-flu.png)
