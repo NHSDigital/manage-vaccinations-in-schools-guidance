@@ -27,7 +27,7 @@ The **Action required** section includes links to any children with:
 
 On the **Children in session** tab, each child’s summary card shows **Needs consent** or **Has a refusal** in their programme status where relevant.
 
-![Screenshot of consent responses for a session.](/assets/images/session-consent-refused.png 'Mavis shows consent responses for a session grouped by status.')
+![Screenshot of consent responses for a session.](/assets/images/session-patients.png 'Mavis shows consent responses for a session grouped by status.')
 
 > [!NOTE]
 > A child only has a status of **Due vaccination** if they have consent to be vaccinated.
@@ -68,7 +68,7 @@ To see unmatched responses for an individual session:
 2. Find the session you’re interested in and select it.
 3. If there are any unmatched responses, this will be flagged in the **Action required** section of the **Overview** tab. Select the link to display them.
 
-![Screenshot of a list of unmatched consent responses.](/assets/images/consent-unmatched-updated.png 'Mavis helps you review unmatched consent responses.')
+![Screenshot of a list of unmatched consent responses.](/assets/images/session-unmatched-consent-responses.png 'Mavis helps you review unmatched consent responses.')
 
 ### Matching responses
 
@@ -78,7 +78,7 @@ Once you’ve displayed the unmatched responses, try to match each child listed 
 2. You’ll be prompted to search for a child record that matches the child’s name. You can search by name or date of birth.
 3. If you think you’ve found a match, select the child's name. This will display details from the consent response next to details from the existing child record.
 
-   ![Screenshot of a potential match for an unmatched consent response.](/assets/images/consent-link.png 'Mavis makes it easy to compare a consent response with a child record.')
+   ![Screenshot of a potential match for an unmatched consent response.](/assets/images/session-unmatched-consent-link.png 'Mavis makes it easy to compare a consent response with a child record.')
 
 4. If you believe it's a match, click **Link response with record**.
 
