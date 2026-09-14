@@ -25,7 +25,7 @@ To register a child as attending or absent:
 4. The **Action required** area on the **Overview** tab shows how many children have not been registered yet. Select the link (for example, **36 children to register**) to see the list of children.
 5. Find the child’s name, then select **Attending** or **Absent**.
 
-![Screenshot of a register attendance page.](/assets/images/session-attendance.png 'You must register attendance before you can record vaccinations.')
+![Screenshot of a register attendance page.](/assets/images/session-patients-registration.png 'You must register attendance before you can record vaccinations.')
 
 You can also find children who still need to be registered on the **Children in session** tab by selecting **Not registered yet** under **Registration status**.
 
