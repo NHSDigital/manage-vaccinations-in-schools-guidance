@@ -12,7 +12,7 @@ eleventyComputed:
 
 Whenever you log in to Mavis, you should go to **Review** and then **Important notices** to see if there’s anything you need to be aware of. These notices are also flagged on the Mavis dashboard.
 
-![Screenshot of important notices page.](/assets/images/notices-updated.png)
+![Screenshot of important notices page.](/assets/images/review-important-notices.png)
 
 ## Types of important notice
 
