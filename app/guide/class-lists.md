@@ -68,7 +68,7 @@ After the file has uploaded, you must review and approve it before the records a
 
 Select the upload date and time to open the review page.
 
-![Screenshot of review screen for class import.](/assets/images/review-class-import.png)
+![Screenshot of review screen for class import.](/assets/images/import-review-class-list.png)
 
 #### Records already in Mavis (no action needed)
 
@@ -159,4 +159,4 @@ If any parents in the import have submitted a consent response for any children 
 
 Select **Continue** to confirm, or **Cancel** to stop.
 
-![Screenshot of remove parent-child relationships confirmation screen](/assets/images/remove-parent-child-relationships-confirm.png)
+![Screenshot of remove parent-child relationships confirmation screen](/assets/images/import-remove-parent-child-relationships.png)
