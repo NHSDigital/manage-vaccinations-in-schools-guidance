@@ -4,7 +4,7 @@ theme: Recording vaccinations
 order: 45
 ---
 
-![Screenshot of vaccines page.](/assets/images/vaccines-new.png)
+![Screenshot of vaccines page.](/assets/images/vaccines.png)
 
 To add a vaccine batch:
 
