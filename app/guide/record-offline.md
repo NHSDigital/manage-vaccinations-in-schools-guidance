@@ -21,7 +21,7 @@ To download the spreadsheet for a session:
 4. Save the spreadsheet to your computer or device.
 5. Share the spreadsheet with all nurses and admins attending the session.
 
-![Screenshot of the offline recording spreadsheet.](/assets/images/offline-spreadsheet.png)
+![Screenshot of the offline recording spreadsheet.](/assets/images/session-offline-spreadsheet.png)
 
 Rows in the spreadsheet can be given a colour to indicate the child's consent status:
 
