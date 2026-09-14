@@ -40,7 +40,7 @@ To edit a vaccination record:
 5. Select **Continue**.
 6. When you’ve made all necessary changes, select **Save changes**.
 
-![Screenshot of child record showing edit vaccination record button.](/assets/images/national-reporting/edit-vaccs-record.png)
+![Screenshot of child record showing edit vaccination record button.](/assets/images/national-reporting/edit-vaccination-record.png)
 
 You can only edit records uploaded by your SAIS team. You can view records uploaded by other teams – for example, if a child moved into your area – but you cannot edit these records.
 
