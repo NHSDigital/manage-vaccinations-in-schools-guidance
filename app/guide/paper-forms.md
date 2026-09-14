@@ -22,7 +22,7 @@ To download a consent form:
 3. At the bottom of the **Overview** tab, in the **Session details** area, you’ll find a link to the consent form for each programme in the session. Select the link to download the form.
 4. You can then print the form and send it to the parent who requested it.
 
-![Screenshot of a session overview page.](/assets/images/session-overview.png)
+![Screenshot of details card on a session overview page.](/assets/images/session-overview-details.png)
 
 ## Entering a consent response into Mavis from a paper form
 
