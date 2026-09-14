@@ -11,7 +11,7 @@ When a new file upload (of a cohort or class list) or a consent response indicat
 
 You can also download a list of school moves that have been reviewed and confirmed.
 
-![Screenshot of page showing children who have moved school.](/assets/images/school-move-list-updated.png 'Mavis shows a list of all the children who have moved school.')
+![Screenshot of page showing children who have moved school.](/assets/images/review-school-moves.png 'Mavis shows a list of all the children who have moved school.')
 
 ## Reviewing school moves
 
@@ -23,7 +23,7 @@ To review a school move:
 4. Check the information provided: the new school is shown on the left with the updated information highlighted.
 5. Confirm or ignore the change of school for each child as appropriate.
 
-![Screenshot of a school move review page.](/assets/images/school-move-review-updated.png 'Mavis shows you the new school and the updated information for each child.')
+![Screenshot of a school move review page.](/assets/images/review-school-moves-review.png 'Mavis shows you the new school and the updated information for each child.')
 
 ## Downloading confirmed school moves
 
