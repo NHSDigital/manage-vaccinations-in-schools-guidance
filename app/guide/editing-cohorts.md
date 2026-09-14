@@ -14,7 +14,7 @@ Once cohort records have been imported into Mavis, you can view, edit and archiv
 
 The child record gives details about the child and their current vaccination status across all programmes.
 
-![Screenshot of a child record.](/assets/images/child-record-new.png)
+![Screenshot of a child record.](/assets/images/patient-record.png)
 
 ### Viewing programme details
 
@@ -22,7 +22,7 @@ Use the programme tabs at the top of the child record page to view more detailed
 
 This includes the child’s vaccination record, any sessions they’ve been added to, and an activity timeline for that programme.
 
-![Screenshot of a programme tab of a child record.](/assets/images/child-record-programme-update-ii.png)
+![Screenshot of a programme tab of a child record.](/assets/images/patient-programme.png)
 
 ## Editing child records
 
@@ -31,22 +31,22 @@ This includes the child’s vaccination record, any sessions they’ve been adde
 3. Select **Edit child record**.
 4. If you need to change their NHS number, preferred name or school, select **Change**
 
-![Screenshot of page to edit a child record.](/assets/images/edit-child-record.png)
+   ![Screenshot of page to edit a child record.](/assets/images/patient-record-edit.png)
 
-> [!NOTE]
-> To change a child’s school, after selecting **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-educated for home-educated children. If the new school is outside your SAIS area, archive the child record.
+   > [!NOTE]
+   > To change a child’s school, after selecting **Change**, start to type the name of their new school. Type Unknown if you do not know the name of the school, or Home-educated for home-educated children. If the new school is outside your SAIS area, archive the child record.
 
 5. Edit the information and select **Continue**.
 
 If you add a preferred name it will appear as (known as ...) beside their name in summary cards.
 
-![Screenshot of a summary card.](/assets/images/summary-card.png)
+![Screenshot of a summary card.](/assets/images/patient-summary-card.png)
 
 ## Contacts
 
 ### Adding contacts
 
-![Screenshot of page to add a contact.](/assets/images/add-new-contact-update.png)
+![Screenshot of page to add a contact.](/assets/images/patient-contacts.png)
 
 1. Go to **Children**.
 2. Search for the child by name and select **Contacts**.
