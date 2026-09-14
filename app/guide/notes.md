@@ -24,7 +24,7 @@ To add notes to a child record:
 3. Select **Add a note to this record** at the bottom of the page.
 4. Enter your note and select **Save note**.
 
-![Screenshot of add note on child record.](/assets/images/add-note-child-record.png)
+![Screenshot of add note on child record.](/assets/images/patient-add-note.png)
 
 ## Add notes to a child’s session record
 
@@ -51,4 +51,4 @@ To add a session note from the **Session activity and notes** tab:
 5. Select **Add a session note**.
 6. Enter your note and select **Save note**.
 
-![Screenshot of add session note on session activity log.](/assets/images/add-note-session-record.png)
+![Screenshot of add session note on session activity log.](/assets/images/patient-session-add-note.png)
