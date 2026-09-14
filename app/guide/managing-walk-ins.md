@@ -19,7 +19,7 @@ To add the child to your session:
 4. Select the tab for the appropriate vaccination programme.
 5. Select **Add to current clinic session**
 
-![Screenshot of page showing add to current clinic session](/assets/images/add-to-current-clinic-session.png)
+![Screenshot of page showing add to current clinic session](/assets/images/patient-programme-add-to-current-clinic-session.png)
 
 ## Only 1 session in progress
 
