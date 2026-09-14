@@ -28,4 +28,4 @@ To vaccinate a child under VGD:
 2. You must select the nurse (the practitioner) who identified and pre-screened the child.
 3. Mavis will automatically assign you as the vaccinator and recorder.
 
-![Screenshot of recording a vaccination as HCA.](/assets/images/record-vaccination-as-hca.png)
+![Screenshot of recording a vaccination as HCA.](/assets/images/patient-session-record-vaccination-as-hca.png)
