@@ -30,7 +30,7 @@ You can use filters to view data for specific programmes, genders and year group
 > [!NOTE]
 > We define **cohort** as all children who are eligible for the vaccine according to their academic year group, whether or not they have already been vaccinated.
 
-![Screenshot of the vaccinations dashboard.](/assets/images/vaccinations-dashboard.png)
+![Screenshot of a vaccinations report.](/assets/images/reports-vaccinations.png)
 
 ## Consent dashboard
 
@@ -56,7 +56,7 @@ You can also see the different methods of response (for example, website, paper,
 
 You can use filters to view data for specific vaccine programmes, genders and year groups.
 
-![Screenshot of the consent dashboard](/assets/images/reports-dashboards-consents.png)
+![Screenshot of a consent report](/assets/images/reports-consent.png)
 
 ## View data for schools in your area
 
@@ -74,7 +74,7 @@ For each school, you can see the number of children:
 
 You can use filters to view data for specific programmes, genders and year groups.
 
-![Screenshot of data for a list of schools.](/assets/images/reports-dashboards-schools.png)
+![Screenshot of a schools report.](/assets/images/reports-schools.png)
 
 Schools are listed in ascending order by unique reference number (URN).
 
@@ -96,6 +96,6 @@ For each local authority, you can see the number of children:
 
 You can use filters to view data for specific programmes, genders and year groups.
 
-![Screenshot of the local authorities dashboard.](/assets/images/reports-dashboards-local-authorities.png)
+![Screenshot of a local authorities report.](/assets/images/reports-local-authorities.png)
 
 This data is also available to download as a CSV report (see [Downloading vaccination reports](reporting.md)).
