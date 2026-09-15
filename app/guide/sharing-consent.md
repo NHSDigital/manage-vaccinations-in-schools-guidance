@@ -9,6 +9,12 @@ eleventyComputed:
 
 If schools have not provided parents’ contact details, they’ll need to send out consent requests and consent reminders that you’ve provided them with.
 
+You can use the following email templates:
+
+- [Initial consent request for flu](../email-templates-for-sais-and-schools/consent-request-for-flu.md)
+- [Initial consent request for HPV](../email-templates-for-sais-and-schools/consent-request-for-hpv.md)
+- [Initial consent request for MenACWY and TD/IPV](../email-templates-for-sais-and-schools/consent-request-for-menacwy-and-td-ipv.md)
+
 You’ll also need to let the schools know when they should send the different messages.
 
 To get the URL for the consent form:
