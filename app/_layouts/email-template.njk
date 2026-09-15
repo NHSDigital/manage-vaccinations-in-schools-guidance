@@ -15,9 +15,11 @@
     description: description
   }) }}
 
-  {{ nhsukInsetText({
-    text: "Replace placeholders with the correct names, dates and URLs."
-  }) }}
+  {% call nhsukInsetText() %}
+    {{ "Replace placeholders with the correct names, dates and URLs." | markdown }}
+
+    {{ "[Find out how to get the consent form URL for each school](/guide/sharing-consent/)." | markdown if isConsentRequest }}
+  {% endcall %}
 
   <article class="app-email nhsuk-u-reading-width">
     <h2 class="app-email__subject">{{ subject | markdown("inline") }}</h2>

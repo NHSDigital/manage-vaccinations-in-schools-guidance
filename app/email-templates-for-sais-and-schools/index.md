@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Email templates for SAIS teams and schools
+eleventyNavigation:
+  parent: Home
+  key: Email templates for SAIS teams and schools
 ---
 
-You can copy and edit the email templates on this page to suit your needs.
-
-You do not have to use them - they’re provided as examples.
-
 ## Emails for SAIS teams to send to schools
+
+Copy and edit the following email templates to suit your needs. You do not have to use them - they’re provided as examples.
 
 - [Request class lists from a school](class-list-request.md)
   Help a school send pupil information in the right format for uploading files into Mavis
@@ -24,3 +25,9 @@ You do not have to use them - they’re provided as examples.
   Let parents know that future consent requests for school vaccinations will come directly from the NHS, not the school.
 - [Ask parents of children flagged as sensitive for consent to vaccinate](consent-email-sensitive.md)
   Ask parents of children with no contact details to complete the consent form
+
+## Consent emails for schools who have not provided contact details
+
+- [Initial consent request for flu](consent-request-for-flu.md)
+- [Initial consent request for HPV](consent-request-for-hpv.md)
+- [Initial consent request for MenACWY and Td/IPV](consent-request-for-menacwy-and-td-ipv.md)
