@@ -14,6 +14,16 @@ The canonical source of content for the user guide is a Google Doc. This documen
 
 The canonical source of content for the XLSX file download templates is Microsoft SharePoint. These documents should be edited first before downloading and updating the files in this repository.
 
+### Screenshots
+
+Screenshots can soon become out of date, to add them only if you need help orientate users or annotate a complex task.
+
+If possible, show sections of the interface instead of the entire page. Again, this helps keep screenshots up to date as other parts of the service change.
+
+Screenshots of full pages should be taken on a Mac with the browser width set to 1200 device pixels and using a 2× screen resolution. The resulting image should be cropped to be 2280px wide.
+
+Screenshots of page elements should have a margin of 40 device pixels (80px).
+
 ## Syncing the live guide back to Google Docs
 
 If the live Markdown guide has changed and the Google Doc needs to be updated to match it, use the `export_to_docx.py` script to generate a Word document from the Markdown files. You can then import the generated `.docx` file into Google Docs and copy the content into the canonical user guide document.
