@@ -24,9 +24,9 @@ You must specify what type of records they are when you upload them, and upload 
 
 ### 1. Upload your cohort as child records
 
-Upload records for all children in your cohort from the first year of Nursery to Year 11.
+Upload records for all children in your cohort from the 1st year of Nursery to Year 11.
 
-If your team gives flu vaccinations to nursery children, include children in the 1st and 2nd years of nursery in your upload.
+If your team gives flu vaccinations to nursery children, include children in the 1st and 2nd years of Nursery in your upload.
 
 You should also include young people in years 12 and 13 at special educational needs (SEN) schools who are in a clinical risk group.
 
