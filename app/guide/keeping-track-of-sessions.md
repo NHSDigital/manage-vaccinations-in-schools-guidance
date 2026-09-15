@@ -24,4 +24,4 @@ You can use the information on this page to help plan the session, monitor progr
 
 Details update automatically when changes are made in Mavis.
 
-![Screenshot of session overview page](/assets/images/school-session-overview.png)
+![Screenshot of session overview page](/assets/images/session-school-overview.png)
