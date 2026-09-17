@@ -21,6 +21,10 @@ To get the URL for the consent form:
 
 1. Go to **Sessions**.
 2. Filter for **Scheduled** sessions.
-3. Click on the link for the relevant school.
+3. Select the relevant school.
 4. Scroll down to the links for the consent forms for the different vaccination programmes.
-5. Click on the relevant consent form link to get the URL you need to use in the email template.
+5. Select the relevant consent form link to get the URL you need to use in the email template.
+
+## Adding MMR/V
+
+If a parent gives consent and your team is also running MMR or MMRV alsongide the programme the parent has consented for, you will then have their email address and can send them a consent form for MMR or MMRV, as appropriate. This is an operational decision for your team.
