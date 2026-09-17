@@ -4,7 +4,7 @@ subject: HPV vaccination for ==child’s first name==
 isConsentRequest: true
 ---
 
-We’re coming to ==school name== on ==session date== to give the human papillomavirus (HPV) vaccine <% unless is_catch_up?== to pupils in Year 8<% end==.
+We’re coming to ==school name== on ==session date== to give the human papillomavirus (HPV) vaccine.
 
 We would like your consent to vaccinate ==child’s first name==. You can give this by filling in our online form.
 
