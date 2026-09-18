@@ -9,7 +9,7 @@ eleventyComputed:
 
 If schools have not provided parents’ contact details, they’ll need to send out consent requests and consent reminders that you’ve provided them with.
 
-You can use the following email templates:
+You can use the following email templates, adapting as necessary before sending them to the school:
 
 - [Initial consent request for flu](../email-templates-for-sais-and-schools/consent-request-for-flu.md)
 - [Initial consent request for HPV](../email-templates-for-sais-and-schools/consent-request-for-hpv.md)
@@ -25,6 +25,6 @@ To get the URL for the consent form:
 4. Scroll down to the links for the consent forms for the different vaccination programmes.
 5. Select the relevant consent form link to get the URL you need to use in the email template.
 
-## Adding MMR/V
+## Adding MMR(V)
 
-If a parent gives consent and your team is also running MMR or MMRV alsongide the programme the parent has consented for, you will then have their email address and can send them a consent form for MMR or MMRV, as appropriate. This is an operational decision for your team.
+If you receive consent for a vaccination and your team is also running MMR or MMRV alsongside that programme, you'll then have the parent's contact details and can send them a consent form for MMR or MMRV, as appropriate. This is an operational decision for your team.
