@@ -16,7 +16,7 @@ When your team first starts using Mavis, you need to upload records for all chil
 
 Once the records are in Mavis, they stay there.
 
-At the start of each school year, upload records for children entering Reception (Year 0), to keep your cohort up to date.
+At the start of each school year, upload records for children entering the 1st or 2nd year of Nursery, to keep your cohort up to date.
 
 If your team gives flu vaccinations to nursery children, also upload records for children in the 1st or 2nd year of nursery who are not already in Mavis.
 
@@ -41,8 +41,8 @@ Include all children and young people, whether they have already been vaccinated
 
 If your team vaccinates nursery children for flu, upload records for children in:
 
-- the first year of nursery – enter -2 in the YEAR_GROUP field
-- the second year of nursery – enter -1 in the YEAR_GROUP field
+- the 1st year of Nursery – enter -2 in the YEAR_GROUP field
+- the 2nd year of Nursery – enter -1 in the YEAR_GROUP field
 
 ### Young people in years 12 and 13 at SEN schools
 
