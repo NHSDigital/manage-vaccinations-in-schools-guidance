@@ -1,21 +1,21 @@
-#!/usr/bin/env python3
+import argparse
+import glob
 import os
 import re
-import glob
+
 import yaml
-import argparse
 from docx import Document
-from docx.shared import RGBColor
 from docx.oxml.ns import qn
-from docx.shared import Pt
+
 
 def set_arial_font(run):
     """Set the font to Arial for a run object."""
-    run.font.name = 'Arial'
-    run._element.rPr.rFonts.set(qn('w:eastAsia'), 'Arial')
-    run._element.rPr.rFonts.set(qn('w:cs'), 'Arial')
-    run._element.rPr.rFonts.set(qn('w:ascii'), 'Arial')
-    run._element.rPr.rFonts.set(qn('w:hAnsi'), 'Arial')
+    run.font.name = "Arial"
+    run._element.rPr.rFonts.set(qn("w:eastAsia"), "Arial")
+    run._element.rPr.rFonts.set(qn("w:cs"), "Arial")
+    run._element.rPr.rFonts.set(qn("w:ascii"), "Arial")
+    run._element.rPr.rFonts.set(qn("w:hAnsi"), "Arial")
+
 
 def extract_frontmatter(content):
     """
@@ -32,8 +32,9 @@ def extract_frontmatter(content):
         except yaml.YAMLError as e:
             print(f"Error parsing YAML: {e}")
             data = None
-        return data, content[match.end():]
+        return data, content[match.end() :]
     return None, content
+
 
 def md_to_docx(input_dir, output_file):
     doc = Document()
@@ -45,7 +46,11 @@ def md_to_docx(input_dir, output_file):
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
         frontmatter, remaining = extract_frontmatter(content)
-        order = frontmatter.get("order") if (frontmatter and "order" in frontmatter) else float('inf')
+        order = (
+            frontmatter.get("order")
+            if (frontmatter and "order" in frontmatter)
+            else float("inf")
+        )
         title = frontmatter.get("title") if frontmatter else None
         group = frontmatter.get("group") if frontmatter else None
         files_with_order.append((order, filepath, remaining, title, group))
@@ -81,9 +86,9 @@ def md_to_docx(input_dir, output_file):
             header_match = re.match(r"^(#{1,6})\s+(.*)$", line)
             if header_match:
                 hashes, text = header_match.groups()
-                level = len(hashes) + 1  # Demote header level by 1
-                if level > 6:  # Cap at level 6
-                    level = 6
+                level = min(
+                    len(hashes) + 1, 6
+                )  # Demote header level by 1, capping at 6
                 heading = doc.add_heading(text.strip(), level=level)
                 for run in heading.runs:
                     set_arial_font(run)
@@ -96,19 +101,20 @@ def md_to_docx(input_dir, output_file):
     doc.save(output_file)
     print(f"Saved DOCX output to {output_file}")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Combine Markdown files (ordered by eleventy front matter) into a single DOCX document"
     )
     parser.add_argument(
         "--input_dir",
         help="Directory containing Markdown (.md) files.",
-        default="../app/guide"
+        default="../app/guide",
     )
     parser.add_argument(
         "--output_file",
         help="Path to the output DOCX file (e.g. output.docx).",
-        default="output.docx"
+        default="output.docx",
     )
     args = parser.parse_args()
     md_to_docx(args.input_dir, args.output_file)

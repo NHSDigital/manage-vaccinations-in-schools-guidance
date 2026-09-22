@@ -5,4 +5,5 @@ requires-python = ">=3.13"
 dependencies = [
     "python-docx>=1.2.0",
     "pyyaml>=6.0.3",
+    "ruff>=0.16.8",
 ]
