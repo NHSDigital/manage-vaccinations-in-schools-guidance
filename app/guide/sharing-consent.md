@@ -15,7 +15,7 @@ You can use the following email templates, adapting as necessary before sending 
 - [Initial consent request for HPV](../email-templates-for-sais-and-schools/consent-request-for-hpv.md)
 - [Initial consent request for MenACWY and TD/IPV](../email-templates-for-sais-and-schools/consent-request-for-menacwy-and-td-ipv.md)
 
-You’ll also need to tell the schools when they should send the requests.
+You’ll also need to tell the schools when they should send the requests. 
 
 To get the URL for the consent form:
 
