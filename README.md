@@ -39,8 +39,8 @@ cd scripts
 Then run:
 
 ```bash
-uv run export_to_docx/export_to_docx.py app/guide/ latest-guide.docx
-uv run export_to_docx/export_to_docx.py app/national-reporting/ latest-nr-guide.docx
+uv run export_to_docx/export_to_docx.py # Defaults to using `../app/guide`
+uv run export_to_docx/export_to_docx.py --input-dir app/national-reporting/ --output-dir latest-nr-guide.docx
 ```
 
 This creates:

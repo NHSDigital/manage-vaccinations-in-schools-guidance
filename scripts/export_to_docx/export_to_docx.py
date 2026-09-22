@@ -101,12 +101,14 @@ if __name__ == '__main__':
         description="Combine Markdown files (ordered by eleventy front matter) into a single DOCX document"
     )
     parser.add_argument(
-        "input_dir",
-        help="Directory containing Markdown (.md) files."
+        "--input_dir",
+        help="Directory containing Markdown (.md) files.",
+        default="../app/guide"
     )
     parser.add_argument(
-        "output_file",
-        help="Path to the output DOCX file (e.g. output.docx)."
+        "--output_file",
+        help="Path to the output DOCX file (e.g. output.docx).",
+        default="output.docx"
     )
     args = parser.parse_args()
     md_to_docx(args.input_dir, args.output_file)
