@@ -24,28 +24,23 @@ Screenshots of full pages should be taken on a Mac with the browser width set to
 
 Screenshots of page elements should have a margin of 40 device pixels (80px).
 
-## Syncing the live guide back to Google Docs
+## Syncing the live guide to Google Docs
 
 If the live Markdown guide has changed and the Google Doc needs to be updated to match it, use the `export_to_docx.py` script to generate a Word document from the Markdown files. You can then import the generated `.docx` file into Google Docs and copy the content into the canonical user guide document.
 
-### Setup
+### Generate DOCX files
 
-From the `scripts` directory, install the required Python version and activate the virtual environment:
+Move to the `scripts` folder:
 
 ```bash
 cd scripts
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
 ```
 
-### Generate DOCX files
-
-From the repository root, run:
+Then run:
 
 ```bash
-python scripts/export_to_docx/export_to_docx.py app/guide/ latest-guide.docx
-python scripts/export_to_docx/export_to_docx.py app/national-reporting/ latest-nr-guide.docx
+uv run export_to_docx/export_to_docx.py # Defaults to using `../app/guide`
+uv run export_to_docx/export_to_docx.py --input-dir app/national-reporting/ --output-dir latest-nr-guide.docx
 ```
 
 This creates:
