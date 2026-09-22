@@ -42,6 +42,10 @@ If you do not respond, you’ll get automatic reminders. Responding will stop re
 
 If you cannot use the online form, you can respond over the phone using the contact details below. Replies to this email cannot be accepted as consent.
 
+### Other vaccinations
+
+If your child is also due an MMR or MMRV vaccination, the vaccination team may contact you for consent.
+
 ### Your data
 
 By responding, you’re agreeing to your data being processed as set out in our privacy notice: ==team privacy notice link==.
