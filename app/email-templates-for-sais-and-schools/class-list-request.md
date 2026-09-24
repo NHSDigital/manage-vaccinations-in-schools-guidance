@@ -14,7 +14,7 @@ The information we need includes parent contact details. 'Parent' means someone 
 You need to send us the information in spreadsheet columns for every child:
 
 - First name
-- Surname
+- Last name
 - Registration group
 - Date of birth
 - Address postcode
