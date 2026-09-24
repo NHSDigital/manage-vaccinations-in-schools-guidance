@@ -12,7 +12,7 @@ Copy and edit the following email templates to suit your needs. You do not have 
 
 - [Request class lists from a school](class-list-request.md)
   Help a school send pupil information in the right format for uploading files into Mavis
-
+- [Ask a school to check parent contact details are correct for vaccinations](check-contact-details.md)
 - [Ask a school to check their details are up to date in Get Information about Schools (GIAS)](check-gias-request.md)
 - [Tell schools you’re changing the way you manage consent for vaccinations](changing-consent-process-for-schools.md)
   Let schools know you’ll be using Mavis to contact parents directly for vaccination consent and explain what information they’ll need to share with you in advance
