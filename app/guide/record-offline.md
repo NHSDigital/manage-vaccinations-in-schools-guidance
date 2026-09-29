@@ -57,7 +57,7 @@ When filling out the spreadsheet, you need to make sure you use accepted formats
 To view a list of accepted formats:
 
 1. Go to **Imports**.
-2. Click on **Upload records**.
+2. Select **Upload records**.
 3. Select **Vaccination records** and **Continue**.
 4. Open the link ‘How to format your CSV for vaccination records’.
 
@@ -83,7 +83,7 @@ Before uploading the spreadsheet, you first have to save a copy of the data from
 
 Then in Mavis:
 
-1. From the dashboard, go to **Import records** (or select **Imports** in the top navigation).
+1. Go to **Imports**.
 2. Select **Upload records**.
 
    ![Screenshot of Imports section.](/assets/images/imports.png)
@@ -107,14 +107,14 @@ To do this:
 3. Filter for **Vaccinated** children.
 4. Find the name of the child in the list and click on their name.
 5. On the child record, scroll down the page to find the vaccination record.
-6. Click on **Edit vaccination record**.
-7. Click on **Change** next to the existing vaccination method.
-8. Update the details of the method and click **Continue**.
-9. Review the change to the record and then click **Save changes**.
+6. Select **Edit vaccination record**.
+7. Select **Change** next to the existing vaccination method.
+8. Update the details of the method and **Continue**.
+9. Review the change to the record then select **Save changes**.
 
 ### Updating dose volume for flu (nasal spray)
 
-If a child refuses the second half of a nasal spray flu vaccination, you can record this as a half dose in Mavis. However, if you’re recording vaccinations offline, you cannot do this on the spreadsheet - instead, you’ll need to:
+If a child refuses the 2nd half of a nasal spray flu vaccination, you can record this as a half dose in Mavis. However, if you’re recording vaccinations offline, you cannot do this on the spreadsheet - instead, you’ll need to:
 
 1. Record the vaccination as a full dose on the offline spreadsheet.
 2. Make a note on the spreadsheet that only half the dose was given.
@@ -123,6 +123,6 @@ If a child refuses the second half of a nasal spray flu vaccination, you can rec
 To do this:
 
 1. Follow the steps described above to find and edit the child’s vaccination record (see steps 1 to 6 in ‘Updating subcutaneous vaccinations’).
-2. Click on **Change** next to the existing **Dose volume** shown in the vaccination details.
-3. Mavis will ask if the child got the full dose or a half dose. Select half dose then click **Continue**.
-4. Review the change to the record, then click **Save changes**.
+2. Select **Change** next to the existing **Dose volume** shown in the vaccination details.
+3. Mavis will ask if the child got the full dose or a half dose. Select half dose then **Continue**.
+4. Review the change to the record, then select **Save changes**.

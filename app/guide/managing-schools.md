@@ -62,7 +62,6 @@ To add a school site:
 When you name a school site, consider the following points:
 
 - each site name must be unique
-- site names appear in emails and text messages to parents, and the online consent form, so the name should be clear to parents
 - schools and sites are listed alphabetically in Mavis - if you want to see a school and its sites appear together, start each site name with the school name, for example, ‘Parkview School, Station Road site’
 
 ### Editing school sites
@@ -71,7 +70,7 @@ You can edit a site’s name and/or address, or the year groups it serves.
 
 1. Go to the **Team** tab.
 2. Select **Schools**.
-3. Find the site you need to amend and click **Edit**.
+3. Find the site you need to amend and select **Edit**.
 4. Make any changes you need to make then select **Continue**.
 5. Review the updated information and select **Save changes**.
 

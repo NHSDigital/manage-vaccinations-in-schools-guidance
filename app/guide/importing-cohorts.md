@@ -100,7 +100,7 @@ You can see whether your file was successfully uploaded by checking its status i
 
 ### Upload errors
 
-If there are validation issues, Mavis will not import the file. It will stay in the **Incomplete imports** list with its status marked as **Invalid**.
+If there are validation issues, Mavis will not import the file. It will stay in the **Incomplete uploads** list with its status marked as **Invalid**.
 
 To view the validation issues, select the file upload’s date and time.
 
