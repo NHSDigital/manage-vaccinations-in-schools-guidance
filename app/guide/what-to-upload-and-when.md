@@ -28,7 +28,7 @@ Upload records for all children in your cohort from the 1st year of Nursery to Y
 
 If your team gives flu vaccinations to nursery children, include children in the 1st and 2nd years of Nursery in your upload.
 
-You should also include young people in years 12 and 13 at special educational needs (SEN) schools who are in a clinical risk group.
+You should also include young people in Year 12 and above at special educational needs (SEN) schools who are in a clinical risk group.
 
 This adds all children in your area to Mavis, including the schools they attend.
 
