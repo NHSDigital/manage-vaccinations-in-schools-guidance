@@ -33,7 +33,7 @@ Upload records for:
 
 - all children from Reception (Year 0) to Year 11
 - nursery children, if your team vaccinates them
-- pupils in years 12 and 13 at special educational needs (SEN) schools who are in a clinical risk group
+- pupils in Year 12 and above at special educational needs (SEN) schools who are in a clinical risk group
 
 Include all children and young people, whether they have already been vaccinated or not.
 
@@ -44,16 +44,16 @@ If your team vaccinates nursery children for flu, upload records for children in
 - the 1st year of Nursery – enter -2 in the YEAR_GROUP field
 - the 2nd year of Nursery – enter -1 in the YEAR_GROUP field
 
-### Young people in years 12 and 13 at SEN schools
+### Young people in Year 12 and above at SEN schools
 
-At SEN schools, young people in years 12 and 13 who are also in a clinical risk group are eligible for flu vaccination alongside their peers.
+At SEN schools, young people in Year 12 and above who are in a clinical risk group are eligible for flu vaccination alongside their peers.
 
 When you upload a cohort list, use the CHILD_CLINICALLY_AT_RISK_FOR_FLU field to mark young people who are in a clinical risk group.
 
 This field defaults to no if you leave it blank.
 
 > [!NOTE]
-> If you previously uploaded records for young people now in years 12 or 13 at a SEN school, reupload the records of those who are in a clinical risk group and mark them as such.
+> If you previously uploaded records for young people now in Year 12 or above who are in a clinical risk group but did not mark them as such, reupload their records and mark them as being in a clinical risk group.
 
 You do not need to reupload records for young people who are not in a clinical risk group.
 
