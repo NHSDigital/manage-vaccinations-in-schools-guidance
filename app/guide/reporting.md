@@ -29,9 +29,11 @@ Child-level vaccination reports include detailed consent and vaccination data fo
 
 You can download data for the current academic year or a previous academic year.
 
-You’ll need to select a file format before downloading the report.
+You’ll need to select a file format before downloading the report. Options include:
 
-If your team, or the team you’re sharing the data with, uses SystmOne alongside Mavis, select **CSV for SystmOne (TPP)**. For more information, read [Sharing vaccination records between Mavis and SystmOne](sharing-vaccination-records-between-mavis-and-systmone.md).
+- standard CSV
+- CSV for SystmOne (TPP)
+- CSV for CarePlus (System C)
 
 ## Aggregate vaccination reports
 
