@@ -1,7 +1,7 @@
 ---
 title: Preparing for a new academic year
 theme: Managing cohorts
-order: 15
+order: 16
 eleventyComputed:
   eleventyNavigation:
     key: Preparing for a new school year
