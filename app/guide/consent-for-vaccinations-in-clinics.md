@@ -8,9 +8,13 @@ order: 70
 
 When they complete the clinic booking form, the parent can consent to the vaccinations they want their child to have. 
 
+![Screenshot of consent question.](/assets/images/clinics-do-you-consent.png)
+
 When consenting, they will need to confirm they have parental responsibility (or delegated authority if they're a foster carer) for the child.
 
 When a vaccination has different types (nasal spray, injection, or without gelatine), the parent can consent to the type.
+
+![Screenshot of Select the vaccinations to book question.](/assets/images/clinics-select-vaccinations-to-book.png)
 
 ## Booking an appointment for a parent
 
@@ -28,12 +32,14 @@ To record consent for additional vaccinations:
 2. Select the relevant vaccination programme tab.
 3. Select **Add to current clinic session**.
 
-4. In the child's session record, go to the relevant programme, select **Record a new consent response**. See recording a new consent response for the next steps.
+![Screenshot of Add to current clinic session button.](/assets/images/add-to-current-clinic-session.png)
+
+4. In the child's session record, go to the relevant programme, select **Record a new consent response**. See [recording a new consent response](/guide/add-or-remove-consent/#recording-a-new-consent-response/) for the next steps.
 
 ## Managing consent responses or contact details
 
 Find out how to:
 
-- update or remove consent manually  
-- check or manage consent responses, including conflicting consent
-- update or remove contact details
+- [update or remove consent manually](/guide/add-or-remove-consent/)
+- [check or manage consent responses](/guide/consent-responses/), including conflicting consent
+- [update or remove contact details](/guide/editing-cohorts/#editing-and-removing-contacts/)
