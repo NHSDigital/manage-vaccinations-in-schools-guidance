@@ -1,7 +1,7 @@
 ---
 title: Adding notes
 theme: Managing cohorts
-order: 12
+order: 13
 eleventyComputed:
   eleventyNavigation:
     key: Adding notes
