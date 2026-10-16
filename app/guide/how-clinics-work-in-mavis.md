@@ -21,5 +21,5 @@ Once a session is in place, you can:
 - view and edit appointments in the session
 - resolve unmatched appointments
 - cancel an appointment
-- add walk-ins to the session
+- add drop-ins to the session
 - record vaccinations given in the clinic
