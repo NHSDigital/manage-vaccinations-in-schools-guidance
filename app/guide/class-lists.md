@@ -6,7 +6,7 @@ order: 8
 
 [[toc]]
 
-Before a session takes place, you’ll need to get an up-to-date class list from the school and upload it to Mavis.
+Before parents are sent consent requests for a vaccination session, you’ll need to get an up-to-date class list from the school and upload it to Mavis.
 
 You can use our [school class list request email template]({{ "/email-templates-for-sais-and-schools/class-list-request" | absoluteUrl }}), if needed, when requesting this information from schools.
 
@@ -18,12 +18,21 @@ Uploading class lists:
 - adds parent contact details for children in the session, which Mavis uses to send consent requests
 - identifies children who have moved in our out of the school since you uploaded the cohort
 
+> [!NOTE]
+> When you upload a class list, Mavis only updates parent contact details for the children on that list. If a child has siblings, their parent contact details will not be updated. Each child's parent contact details are stored and updated separately.
+
 Make sure you upload class lists separately for each school. Each school can only have one class list.
 
 Before uploading a class list, read:
 
 - [what to upload and when](what-to-upload-and-when.md)
 - [preparing files for upload](preparing-files-for-upload.md)
+
+## When to upload a class list
+
+You should upload class lists at least 3 weeks before the session date, as this is when Mavis sends consent requests to parents.
+
+Find out more about [how Mavis handles parent contacts](how-Mavis-handles-parent-contacts.md).
 
 ## How to upload a class list
 

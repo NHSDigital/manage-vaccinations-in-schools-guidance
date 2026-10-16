@@ -4,6 +4,8 @@ theme: Managing cohorts
 order: 11
 ---
 
+[[toc]]
+
 Once cohort records have been imported into Mavis, you can view, edit and archive individual child records.
 
 ## Viewing child records
@@ -42,7 +44,12 @@ If you add a preferred name it will appear as (known as ...) beside their name i
 
 ![Screenshot of a summary card.](/assets/images/patient-summary-card.png)
 
-## Contacts
+## Parent contacts
+
+Mavis stores parent contact details separately for each child. If a parent is linked to more than one child, updating their details on one child's record will not change their details on the other children's records.
+
+You can add, edit or remove parent contacts directly in a child's record. These changes do not affect the child's other parent contacts.
+Parent contacts you add or edit manually may be archived when you next upload a class list or child records. Find out more about [how Mavis handles parent contacts](how-Mavis-handles-parent-contacts.md).
 
 ### Adding contacts
 
@@ -53,7 +60,7 @@ If you add a preferred name it will appear as (known as ...) beside their name i
 3. Select **Add a new contact**.
 4. Enter the new contact details and select **Add contact**.
 
-### Editing and removing contacts
+### Editing contacts
 
 To make changes to a contact:
 
@@ -61,6 +68,8 @@ To make changes to a contact:
 2. Search for the child by name and select **Contacts**.
 3. Select **Edit** on the contact card you need to update.
 4. Add or update the contact details and select **Save changes**.
+
+### Removing contacts
 
 To remove a contact:
 
