@@ -8,6 +8,8 @@ Clinic sessions can only be set up for clinics that have been added to Mavis.
 
 To add or edit a clinic, select **Team** in the Mavis navigation, then **Clinics**. 
 
+![Screenshot of Your team page.](/assets/images/adding-or-editing-a-clinic.png)
+
 ## Adding a clinic
 
 1. Select **Add a new clinic**.
