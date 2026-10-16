@@ -14,11 +14,9 @@ When consenting, they need to confirm they have parental responsibility (or dele
 
 When a vaccination has different types (for example, nasal spray or injection) the parent can consent to the type.
 
-![Screenshot of Select the vaccinations to book question.](/assets/images/clinics-select-vaccinations-to-book.png)
-
 ## Booking an appointment for a parent
 
-If you book an appointment on behalf of a parent and consent is not already in place, you must ask the parent if they consent. When you tick the box next to the relevant vaccination or vaccination type, the child's status in Mavis changes from **Needs consent** to **Due vaccination**. 
+If you book an appointment on behalf of a parent and consent is not already in place, you should ask the parent if they consent. When you tick the box next to the relevant vaccination or vaccination type, the child's status in Mavis changes from **Needs consent** to **Due vaccination**. 
 
 Later in the booking journey, you will be prompted to either select an existing contact from the child's record or enter details of a new contact who gave consent.
 
