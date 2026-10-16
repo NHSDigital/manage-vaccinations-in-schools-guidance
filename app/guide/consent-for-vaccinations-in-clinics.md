@@ -6,25 +6,25 @@ order: 70
 
 [[toc]]
 
-When they complete the clinic booking form, the parent can consent to the vaccinations they want their child to have. 
+When a parent completes the clinic booking form, they can consent to the vaccinations they want their child to have. 
 
 ![Screenshot of consent question.](/assets/images/clinics-do-you-consent.png)
 
-When consenting, they will need to confirm they have parental responsibility (or delegated authority if they're a foster carer) for the child.
+When consenting, they need to confirm they have parental responsibility (or delegated authority if they're a foster carer) for the child.
 
-When a vaccination has different types (nasal spray, injection, or without gelatine), the parent can consent to the type.
+When a vaccination has different types (for example, nasal spray or injection) the parent can consent to the type.
 
 ![Screenshot of Select the vaccinations to book question.](/assets/images/clinics-select-vaccinations-to-book.png)
 
 ## Booking an appointment for a parent
 
-If you book an appointment on behalf of a parent and consent is not already in place, you should ask the parent if they consent. When you tick the box next to the relevant vaccination or vaccination type, the child's status in Mavis changes from **Needs consent** to **Due vaccination**. 
+If you book an appointment on behalf of a parent and consent is not already in place, you must ask the parent if they consent. When you tick the box next to the relevant vaccination or vaccination type, the child's status in Mavis changes from **Needs consent** to **Due vaccination**. 
 
 Later in the booking journey, you will be prompted to either select an existing contact from the child's record or enter details of a new contact who gave consent.
 
 ## If a parent asks for additional vaccinations during an appointment
 
-During an appointment, if a parent wants their child to receive additional vaccinations to those that the child was invited for, they will need to give consent for those. 
+If a parent wants their child to receive additional vaccinations to those that the child was invited for, they will need to give consent for those. 
 
 To record consent for additional vaccinations:
 
