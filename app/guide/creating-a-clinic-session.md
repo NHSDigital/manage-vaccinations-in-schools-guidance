@@ -6,9 +6,7 @@ order: 65
 
 [[toc]]
 
-Before you create a session, the Mavis team needs to set up your team’s clinic locations. Contact england.mavis@nhs.net if you have questions about this.
-
-Once your locations are set up:
+Once your clinics are set up:
 
 1. From the Mavis dashboard, go to **Sessions**.
 2. Select **Add a new session**.
