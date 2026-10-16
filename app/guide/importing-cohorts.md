@@ -204,7 +204,7 @@ You’ll see the existing child record and the prompt:
 
 **Do you want to merge this record?**
 
-If you select **Yes**,  Mavis merges the records.
+If you select **Yes**, Mavis merges the records.
 
 ## Handling out-of-year-group children
 
