@@ -44,7 +44,7 @@ If you add a preferred name it will appear as (known as ...) beside their name i
 
 ![Screenshot of a summary card.](/assets/images/patient-summary-card.png)
 
-## Parent contacts
+## Adding, editing or removing parent contacts
 
 Mavis stores parent contact details separately for each child. If a parent is linked to more than one child, updating their details on one child's record will not change their details on the other children's records.
 

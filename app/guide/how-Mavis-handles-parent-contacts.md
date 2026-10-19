@@ -4,7 +4,7 @@ theme: Managing cohorts
 order: 12
 eleventyComputed:
   eleventyNavigation:
-    key: Parent contacts
+    key: How Mavis handles parent contacts
 ---
 
 [[toc]]
