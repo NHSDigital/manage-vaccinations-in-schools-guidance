@@ -4,9 +4,9 @@ theme: Managing consent
 order: 23
 ---
 
-Mavis automatically sends consent requests to parents (where consent is not already in place) 3 weeks before the scheduled session date, and reminders 1 week before. You can change these dates by editing the session – see [Editing sessions](/sessions/#editing-sessions).
+Mavis automatically sends consent requests to parents (where consent is not already in place) 3 weeks before the scheduled session date, and reminders 1 week before. You can change these dates by editing the session – see [Editing sessions](/guide/sessions/#editing-sessions).
 
-You can also send a consent reminder manually at any point before the session - see (Sending consent reminders manually)[Sending consent reminders manually](manage-consent-reminders.md).
+You can also send a consent reminder manually at any point before the session - see [Sending consent reminders manually](manage-consent-reminders.md).
 
 When parents complete the online consent form, Mavis automatically updates the child's consent status.
 
