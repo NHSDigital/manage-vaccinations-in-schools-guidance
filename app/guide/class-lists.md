@@ -138,10 +138,10 @@ If you add any missing NHS numbers to a cohort or class list, Mavis will automat
 
 If 2 records have very slight differences but one of them is missing an NHS number, you can edit that record and add the NHS number. This gives you the option to merge the records if the NHS numbers match. 
 
-Go to **Children**.
-Search for the child by name and select their record.
-Select **Edit child record**.
-Select **Change** on the NHS number row.
+1. Go to **Children**.
+2. Search for the child by name and select their record.
+3. Select **Edit child record**.
+4. Select **Change** on the NHS number row.
 
 You’ll see the existing child record and the prompt:
 
