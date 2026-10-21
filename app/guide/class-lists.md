@@ -132,6 +132,23 @@ If each record contains some correct information:
 > [!NOTE]
 > You can view all unresolved close matches in the **Issues tab** on the Imports screen. This lists outstanding close matches from all uploads.
 
+### Merging close matches by adding NHS number
+
+If you add any missing NHS numbers to a cohort or class list, Mavis will automatically resolve any duplicates where an NHS number was missing. 
+
+If 2 records have very slight differences but one of them is missing an NHS number, you can edit that record and add the NHS number. This gives you the option to merge the records if the NHS numbers match. 
+
+Go to **Children**.
+Search for the child by name and select their record.
+Select **Edit child record**.
+Select **Change** on the NHS number row.
+
+You’ll see the existing child record and the prompt:
+
+**Do you want to merge this record?**
+
+If you select **Yes**, Mavis merges the records.
+
 ## Handling out-of-year-group children
 
 {% include "fragments/out-of-year-group-children.md" %}
