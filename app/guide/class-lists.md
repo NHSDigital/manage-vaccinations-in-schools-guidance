@@ -134,7 +134,7 @@ If each record contains some correct information:
 
 ### Merging close matches by adding NHS number
 
-If you add any missing NHS numbers to a cohort or class list before a school session, Mavis will automatically resolve any duplicates where an NHS number was missing. 
+If you add any missing NHS numbers to a cohort or class list, Mavis will automatically resolve any duplicates where an NHS number was missing. 
 
 If 2 records have very slight differences but one of them is missing an NHS number, you can edit that record and add the NHS number. This gives you the option to merge the records if the NHS numbers match. 
 
