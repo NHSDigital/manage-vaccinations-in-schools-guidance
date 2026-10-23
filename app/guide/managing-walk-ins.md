@@ -1,5 +1,5 @@
 ---
-title: Managing walk-ins
+title: Managing drop-ins
 theme: Community clinics
 order: 73
 ---
