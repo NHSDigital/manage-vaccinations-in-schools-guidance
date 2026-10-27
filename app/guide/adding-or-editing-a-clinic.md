@@ -16,7 +16,7 @@ To add or edit a clinic, select **Team** in the Mavis navigation, then **Clinics
 > To record a home visit, do not add a new clinic. Record the child as already vaccinated instead. To do this, select **Children** in the Mavis navigation, then find the relevant child record. In the child record, select the tab for the vaccination programme. Select **Record as already vaccinated** at the top of the page and complete the remaining information.
 
 1. Select **Add a new clinic**.
-2. Enter the new clinic's name, address and ODS code (and CarePlus code if relevant).
+2. Enter the new clinic's details. The ODS and CarePlus codes are optional. 
 
 ### Duplicate clinics
 
