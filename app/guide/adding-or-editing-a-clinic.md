@@ -8,7 +8,7 @@ Clinic sessions can only be set up for clinics that have been added to Mavis.
 
 To add or edit a clinic, select **Team** in the Mavis navigation, then **Clinics**. 
 
-![Screenshot of Your team page.](/assets/images/adding-or-editing-a-clinic.png)
+![Screenshot of Your team page.](/assets/images/add-or-edit-a-clinic.png)
 
 > [!NOTE]
 > To record a home visit, do not add a new clinic. Record the child as already vaccinated instead. To do this, select **Children** in the Mavis navigation, then find the relevant child record. In the child record, select the tab for the vaccination programme. Select **Record as already vaccinated** at the top of the page and complete the remaining information.
