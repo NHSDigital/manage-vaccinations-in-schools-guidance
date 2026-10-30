@@ -15,7 +15,7 @@ To see if any children have moved out of your area:
 1. Go to **Review** in the main navigation.
 2. Select **Movers out**.
 
-![Screenshot of page showing children who have moved school out of SAIS team area.](/assets/images/movers-out.png 'Mavis shows a list of all the children who have moved out of SAIS team area.')
+![Screenshot of page showing children who have moved school out of SAIS team area.](/assets/images/review-movers-out.png 'Mavis shows a list of all the children who have moved out of SAIS team area.')
 
 ## Dismissing movers out
 
