@@ -48,7 +48,7 @@ The parent will automatically receive a consent refusal notification.
 
 ## Marking a consent response as invalid
 
-You should only mark a consent response as invalid if you have established that the person who responded does not have parental responsibility.
+You should only mark a consent response as invalid if you have confirmed that it should no longer be used.
 
 1. Verify that the consent response was recorded from someone who did not have authority to consent.
 2. Go to **Sessions**. Find the session you’re interested in and select it.
