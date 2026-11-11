@@ -26,6 +26,23 @@ This includes the child’s vaccination record, any sessions they’ve been adde
 
 ![Screenshot of a programme tab of a child record.](/assets/images/patient-programme.png)
 
+## Checking for updated vaccination records
+
+Mavis checks for vaccinations recorded by GP practices and other healthcare services at least every 28 days. In the run-up to - and during - school vaccination sessions, these checks happen every day.
+
+If you need to check for the most recent updates, you can do this manually.
+
+If you are a superuser with activity code B0062 you can trigger an automatic search to check for updated vaccination records.
+
+1. Go to the child record.
+2. On the vaccination programmes card, select **Check for updates now**.
+
+![Screenshot of a vaccination programmes card.](/assets/images/check-for-updates-button.png)
+
+3. Mavis will check for any updated records. You may need to wait a minute and refresh the page to see any updates.
+
+If you do not have activity code B0062 you can ask a superuser in your team to check the record for updates.
+
 ## Editing child records
 
 1. Go to **Children**.
