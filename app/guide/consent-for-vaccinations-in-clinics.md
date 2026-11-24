@@ -36,8 +36,9 @@ To record consent for additional vaccinations:
 
 ## Managing consent responses or contact details
 
+It is not currently possible to withdraw consent or mark it as invalid in clinic bookings. If a parent wishes to withdraw consent, or if you need to invalidate a consent response, simply cancel the appointment.
+
 Find out how to:
 
-- [update or remove consent manually](/guide/add-or-remove-consent/)
 - [check or manage consent responses](/guide/consent-responses/), including conflicting consent
 - [update or remove contact details](/guide/editing-cohorts/#editing-and-removing-contacts/)
