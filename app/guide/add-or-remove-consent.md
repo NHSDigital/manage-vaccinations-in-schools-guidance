@@ -4,6 +4,8 @@ theme: Managing consent
 order: 28
 ---
 
+[[toc]]
+
 ## Recording a new consent response
 
 If you get a new consent response, for example, through a paper form, or verbally through a phone call, you can record this in Mavis.
